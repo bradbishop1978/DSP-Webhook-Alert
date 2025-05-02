@@ -14,8 +14,7 @@ st.set_page_config(
     layout="wide"
 )
 
-# Use the GitHub raw content URL instead of the blob URL
-# This is the correct way to access raw files from GitHub
+# Use the GitHub raw content URL
 CSV_URL = "https://raw.githubusercontent.com/bradbishop1978/DSP-Webhook-Alert/main/dsp_alert_report.csv"
 REFRESH_INTERVAL = 10 * 60  # 10 minutes in seconds
 STATUS_OPTIONS = ["", "Dormant", "Inactive", "Endorsed", "Fixed"]
@@ -80,14 +79,11 @@ if st.sidebar.button("Refresh Now"):
 # Create the dashboard
 st.write(f"Total stores: {len(data)}")
 
-# Create a container for the table
-table_container = st.container()
-
 # Determine the correct column names
-# Let's check if we can find the store ID column
 id_column = None
 name_column = None
 company_column = None
+inactive_dsp_column = None
 
 # Try to find columns by common patterns
 for col in data.columns:
@@ -98,6 +94,8 @@ for col in data.columns:
         name_column = col
     elif 'company' in col_lower or 'business' in col_lower:
         company_column = col
+    elif 'inactive' in col_lower and ('dsp' in col_lower or 'delivery' in col_lower):
+        inactive_dsp_column = col
 
 # If we couldn't find the columns, use the first column as ID and second as name
 if id_column is None and len(data.columns) > 0:
@@ -111,6 +109,16 @@ if name_column is None and len(data.columns) > 1:
 if company_column is None and len(data.columns) > 2:
     company_column = data.columns[2]
     st.warning(f"Could not find a company name column. Using '{company_column}' instead.")
+
+# Look specifically for inactive_dsps column
+if inactive_dsp_column is None:
+    for col in data.columns:
+        if col.lower() == 'inactive_dsps' or col.lower() == 'inactive_dsp':
+            inactive_dsp_column = col
+            break
+
+if inactive_dsp_column is None:
+    st.warning("Could not find an inactive DSP column. This information will not be displayed.")
 
 # Create a form for the status dropdowns
 with st.form("store_status_form"):
@@ -127,7 +135,15 @@ with st.form("store_status_form"):
         col1, col2, col3, col4 = st.columns([2, 3, 3, 2])
         
         with col1:
-            st.write(f"{index + 1}. ID: {store_id[:8]}...")
+            # Show inactive DSPs instead of store ID
+            if inactive_dsp_column and inactive_dsp_column in data.columns:
+                inactive_dsps = row[inactive_dsp_column]
+                # Handle empty or NaN values
+                if pd.isna(inactive_dsps) or inactive_dsps == "":
+                    inactive_dsps = "None"
+                st.write(f"{index + 1}. **Inactive DSPs**: {inactive_dsps}")
+            else:
+                st.write(f"{index + 1}. **Inactive DSPs**: N/A")
         
         with col2:
             # Display company name if available
@@ -182,14 +198,37 @@ status_filter = st.sidebar.multiselect(
     options=STATUS_OPTIONS[1:],  # Exclude empty option
 )
 
-# Apply filters if any are selected
+# Add filter for inactive DSPs if the column exists
+if inactive_dsp_column and inactive_dsp_column in data.columns:
+    # Get unique values from the inactive_dsp column
+    unique_dsps = set()
+    for dsps in data[inactive_dsp_column].dropna():
+        if isinstance(dsps, str):
+            for dsp in dsps.split(','):
+                unique_dsps.add(dsp.strip())
+    
+    if unique_dsps:
+        dsp_filter = st.sidebar.multiselect(
+            "Filter by Inactive DSP",
+            options=sorted(list(unique_dsps))
+        )
+        
+        # Apply DSP filter
+        if dsp_filter:
+            filtered_data = data.copy()
+            filtered_data = filtered_data[filtered_data[inactive_dsp_column].apply(
+                lambda x: any(dsp.strip() in str(x).split(',') for dsp in dsp_filter) if pd.notna(x) else False
+            )]
+            st.sidebar.write(f"Showing {len(filtered_data)} stores with selected inactive DSPs")
+
+# Apply status filter
 if status_filter:
     filtered_indices = [i for i, row in data.iterrows() 
                        if st.session_state.status_data.get(str(row[id_column]) if id_column in data.columns else str(i), "") in status_filter]
     
     if filtered_indices:
         filtered_data = data.iloc[filtered_indices]
-        st.sidebar.write(f"Showing {len(filtered_data)} of {len(data)} stores")
+        st.sidebar.write(f"Showing {len(filtered_data)} of {len(data)} stores with selected status")
         
         # Display filtered data
         st.subheader("Filtered Stores")
