@@ -9,7 +9,7 @@ from datetime import datetime
 
 # Set page config
 st.set_page_config(
-    page_title="Store Management Dashboard",
+    page_title="DSP Status Monitoring",
     page_icon="🏪",
     layout="wide"
 )
