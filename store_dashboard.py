@@ -1,5 +1,7 @@
 import streamlit as st
 import pandas as pd
+import requests
+import io
 import time
 import json
 import os
@@ -21,7 +23,21 @@ PERSISTENCE_FILE = "status_persistence.json"
 # Function to load the CSV data
 @st.cache_data(ttl=REFRESH_INTERVAL)
 def load_data():
-    return pd.read_csv(CSV_URL)
+    try:
+        # Download the file using requests
+        response = requests.get(CSV_URL)
+        response.raise_for_status()  # Raise an exception for HTTP errors
+        
+        # Read the CSV from the response content
+        return pd.read_csv(io.StringIO(response.text), on_bad_lines='skip')
+    except Exception as e:
+        st.error(f"Error loading data: {str(e)}")
+        # Return an empty DataFrame with the expected columns as a fallback
+        return pd.DataFrame(columns=[
+            'store_id', 'company_name', 'store_name', 'store_hours', 
+            'inactive_dsps', 'ubereats_status', 'ubereats_since',
+            'doordash_status', 'doordash_since', 'grubhub_status', 'grubhub_since'
+        ])
 
 # Function to load persisted status data
 def load_status_data():
