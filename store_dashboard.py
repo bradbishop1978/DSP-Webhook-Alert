@@ -24,9 +24,9 @@ PERSISTENCE_FILE = "status_persistence.json"
 @st.cache_data(ttl=REFRESH_INTERVAL)
 def load_data():
     try:
-        # Download the file using requests
+        # Download the file using requests to handle URL encoding issues
         response = requests.get(CSV_URL)
-        response.raise_for_status()  # Raise an exception for HTTP errors
+        response.raise_for_status()
         
         # Read the CSV from the response content
         return pd.read_csv(io.StringIO(response.text), on_bad_lines='skip')
@@ -68,7 +68,8 @@ st.sidebar.write("Data refreshes automatically every 10 minutes")
 # Add a manual refresh button
 if st.sidebar.button("Refresh Now"):
     st.cache_data.clear()
-    st.experimental_rerun()
+    # Use st.rerun() instead of st.experimental_rerun()
+    st.rerun()
 
 # Create the dashboard
 st.write(f"Total stores: {len(data)}")
@@ -135,15 +136,17 @@ with st.form("store_status_form"):
         save_status_data(st.session_state.status_data)
         st.success("Status changes saved successfully!")
 
-# Auto-refresh functionality
-def auto_refresh():
-    time.sleep(REFRESH_INTERVAL)
-    st.experimental_rerun()
+# Auto-refresh functionality using a safer approach
+if 'last_refresh_time' not in st.session_state:
+    st.session_state.last_refresh_time = time.time()
 
-# Start the auto-refresh in a separate thread
-if not st.session_state.get('auto_refresh_started', False):
-    st.session_state.auto_refresh_started = True
-    st.write("Auto-refresh is active. Dashboard will update every 10 minutes.")
+# Check if it's time to refresh
+current_time = time.time()
+if current_time - st.session_state.last_refresh_time > REFRESH_INTERVAL:
+    st.session_state.last_refresh_time = current_time
+    st.cache_data.clear()
+    # Use st.rerun() instead of st.experimental_rerun()
+    st.rerun()
 
 # Add filters in the sidebar
 st.sidebar.header("Filters")
