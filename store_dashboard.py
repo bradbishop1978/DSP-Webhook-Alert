@@ -57,7 +57,7 @@ if 'status_data' not in st.session_state:
     st.session_state.status_data = load_status_data()
 
 # Main dashboard
-st.title("Store Management Dashboard")
+st.title("DSP Status Monitoring")
 
 # Load the data
 data = load_data()
