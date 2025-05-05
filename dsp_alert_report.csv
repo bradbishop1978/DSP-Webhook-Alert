@@ -1,80 +1,851 @@
 store_id,company_name,store_name,store_hours,inactive_dsps,ubereats_status,ubereats_since,doordash_status,doordash_since,grubhub_status,grubhub_since
+e0a022b8-adcb-4412-b94f-fd3de754bd03,130 Food Marts,130 Food Marts,05:00 AM - 09:00 PM EST,"UberEats, DoorDash",Inactive,07/26/2024 14:53,Inactive,07/26/2024 14:53,Not Connected,
+e9646947-67e3-4b85-a881-5c7ac93a2852,Park & Gratiot Marathon,15 Mile & Groesbeck Mobil,07:00 AM - 11:00 PM EDT,"UberEats, DoorDash, GrubHub",Inactive,02/17/2025 12:14,Inactive,03/28/2025 14:53,Inactive,03/28/2025 14:53
+1eabc3b8-fd96-4871-a631-927c0a6af0e1,Park & Gratiot Marathon,23 & Baker BP,05:00 AM - 11:30 PM EDT,UberEats,Inactive,02/17/2025 12:14,Not Connected,,Not Connected,
+fdfe3f56-a1e1-4755-9f4a-ec1d398a38d3,NJISA LLC (24 Express),24 Express,06:15 AM - 11:45 PM EST,"UberEats, DoorDash, GrubHub",Inactive,02/07/2025 09:43,Inactive,02/07/2025 09:43,Inactive,02/07/2025 09:43
+5aa55d59-fcb6-45c0-83d6-617e8d6e0854,Azan Petro,260 BP,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,03/19/2025 06:00,Inactive,03/19/2025 13:22,Not Connected,
+361a0a6a-ff30-4cdf-bdc9-3112ee7f8fa5,Azan Petro,301 Travel Plaza,Closed today,"UberEats, DoorDash",Inactive,11/20/2024 08:15,Inactive,11/20/2024 07:44,Not Connected,
+a3e129e6-3a1c-4875-b527-7b7208b0c6e2,THE 3RD AVENUE SHELL-EXPRESS M,5 Points West Market Mobil,12:00 AM - 11:59 PM CST,"UberEats, DoorDash",Inactive,11/13/2024 19:12,Inactive,11/13/2024 19:12,Not Connected,
+68dc8ecf-4da5-481c-9c1d-0a5d0372337e,607 S Philadelphia Inc,Aberdeen Sunoco,Closed today,"UberEats, DoorDash, GrubHub",Inactive,07/29/2024 06:54,Inactive,07/29/2024 06:54,Inactive,07/29/2024 06:54
+6dd7da32-980a-4606-9169-c3eb93d283dc,Ace Liquor,Ace Liquor,06:00 AM - 08:00 PM EST,"UberEats, DoorDash",Inactive,09/20/2024 12:41,Inactive,09/20/2024 12:41,Not Connected,
+5202896b-9841-4423-ab07-f4bda84c7f72,Albaraka Market,Al Baraka Market,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,10/09/2024 10:36,Inactive,10/09/2024 10:36,Inactive,10/09/2024 10:36
+fea16caa-7ed9-4bee-a702-52a66795cd60,SMC Fuels - 6 stores,Aldan Sunoco,07:00 AM - 10:00 PM EST,UberEats,Inactive,01/23/2025 11:04,Not Connected,,Not Connected,
+6a86733f-0084-4212-af80-631a3f4c9e1f,Ali's Sunoco,Ali's Sunoco Home of Delicious Gyro and Chicago Corn Beef Reuben,07:00 AM - 11:00 PM EST,"DoorDash, GrubHub",Not Connected,,Inactive,10/17/2024 06:20,Inactive,10/17/2024 06:20
+f4bb4255-0b5f-4b88-8c44-d21aa4df13ec,Marathon (Central Ohio),Ameristop Waynesville,06:00 AM - 11:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,09/16/2024 13:28,Inactive,09/16/2024 13:28,Inactive,09/16/2024 13:28
+374dfb7e-ab6e-4c36-820d-ffbee3730a4d,Anderson Convenience Market,Anderson Convenience Market #114,12:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,11/12/2024 06:58,Inactive,11/12/2024 06:58,Inactive,11/12/2024 06:58
+df0fedc9-572d-4c2a-8a82-5514579900ae,Anderson Convenience Market,Anderson Convenience Market #120,12:00 AM - 11:59 PM CST,UberEats,Inactive,01/23/2025 10:59,Not Connected,,Not Connected,
+14f62c58-8a25-458d-b1c8-d96b04727334,Anderson Convenience Market,Anderson Convenience Market #156,05:00 AM - 10:30 PM CST,"UberEats, DoorDash, GrubHub",Inactive,01/23/2025 11:01,Inactive,03/25/2025 16:06,Inactive,03/25/2025 16:06
+d7ba2699-a8f4-4d1e-95c4-4fcce773e37f,Anderson Convenience Market,Anderson Convenience Market #168,05:00 AM - 11:00 PM CST,UberEats,Inactive,01/23/2025 11:06,Not Connected,,Not Connected,
+a4084ec1-de93-4d1f-acdb-72520dcfaadb,Anderson Convenience Market,Anderson Convenience Market #180,05:00 AM - 11:00 PM CST,"UberEats, DoorDash, GrubHub",Inactive,01/23/2025 11:04,Inactive,03/25/2025 16:06,Inactive,03/25/2025 16:06
+c0dd7d2a-97d4-4d57-88fc-31a671c04f88,Anne’s Place,Anne's Place,08:00 AM - 08:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,01/23/2025 10:59,Inactive,03/12/2025 15:52,Inactive,03/12/2025 15:52
+8a1f0130-2fc5-4c42-851f-bd58c0757846,,Annes Place,07:00 AM - 10:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,12/17/2024 13:14,Inactive,12/17/2024 13:14,Inactive,12/17/2024 13:14
+57327e13-a130-47e1-96ed-00e077078174,NSR Petro,Arena Dr Sunoco,Closed today,UberEats,Inactive,05/04/2025 00:31,Not Connected,,Not Connected,
+d539701f-1fda-4733-915c-f163359e6896,Lula Commerce 1,A.ROSE CANDY,06:00 AM - 10:00 PM EST,GrubHub,Not Connected,,Not Connected,,Inactive,03/12/2025 10:34
+4c8c7e55-e62c-4d70-93b7-0bf70715bede,Atlantis Management Group,Atlantis Beer Wine & Spirits #70001,12:00 AM - 11:59 PM EST,UberEats,Inactive,08/15/2024 14:03,Active,04/30/2025 19:53,Not Connected,
+e0233d23-fc68-4460-9070-f6789a3e97a9,Atlantis Management Group,Atlantis Beer Wine & Spirits #70002,10:00 AM - 09:00 PM EST,UberEats,Inactive,08/15/2024 14:03,Active,04/30/2025 13:26,Not Connected,
+6962c1d2-536a-4010-8963-49fb8a9da5d6,Atlantis Management Group,Atlantis Fresh Market #103,05:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/14/2024 07:40,Inactive,04/23/2025 07:17,Inactive,04/23/2025 07:17
+c02c3e08-c7a9-49c5-a69a-e3e83556fbcf,Atlantis Management Group,Atlantis Fresh Market #108,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/14/2024 08:58,Inactive,04/23/2025 07:16,Not Connected,
+2213b85c-a3ac-45d7-b874-4145ae17fc87,Atlantis Management Group,Atlantis Fresh Market #109,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/14/2024 09:10,Active,05/01/2025 01:30,Not Connected,
 f7e2bacb-bfde-437b-8344-33d52fa93ed0,Atlantis Management Group,Atlantis Fresh Market #118,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/14/2024 09:12,Active,04/23/2025 12:43,Active,04/09/2025 13:25
+311af385-2cc7-4e53-81dd-b3cb581d2290,Atlantis Management Group,Atlantis Fresh Market #123,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/22/2024 07:44,Inactive,11/22/2024 07:44,Inactive,12/03/2024 04:56
+41124b1c-6602-4153-9f58-b169b6906eef,Atlantis Management Group,Atlantis Fresh Market #126,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 07:45,Inactive,11/22/2024 07:45,Not Connected,
+2ba4642b-ae8c-42e9-938f-5204c5024e5c,Atlantis Management Group,Atlantis Fresh Market #127,06:00 AM - 11:30 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 07:45,Inactive,04/04/2025 10:02,Not Connected,
+da42ab42-465e-4e14-bce6-759cd94de685,Atlantis Management Group,Atlantis Fresh Market #129,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/22/2024 07:46,Active,04/25/2025 15:40,Active,04/25/2025 15:40
+b6a28b5f-857f-4175-bad0-ca40cc4eb5fa,Atlantis Management Group,Atlantis Fresh Market #130,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/22/2024 07:46,Inactive,11/22/2024 07:47,Inactive,12/03/2024 05:00
+bf7a89c1-0e80-4b1e-b18a-fdbd3bfa9ba6,Atlantis Management Group,Atlantis Fresh Market #141,12:00 AM - 11:59 PM EST,"UberEats, GrubHub",Inactive,11/22/2024 07:47,Active,04/28/2025 15:09,Inactive,12/03/2024 05:02
+7f2795c8-c608-4f80-813d-a54f4d86f891,Atlantis Management Group,Atlantis Fresh Market #149,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 07:48,Inactive,11/22/2024 07:48,Not Connected,
 20407212-3020-4a7c-a42d-c263fa6eeb97,Atlantis Management Group,Atlantis Fresh Market #156,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 07:49,Inactive,11/22/2024 07:49,Not Connected,
+78b5acab-d2fa-40ed-aab5-dab920a5ce86,Atlantis Management Group,Atlantis Fresh Market #159,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/22/2024 07:49,Inactive,11/22/2024 07:49,Inactive,12/03/2024 04:55
+29eb247e-5a1a-4d9e-a8d5-8f778196a0e3,Atlantis Management Group,Atlantis Fresh Market #160,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 07:50,Inactive,11/22/2024 07:50,Not Connected,
+416f9dc9-afb0-41bf-b1b1-0dcac4ca139f,Atlantis Management Group,Atlantis Fresh Market #167,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/22/2024 07:51,Active,05/05/2025 09:54,Not Connected,
+bf8d3d98-fdde-4f87-9de2-67f059c1c719,Atlantis Management Group,Atlantis Fresh Market #168,05:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 07:51,Inactive,11/22/2024 07:51,Not Connected,
+5126a67d-df73-4a45-bcb9-d2d5eb3dd401,Atlantis Management Group,Atlantis Fresh Market #169,06:00 AM - 10:00 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 07:52,Inactive,11/22/2024 07:52,Not Connected,
+6923e212-0914-4ca8-a256-d4eafc4a76bb,Atlantis Management Group,Atlantis Fresh Market #170,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/22/2024 07:53,Inactive,11/22/2024 07:53,Inactive,12/03/2024 05:02
 f607f583-6e4a-45bb-82fb-c89df1a06edf,Atlantis Management Group,Atlantis Fresh Market #174,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/22/2024 07:53,Active,04/23/2025 12:43,Active,04/10/2025 11:25
+1db545be-be41-4331-97fe-9778b0b814fa,Atlantis Management Group,Atlantis Fresh Market #181,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/22/2024 07:54,Inactive,11/22/2024 07:54,Inactive,12/03/2024 04:58
+09e85fa0-7c83-43e3-affa-a80569bf88d4,Atlantis Management Group,Atlantis Fresh Market #182,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/22/2024 07:54,Inactive,11/22/2024 07:54,Inactive,12/03/2024 05:03
+31a06ac5-a88f-4989-949c-e880b674cee5,Atlantis Management Group,Atlantis Fresh Market #183,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/22/2024 07:55,Inactive,11/22/2024 07:55,Inactive,12/03/2024 05:02
+56bb0912-804b-4464-affa-1a6b6e233d99,Atlantis Management Group,Atlantis Fresh Market #184,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/22/2024 07:55,Inactive,11/22/2024 07:55,Inactive,12/03/2024 05:04
+28f3b756-85df-44f3-895c-5894d641500b,Atlantis Management Group,Atlantis Fresh Market #185,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/22/2024 07:56,Inactive,11/22/2024 07:56,Inactive,12/03/2024 05:00
+2a930b50-466c-4a9e-80a4-18506450381c,Atlantis Management Group,Atlantis Fresh Market #186,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/22/2024 07:57,Inactive,11/22/2024 07:57,Inactive,12/03/2024 04:55
 66a61f8f-da34-4c0d-981c-ac02e1fd230e,Atlantis Management Group,Atlantis Fresh Market #190,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/22/2024 08:00,Active,04/23/2025 12:43,Active,04/15/2025 13:54
+a5159152-d211-4b9a-a47a-2ea18232621d,Atlantis Management Group,Atlantis Fresh Market #192,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/22/2024 08:01,Active,04/23/2025 10:51,Active,04/16/2025 10:35
+2dc897e5-bf51-426a-921e-60e678de3acf,Atlantis Management Group,Atlantis Fresh Market #194,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:01,Inactive,04/23/2025 09:10,Not Connected,
+b1d7409f-5706-4424-b518-0a4431e5bbac,Atlantis Management Group,Atlantis Fresh Market #195,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:02,Inactive,04/09/2025 09:11,Not Connected,
+e9779eb9-2549-40a1-ba4c-9b8a6253d105,Atlantis Management Group,Atlantis Fresh Market  #2,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/07/2024 14:17,Inactive,11/15/2024 12:10,Inactive,12/03/2024 05:00
 776c1128-f8ab-49ac-b46d-deee32f1b984,Atlantis Management Group,Atlantis Fresh Market #23,12:00 AM - 11:59 PM EST,GrubHub,Active,01/09/2025 02:14,Active,04/22/2025 16:56,Inactive,08/15/2024 14:02
+ae976acc-0ae6-4fef-adab-6c88ded8392d,Atlantis Management Group,Atlantis Fresh Market #25,12:00 AM - 11:59 PM EST,"UberEats, GrubHub",Inactive,11/22/2024 08:03,Active,05/02/2025 12:17,Inactive,12/03/2024 05:01
+8550e70c-3612-4f12-b2f1-c0a40233747c,Atlantis Management Group,Atlantis Fresh Market #502,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/22/2024 08:05,Active,04/23/2025 10:52,Active,05/02/2025 12:17
+b2b46972-0d53-4b7c-b8d6-8e4931a520e9,Atlantis Management Group,Atlantis Fresh Market #503,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:06,Inactive,11/22/2024 08:06,Not Connected,
+c61deb7d-00de-4502-b86c-bce66de4a1fc,Atlantis Management Group,Atlantis Fresh Market #504,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:06,Inactive,11/22/2024 08:06,Not Connected,
+ac47ec55-e742-4168-b4f8-5d57956059b9,Atlantis Management Group,Atlantis Fresh Market #506,05:30 AM - 10:00 PM EST,UberEats,Inactive,11/22/2024 08:07,Active,04/29/2025 11:39,Not Connected,
+9aa70532-6ddb-461a-911d-492a1296ee07,Atlantis Management Group,Atlantis Fresh Market #507,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:07,Inactive,11/22/2024 08:07,Not Connected,
+18f97d87-6efa-44b3-bcb5-3dc0351d6059,Atlantis Management Group,Atlantis Fresh Market #509,06:00 AM - 10:00 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:09,Inactive,11/22/2024 08:09,Not Connected,
+c763e8fb-959d-46e3-8253-6f9c36b7270b,Atlantis Management Group,Atlantis Fresh Market #510,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/22/2024 08:09,Active,04/25/2025 09:56,Active,05/02/2025 12:17
 5c3dd9bc-1204-4974-b16e-ba147eaeaf0d,Atlantis Management Group,Atlantis Fresh Market #511,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/22/2024 08:10,Active,04/23/2025 10:52,Active,05/02/2025 12:17
+88981567-9d10-4290-9640-800ad6c5d89e,Atlantis Management Group,Atlantis Fresh Market #516,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:12,Inactive,11/22/2024 08:12,Not Connected,
+68bf3953-6878-4379-84f9-76bc969c2b46,Atlantis Management Group,Atlantis Fresh Market #517,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:12,Inactive,11/22/2024 08:12,Not Connected,
+dcb3bcf0-274a-473f-a89a-bee4caad38c7,Atlantis Management Group,Atlantis Fresh Market #521,12:00 AM - 11:59 PM EST,UberEats,Inactive,03/12/2025 13:20,Active,05/03/2025 08:54,Active,04/04/2025 11:19
+015c2695-ffb1-4d8d-b057-037b3887f991,Atlantis Management Group,Atlantis Fresh Market #522,06:00 AM - 10:00 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:19,Inactive,11/22/2024 08:20,Not Connected,
+7a6cbd6b-4fd7-492d-aaaf-3744513556bf,Atlantis Management Group,Atlantis Fresh Market #525,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:21,Inactive,11/22/2024 08:21,Not Connected,
 992afe64-283b-446b-a890-1a55e3c34b80,Atlantis Management Group,Atlantis Fresh Market #527,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/22/2024 08:21,Active,04/23/2025 20:56,Active,05/02/2025 12:17
+f4a7fa29-f47f-49eb-bbde-8d24295ecf72,Atlantis Management Group,Atlantis Fresh Market #528,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:22,Inactive,11/22/2024 08:22,Not Connected,
+cb4859a1-0651-40a2-8f51-3c97b5b735bd,Atlantis Management Group,Atlantis Fresh Market #534,05:30 AM - 10:00 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:23,Inactive,11/22/2024 08:23,Not Connected,
+29eb5909-43fb-4f3c-979c-47eaffb584c6,Atlantis Management Group,Atlantis Fresh Market #536,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:24,Inactive,11/22/2024 08:24,Not Connected,
 be0a4df3-7289-4290-ad40-008400438df8,Atlantis Management Group,Atlantis Fresh Market #54,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/22/2024 08:24,Active,04/23/2025 12:43,Active,04/15/2025 13:47
+0ce3dc18-bafd-444d-bc8f-f1f2b71bfbed,Atlantis Management Group,Atlantis Fresh Market #541,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:25,Inactive,11/22/2024 08:26,Not Connected,
+905aefae-eef1-4097-b083-aff8c917f35d,Atlantis Management Group,Atlantis Fresh Market #542,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:26,Inactive,11/22/2024 08:26,Not Connected,
+adae0436-bcf2-434a-a1e6-9df3153a0c84,Atlantis Management Group,Atlantis Fresh Market #543,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:27,Inactive,11/22/2024 08:27,Not Connected,
+b4a50af7-8afc-4e76-a0bd-0b6bd96fb0b0,Atlantis Management Group,Atlantis Fresh Market #548,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:27,Inactive,11/22/2024 08:28,Not Connected,
+60944de9-9e1a-4caa-8f2c-c628d4207924,Atlantis Management Group,Atlantis Fresh Market #550,05:00 AM - 10:00 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:29,Inactive,11/22/2024 08:29,Not Connected,
+a8716621-b40d-4f80-a7a3-6f4c521a3210,Atlantis Management Group,Atlantis Fresh Market #551,06:00 AM - 08:00 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:29,Inactive,11/22/2024 08:29,Not Connected,
+d4570bcd-df92-4b95-9757-f088288d93cd,Atlantis Management Group,Atlantis Fresh Market #553,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/22/2024 08:30,Active,05/02/2025 12:07,Not Connected,
+1619f00c-06e1-47a8-9ec1-f265f7cea23b,Atlantis Management Group,Atlantis Fresh Market #561,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:30,Inactive,11/22/2024 08:31,Not Connected,
+af655ff2-473f-47a8-81c9-cf1699ad3df7,Atlantis Management Group,Atlantis Fresh Market #562,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:31,Inactive,11/22/2024 08:31,Not Connected,
+65db8d26-c05e-4985-80ac-0a53952c2956,Atlantis Management Group,Atlantis Fresh Market #564,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:33,Inactive,11/22/2024 08:33,Not Connected,
+7cf89982-8727-4323-84ff-1b571e2853e9,Atlantis Management Group,Atlantis Fresh Market #565,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:33,Inactive,11/22/2024 08:33,Not Connected,
+1f55bd95-7a3f-40a1-8135-17e113354e53,Atlantis Management Group,Atlantis Fresh Market #566,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:34,Inactive,11/22/2024 08:34,Not Connected,
+2a05f2e5-72fd-4cef-b543-49d85ea6eebd,Atlantis Management Group,Atlantis Fresh Market #567,05:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:34,Inactive,11/22/2024 08:35,Not Connected,
+d97af0a5-fd6b-4815-9667-01dc663c65ed,Atlantis Management Group,Atlantis Fresh Market #6066,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:35,Inactive,11/22/2024 08:35,Not Connected,
 c6fdf182-c181-4041-9178-45c28df96835,Atlantis Management Group,Atlantis Fresh Market #73,12:00 AM - 11:59 PM EST,UberEats,Inactive,04/30/2025 00:20,Active,04/23/2025 10:49,Active,04/10/2025 14:46
 deda5ca3-a86f-4164-848b-f68f8844341c,Atlantis Management Group,Atlantis Fresh Market #74,12:00 AM - 11:59 PM EST,UberEats,Inactive,05/04/2025 06:00,Active,04/19/2025 19:08,Active,03/13/2025 09:26
+50bf0f80-26f1-4ef4-985c-cee25736e5f4,Atlantis Management Group,Atlantis Fresh Market #75,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:38,Inactive,04/22/2025 08:47,Not Connected,
 475c8702-282b-4265-8ffa-f6504ed00a63,Atlantis Management Group,Atlantis Fresh Market #88,04:00 AM - 11:00 PM EST,UberEats,Inactive,11/22/2024 08:39,Active,04/23/2025 10:52,Active,05/02/2025 12:16
+0cb444cc-d321-4677-b7b1-aa27c40cf2ca,Atlantis Management Group,Atlantis Fresh Market #94,12:00 AM - 11:59 PM EST,"UberEats, GrubHub",Inactive,11/22/2024 08:40,Active,05/05/2025 09:57,Inactive,04/07/2025 14:31
+9f268681-c9d3-40a4-86ae-ad8c9f22014f,Atlantis Management Group,Atlantis Fresh Market #97,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/22/2024 08:40,Inactive,11/22/2024 08:40,Inactive,12/03/2024 05:02
+39915688-e9d2-470b-af1d-a6d72d540cf0,Atlantis Management Group,Atlantis Fresh Market #98,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/22/2024 08:41,Inactive,11/22/2024 08:41,Inactive,12/03/2024 05:03
+753f7e15-8bbc-4cd3-9283-ac8b35e48b8a,Azan Petro,Ayesha Services Inc,Closed today,"UberEats, DoorDash",Inactive,11/24/2024 00:00,Inactive,03/19/2025 13:22,Not Connected,
+82cc986a-0216-4f3e-bd3f-1346daf1dcdd,Manni's Inc.,Back River Neck CMF,06:00 AM - 11:00 PM EST,UberEats,Inactive,01/23/2025 11:04,Not Connected,,Not Connected,
+691d71f7-1dab-43f0-821e-8d450aa852ca,Azan Petro,Baltimore Citgo,07:00 AM - 06:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,07/27/2024 12:30,Inactive,02/03/2025 11:54,Inactive,07/27/2024 12:30
+26343f89-23e1-4b2f-8f26-970696dc54fe,Hop N Shop,Beeline Mart #1,Closed today,"UberEats, DoorDash, GrubHub",Inactive,02/27/2025 08:44,Inactive,02/27/2025 08:44,Inactive,02/27/2025 08:44
+b481a849-0975-4ac4-a81d-38d8dd6afd6e,Hop N Shop,Beeline Mart #101672,Closed today,"UberEats, DoorDash, GrubHub",Inactive,08/13/2024 02:32,Inactive,08/13/2024 02:32,Inactive,08/13/2024 02:32
+933a9339-07e4-42b7-8f4b-d53f97bb7aad,Hop N Shop,Beeline Mart #10608,Closed today,"UberEats, DoorDash, GrubHub",Inactive,12/13/2024 00:25,Inactive,12/13/2024 00:25,Inactive,12/13/2024 00:25
+69d65a35-2f1e-4290-b825-ebe05b67320b,,Beeline Mart #11,Closed today,"UberEats, DoorDash, GrubHub",Inactive,02/27/2025 08:45,Inactive,02/27/2025 08:45,Inactive,02/27/2025 08:45
+0bb29757-ec4a-42b9-9415-72974532a205,Hop N Shop,Beeline Mart #13,Closed today,"UberEats, GrubHub",Inactive,04/15/2025 08:57,Not Connected,,Inactive,04/15/2025 08:57
+198a8d39-ca9f-493e-8e0b-5faef7a66c73,Beer Central,Beer Central - Nacogdoches Rd,08:00 AM - 11:00 PM CST,"UberEats, DoorDash, GrubHub",Inactive,10/03/2024 08:14,Inactive,10/03/2024 08:14,Inactive,10/03/2024 08:14
+2d83bda3-48fd-4177-b576-741d41857005,Matta Petroleum LLC,Belvedere Exxon,12:00 AM - 11:59 PM EST,UberEats,Inactive,03/31/2025 02:08,Not Connected,,Not Connected,
+c1507a05-77d5-4909-a7bb-958371bcc747,Best Way Of Gales Ferry Inc,Best Way Of Gales Ferry Inc,05:00 AM - 11:00 PM EST,UberEats,Inactive,04/29/2025 01:02,Not Connected,,Not Connected,
+084ce028-af27-49d8-9427-998b2998dd34,Beverage King,Beverage King,10:00 AM - 09:00 PM EST,UberEats,Inactive,01/23/2025 10:58,Not Connected,,Not Connected,
+937f9194-fc11-47f9-902e-2f2b6a21a4a3,Fast Break Convenience Stores,Big Bad BBQ (Macdoel),10:00 AM - 07:00 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/29/2025 14:40,Inactive,04/29/2025 14:40,Inactive,04/29/2025 14:40
+9269a07b-c700-4046-95be-d472256a489e,Fast Break Convenience Stores,Big Bad BBQ (Washburn Chevron),10:00 AM - 07:00 PM PST,UberEats,Inactive,05/04/2025 22:01,Active,04/26/2025 12:31,Active,04/26/2025 12:31
+c2d25410-c38a-4dd6-859d-b40348247a56,NSR Petro,Birdies Corner Express Hughesville,07:00 AM - 10:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/21/2024 22:32,Inactive,02/28/2025 16:36,Inactive,02/28/2025 16:36
+56ffac48-415c-4362-a715-5f151824ca51,NSR Petro,Birdies Korner Karryout,Closed today,UberEats,Inactive,04/29/2025 01:01,Not Connected,,Not Connected,
+6d19fc78-7b89-4ab2-8984-b0e29c000354,NSR Petro,Birdies Shell Berry Rd,06:00 AM - 10:30 PM EST,UberEats,Inactive,11/23/2024 14:02,Not Connected,,Not Connected,
+aa747378-a3f5-411d-8362-ef9b7da4fe0f,NSR Petro,Birdies Shell Charlotte Hall,Closed today,UberEats,Inactive,05/02/2025 02:01,Not Connected,,Not Connected,
+b0008120-c040-427f-a68d-7997a38c9400,NSR Petro,Birdies Shell Leonardtown,Closed today,UberEats,Inactive,04/29/2025 01:02,Not Connected,,Not Connected,
+f7c18e73-a912-4dc0-8892-44da2e3e5d48,NSR Petro,Birdies Shell Mechanicsville,12:00 AM - 11:59 PM EST,UberEats,Inactive,04/29/2025 01:02,Not Connected,,Not Connected,
+6ed28453-4def-44da-a842-0ce5b4b614f5,NSR Petro,Birdies Shell Prince Frederick,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/21/2024 22:54,Not Connected,,Not Connected,
+dedad998-a20a-475d-af9e-46bbb04d18df,NSR Petro,Birdies Sunoco Lanham,05:00 AM - 10:00 PM EST,UberEats,Inactive,11/21/2024 22:26,Not Connected,,Not Connected,
+60d1a1a4-d164-49d7-a68e-d08c1c58b748,1800 Bloomingdale Road Acquisition LLC,Bloomingdale Crown,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,10/09/2024 07:11,Inactive,10/09/2024 07:11,Inactive,10/09/2024 07:11
+0c34afb7-f59c-49fb-b4da-6d82dcef4b21,Boston Convenience,Boston Convenience,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,04/29/2025 01:02,Inactive,11/12/2024 02:25,Inactive,11/12/2024 02:25
 18c7841b-a418-4dc9-9e17-e95319cd70b6,Sugas Corp,Bowie Exxon,10:00 AM - 07:00 PM EST,UberEats,Inactive,05/04/2025 17:02,Active,12/29/2024 17:02,Active,10/01/2024 07:27
+6fd8341f-fe40-4ca5-88f9-4aa1b1238748,National 2 Oil,BP - 3725 S Howell Ave.,05:00 AM - 10:00 PM CST,"UberEats, DoorDash, GrubHub",Inactive,01/23/2025 11:11,Inactive,02/03/2025 13:17,Inactive,02/03/2025 13:17
+e5e0ed50-1ac1-42e2-a716-682474123b75,BP 2 GO,BP TO GO,12:00 AM - 11:59 PM EST,UberEats,Inactive,02/17/2025 12:21,Not Connected,,Not Connected,
+886962d3-d3b9-427d-ae2d-a9c40a608465,Bridge Mart Deli,Bridge Mart Deli,Closed today,UberEats,Inactive,11/21/2024 22:45,Not Connected,,Not Connected,
+d7fc7046-d3ae-49e2-a144-2e0b88f8f714,Bridge Street Mobil,Bridge Street Mobil,05:00 AM - 09:00 PM EST,"UberEats, DoorDash",Inactive,08/29/2024 10:17,Inactive,08/29/2024 10:17,Not Connected,
+e1fe00ef-9b81-4e82-b451-1f2d5e919599,NSR Petro,Brinkley Market,12:00 AM - 11:59 PM EST,UberEats,Inactive,04/29/2025 01:02,Not Connected,,Not Connected,
+629a04b6-3d8d-4b04-9425-475262df3384,NSR Petro,Brinkley Sunoco,Closed today,UberEats,Inactive,04/29/2025 01:02,Not Connected,,Not Connected,
+716408e6-6222-4529-9091-20497cc93071,Broad Brook Pizza,Broad Brook Pizza,11:00 AM - 07:30 PM EST,UberEats,Inactive,11/23/2024 05:06,Not Connected,,Not Connected,
 61a0d067-b00c-471e-b7a5-eabfe645566d,Broadway Liquors,Broadway Liquors,09:00 AM - 10:00 PM CST,UberEats,Inactive,05/04/2025 23:01,Active,12/26/2024 11:08,Active,12/30/2024 21:05
+d8007deb-8db7-4439-a978-b3f383444ac3,SMC Fuels - 6 stores,Bustleton Sunoco,07:00 AM - 10:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,01/23/2025 10:58,Inactive,03/12/2025 15:45,Inactive,03/12/2025 15:45
+53d8f4b6-ce5b-4419-9afd-57776bedc840,Warraich Enterprises,Camp Meade- Shell,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,04/29/2025 01:02,Inactive,03/03/2025 16:51,Inactive,03/03/2025 16:51
+1d258eb5-8e52-432d-a046-9d28737f300e,Azan Petro,Campus Way Exxon,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/20/2024 08:17,Inactive,11/20/2024 08:17,Not Connected,
+28a87030-0e5f-4d2a-9ce6-d4b27187de5e,HPSL Inc,Carney CMF,Closed today,"UberEats, DoorDash",Inactive,05/05/2025 00:03,Inactive,09/09/2024 09:08,Not Connected,
+40654199-2c45-4d3b-aaa3-d1f854377de9,Carney BP,Carney Crown,12:00 AM - 11:59 PM EST,UberEats,Inactive,01/23/2025 11:04,Not Connected,,Not Connected,
+4322a3b7-d437-4b7f-8bc3-db38809cc737,Food Mart,Carriage Stop Plaza,Closed today,UberEats,Inactive,05/05/2025 01:18,Not Connected,,Not Connected,
+4a4ee90e-7338-4f5e-8147-4dbbb46c9215,Waddimiani Inc.,Carroll Motor Fuels - Holabird Ave,12:00 AM - 11:59 PM EST,UberEats,Inactive,02/17/2025 12:19,Not Connected,,Not Connected,
+8d575c08-6a59-4540-af2a-087a08da5acb,Central Ave Energy,Central Ave. Energy,12:00 AM - 11:59 PM EST,UberEats,Inactive,01/23/2025 11:09,Not Connected,,Not Connected,
+cd9fc7d7-aac1-4a28-8afe-fad45daa6cf5,Fayette Street BP Inc,Central Crown,Closed today,UberEats,Inactive,02/17/2025 12:17,Not Connected,,Not Connected,
+aa783cda-4798-4fd2-8daf-0d547adc4657,Central Station Market,Central Station Market,06:00 AM - 10:00 PM EST,UberEats,Inactive,03/31/2025 00:38,Not Connected,,Not Connected,
 0a672e14-f93a-43f8-9161-19a6b90f3fa9,Paresh Chain,Chatham Liquor Store,08:00 AM - 11:00 PM EST,UberEats,Inactive,08/30/2024 07:54,Active,09/26/2024 10:32,Active,09/26/2024 10:32
+b455359b-1b70-4378-938e-0382031df58d,Chaudhar & Sons,Chaudhar & Sons,09:00 AM - 08:00 PM EST,UberEats,Inactive,11/24/2024 09:00,Not Connected,,Not Connected,
+5991a9f4-0d3e-4e9a-8b41-bd4f39156460,Cherry Hill Valero,Cherry Hill Valero,06:00 AM - 11:00 PM EST,"UberEats, DoorDash",Inactive,08/16/2024 06:52,Inactive,08/16/2024 06:52,Not Connected,
+842c73fb-1dbe-4968-a701-0b5247afe523,Parkview Wine & Spirits,Cheshire Wine & Spirits,Closed today,UberEats,Inactive,02/17/2025 12:21,Not Connected,,Not Connected,
+17fee3b2-9ab9-4e16-b97f-2693a4579d35,Chestnut Mobile,Chestnut Mobil,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/26/2024 00:00,Not Connected,,Not Connected,
+82e6e294-e874-4555-b1af-0d445f85aee4,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1008,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+8fa1b783-64dc-46c9-8b2d-afe0fdb2a270,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1010,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+d9a35140-272d-4a16-93de-39debdf4567d,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1011,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+80e5dad9-944b-4d8a-b04b-fc6b21bc3770,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1013,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+f7b1cb23-53cb-480a-a3e1-952ab4196dd0,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1105,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+ed11dea3-0a5a-45c1-83eb-f1bbe5629a51,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1117,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+6f5fa548-8dad-4d3e-abf3-d956bcb7797b,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1123,12:00 AM - 11:59 PM PST,"DoorDash, GrubHub",Not Connected,,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+e7e809d7-72ee-4a41-9c68-4e00e754726b,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1156,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+ef790e7d-2805-4d18-a1d4-da62ce0de2af,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1194,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+e6d650b1-7388-4273-9c99-90447c9af23e,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1195,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+7ea68211-9d76-480c-8d84-bbf476afce58,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1323,05:00 AM - 10:00 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+ffa87d9d-32cd-4a0a-8677-32e01019b411,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1433,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+62857b91-c355-4bb9-9036-74445a39f9c5,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1474,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+3a161e0c-5ff6-420b-a86b-b328d3731bde,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1481,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+5f84c9ec-6f3b-4911-b9c2-1dd3b95898e9,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1483,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+5b717161-907f-42ba-93d6-e3c324d78604,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1484,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+5469fdd0-8e1d-4a43-892a-8c4b8e1aa100,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1490,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+c3cc295d-152c-443b-a473-6d63dd584dee,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1495,05:00 AM - 11:30 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+1b257cdd-a737-4fba-a440-e67902105c78,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1517,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+d32609f1-f0f6-43c6-8ec7-5456860deeee,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1528,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+343ce2b3-7365-4973-a7bf-ca5c0e8c6629,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1539,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+5cf58888-38eb-4811-a92f-2bf7a1a90d12,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1541,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+079d7358-5f4a-4774-ad92-492f3e484d61,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1548,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+6385ef7d-8c2a-400a-8264-a2a995527ab0,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1563,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+3522d771-aa1f-4708-a758-2694d3827d19,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1585,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+5ef53984-786a-4a3f-95e3-f57d00acba4a,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1587,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+a76bce7f-e763-4587-aae0-5ae5b2286b20,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1595,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+82dc7be3-a903-4e18-a248-bace8a2d3520,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1701,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+1d2f8532-b284-4ecf-90e0-21b5a0c1e64a,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1704,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+fb250544-5377-4df1-b1a2-4f92133c808e,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1707,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+4b78ed74-3bee-4b57-9370-d2406813dcab,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1714,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+a7e2e1c5-778a-4f98-822f-65e98cb1b8fe,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1718,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+cbbe292c-588a-4164-9bab-38ca35d98f64,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1720,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+afda58e4-8cea-42e1-91e8-4b3a78a8fa4e,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1726,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+2dd9312c-e422-4a82-9295-2a2fa97faa31,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1761,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+36e7a730-4645-44a6-8679-65c5055bea6f,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1770,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+ac125c1f-335a-4f04-9339-9103a79e8e08,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1771,06:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+1f74786c-68a2-4453-b614-c45e5a76898c,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1778,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+0e23a649-751d-4cb6-bf45-ee9f6276c02a,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1782,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+658b4a07-9b9f-4459-a678-af1d451ccce1,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1784,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+0a778f88-97e8-4fa5-9427-e2209035ce2e,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1789,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+5b7b52cc-47f4-4ddc-89a2-a22e33f276ab,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1795,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+486a3524-9d31-46f0-949d-d601cc6cc854,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1809,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+9b8e4f95-6c58-4661-9a2e-ef45b2e0e82c,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1869,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+0891afe3-ec9c-4415-954e-562283c015da,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1876,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+e44e0199-05c5-428c-ab78-53daa7d9710d,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1886,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+d396eafe-d3b9-4255-9153-7218d5e82b74,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1947,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+17998a72-005a-4799-8b91-7e8cdafc8203,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1951,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+3d959b16-285f-423d-abf7-fece6a212e03,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1957,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+d281af9d-a73b-4ec7-a7b9-c7942eca36f4,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1978,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+c8094389-3a13-4e03-87f6-a42e843f42af,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 1989,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+c111b2e5-c5c1-4670-af3b-1734673e98e3,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 2001,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+0a64d89b-4e22-4c15-9ce4-a894f2187a49,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 2010,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+6536399a-b255-45f0-9880-3957aa03d941,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 2019,05:00 AM - 10:00 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+b734f6c3-3501-4827-9060-1c9f250436a5,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 2020,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+7fce15f3-4853-4f4c-adc1-a3ed5a386187,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 2212,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+ac20b8d3-b42f-49a4-a1b6-c6913684f642,ExtraMile Convenience Stores LLC,Chevron ExtraMile - 2227,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2024 14:44,Inactive,03/08/2024 05:16,Inactive,03/08/2024 05:16
+f375980f-2955-414d-a061-5adb90553c93,Chevron Food Mart,Chevron Food Mart - Stone Mountain,06:30 AM - 11:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,08/16/2024 20:07,Inactive,01/31/2025 15:26,Inactive,08/16/2024 20:07
+6d2b24a1-3144-42cd-8104-38e2a7137099,Chicken King,Chicken King (6th Street),11:00 AM - 11:30 PM PST,UberEats,Inactive,05/04/2025 00:32,Active,03/24/2025 14:44,Active,03/24/2025 14:44
+7e72af8b-9845-4ff3-9faa-b21100376f0a,Chicken King,Chicken King (Aramex Restaurant),11:30 AM - 09:30 PM EST,UberEats,Inactive,05/05/2025 00:31,Active,03/25/2025 14:14,Active,03/25/2025 14:14
+5a8e5395-691b-4586-b40b-9de6e346c255,Chicken King,Chicken King (Curtner Ave),09:00 AM - 07:00 PM PST,UberEats,Inactive,05/03/2025 17:01,Active,01/17/2025 18:34,Active,01/17/2025 18:34
+fdca55a2-567e-46af-992d-f9ad620c92ae,Chicken King,Chicken King (EL Camino),08:00 AM - 09:00 PM PST,"UberEats, DoorDash, GrubHub",Inactive,05/04/2025 23:13,Inactive,05/04/2025 23:13,Inactive,05/04/2025 23:13
+41a50aa1-b81c-4fe3-83c1-6ac141fda9df,Chicken King,Chicken King (Folsom Gas Mart),10:00 AM - 09:00 PM PST,UberEats,Inactive,05/04/2025 23:02,Active,05/02/2025 11:47,Active,05/02/2025 11:47
+8a689973-8e64-4a57-bd3b-57f6e4946b06,Chicken King,Chicken King (Kim Hoang),12:00 AM - 01:30 AM EST,UberEats,Inactive,05/05/2025 04:32,Active,04/15/2025 15:44,Active,04/15/2025 15:44
 3fe77af0-8670-4dd3-b5b0-76619a7bac57,Chicken King,Chicken King (Las Adelitas),08:00 AM - 06:30 PM EST,"UberEats, DoorDash, GrubHub",Inactive,05/03/2025 21:32,Inactive,05/04/2025 12:02,Inactive,05/04/2025 12:02
+a5053b9c-7573-4e3f-94d1-58d2f6d2bc44,Chicken King,Chicken King (Stockton Blvd),06:00 AM - 07:30 PM PST,"UberEats, DoorDash, GrubHub",Inactive,02/18/2025 11:55,Inactive,02/18/2025 11:55,Inactive,02/25/2025 18:27
 41e411a3-5547-49f4-913a-ccec751faa0d,DMG,Chisholm Corner 1,06:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,05/04/2025 22:47,Inactive,05/04/2025 22:48,Inactive,05/04/2025 22:48
 cc686574-c547-4ad6-895d-bff90d2bc1ea,DMG,Chisholm Corner 7,06:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,04/15/2025 07:06,Inactive,04/15/2025 07:06,Inactive,04/15/2025 07:06
+0abb7a8f-0a75-4d99-8232-7512f6af7563,Chokshi Group,Churchill Wine and Liquor,10:30 AM - 11:15 PM EST,UberEats,Inactive,05/04/2025 20:02,Active,10/17/2024 12:29,Not Connected,
+255fb373-1254-4ac7-8242-5cf3932eaa8b,Circle K (DFW Oil and Energy),Circle K 101 Winslow,05:00 AM - 11:59 PM CST,DoorDash,Active,05/05/2025 08:51,Inactive,04/23/2025 07:56,Not Connected,
+5ebcfe9f-ffe6-4670-abc3-b2f9171361a5,Circle K (DFW Oil and Energy),Circle K 102 Coit/635,12:00 AM - 11:59 PM CST,DoorDash,Active,05/05/2025 08:58,Inactive,04/23/2025 07:57,Not Connected,
+1954698d-9efe-4697-b511-ea9ee282ad1a,Circle K (DFW Oil and Energy),Circle K 105 Payless Fuel Center-Legacy,06:00 AM - 11:59 PM CST,"UberEats, DoorDash",Inactive,05/05/2025 08:24,Inactive,04/23/2025 07:58,Not Connected,
 2898621f-5422-420e-9aa9-0938fed22c0b,Circle K Gas Express,Circle K (109 N Chester St),12:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,02/27/2025 21:37,Inactive,02/27/2025 21:37,Inactive,02/27/2025 21:37
+9d8a6f29-06de-4a14-bb1e-4b41b8d7c7a6,Circle K (DFW Oil and Energy),Circle K 114 Payless Fuel Travel Center,12:00 AM - 11:59 PM CST,DoorDash,Active,05/05/2025 08:56,Inactive,04/23/2025 07:59,Not Connected,
+8194e011-c3b2-4165-bd25-c835c2f0b6e5,Circle K (DFW Oil and Energy),Circle K 115 Main Street Shell,06:00 AM - 11:59 PM CST,"UberEats, DoorDash",Inactive,05/05/2025 08:25,Inactive,04/23/2025 07:59,Not Connected,
+0614d950-8a4d-44c6-9e82-3f785e63b3fd,Circle K (DFW Oil and Energy),Circle K 116 McKinney,06:00 AM - 11:59 PM CST,DoorDash,Active,05/05/2025 08:58,Inactive,04/23/2025 08:00,Not Connected,
+cb8ac43b-2b77-4ae3-9274-595b3b59071f,Circle K (DFW Oil and Energy),Circle K 117 Euless,12:00 AM - 11:59 PM CST,"UberEats, DoorDash",Inactive,05/05/2025 09:38,Inactive,04/23/2025 08:00,Not Connected,
 7d109b7b-09ef-41ee-a743-51aade0d9658,Circle K Gas Express,Circle K (11819 Colonel Glenn Rd),12:00 AM - 11:59 PM CST,UberEats,Inactive,05/05/2025 07:00,Active,04/22/2025 11:18,Active,04/22/2025 11:18
+cc98cec0-714d-4cfe-8b5b-d666392892b7,Circle K (DFW Oil and Energy),Circle K 125 Frisco,06:00 AM - 11:59 PM CST,DoorDash,Active,05/05/2025 08:51,Inactive,04/23/2025 08:01,Not Connected,
+f747a5d0-8654-44e8-8d61-2772bcf5555e,Circle K (DFW Oil and Energy),Circle K 126 McDermott,06:00 AM - 11:59 PM CST,"UberEats, DoorDash",Inactive,05/05/2025 08:27,Inactive,04/23/2025 08:03,Not Connected,
+389d683c-94de-43bb-8da6-dd7e324f0721,Circle K (DFW Oil and Energy),Circle K 128 Lakeview,05:00 AM - 11:59 PM CST,"UberEats, DoorDash",Inactive,05/05/2025 08:28,Inactive,04/23/2025 08:03,Not Connected,
+04683001-1840-427d-b560-5b020fcd220c,Circle K (DFW Oil and Energy),Circle K 133 Dallas,12:00 AM - 11:59 PM CST,DoorDash,Active,05/05/2025 08:51,Inactive,04/23/2025 08:04,Not Connected,
+e690eb0d-7b7f-4a54-bd01-175ed84be8fd,Circle K (DFW Oil and Energy),Circle K 134 Mesquite,05:00 AM - 11:59 PM CST,DoorDash,Active,05/05/2025 08:56,Inactive,04/23/2025 08:05,Not Connected,
+9828b393-8171-4515-a0be-57454013c60d,Circle K (DFW Oil and Energy),Circle K 135 Cedar Hill,05:00 AM - 11:59 PM CST,"UberEats, DoorDash",Inactive,05/05/2025 08:29,Inactive,04/23/2025 08:05,Not Connected,
+3d020189-aea5-471e-a65f-2edd577cd31d,Circle K (DFW Oil and Energy),Circle K 146 Babcock,06:00 AM - 11:59 PM CST,DoorDash,Active,05/05/2025 08:51,Inactive,04/23/2025 08:06,Not Connected,
+6aa3ba56-152a-4de7-a5c0-e25c6f67ffd6,Circle K (DFW Oil and Energy),Circle K 147 Potranco,05:00 AM - 11:00 PM CST,"UberEats, DoorDash",Inactive,05/02/2025 13:47,Inactive,04/23/2025 08:07,Not Connected,
 8850a98e-3695-479c-b781-a011dc6e7ce0,Circle K Gas Express,Circle K (1685 Pearman Dairy Rd),12:00 AM - 11:59 PM EST,UberEats,Inactive,03/07/2025 03:36,Active,04/21/2025 12:40,Active,04/21/2025 12:40
+f438302f-acd4-4e9f-8c91-00b110a8b211,Jallo Chain,Circle K (19818 February Lane),Closed today,"UberEats, DoorDash",Inactive,04/28/2025 17:04,Inactive,04/23/2025 07:19,Not Connected,
+de4c2621-69a2-49f0-9ab9-f884e7726763,Circle K Gas Express,Circle K (215 Old Peachtree Rd NW),Closed today,"UberEats, DoorDash, GrubHub",Inactive,10/15/2024 07:39,Inactive,10/15/2024 07:39,Inactive,10/15/2024 07:39
+395ab99b-5844-4516-9295-1de7e3b1688a,Circle K Gas Express,Circle K (2300 Whitesville Rd),Closed today,"UberEats, DoorDash, GrubHub",Inactive,10/16/2024 06:34,Inactive,10/16/2024 06:34,Inactive,10/16/2024 06:34
+7eed4c1e-9ac1-4d62-b454-56ef61719e47,Circle K Gas Express,Circle K (2700 Austell Rd SW),Closed today,"UberEats, DoorDash, GrubHub",Inactive,10/18/2024 07:17,Inactive,10/18/2024 07:17,Inactive,10/18/2024 07:17
+4d9b2623-b7e9-41db-9e3a-debaa326a587,Circle K Gas Express,Circle K (3241 Camp Creek Pkwy),Closed today,"UberEats, DoorDash, GrubHub",Inactive,10/18/2024 07:20,Inactive,10/18/2024 07:20,Inactive,10/18/2024 07:20
 43ab61c4-1f46-4ab7-a70e-e99e85ffa6f5,Circle K Gas Express,Circle K (3320 John F Kennedy Blvd),12:00 AM - 11:59 PM CST,UberEats,Inactive,05/05/2025 07:00,Active,02/25/2025 13:38,Active,02/25/2025 08:06
+b1a5c07a-a848-402b-ac20-6bf00a037530,Circle K Gas Express,Circle K (3801 Flat Shoals Pkwy),Closed today,"UberEats, DoorDash, GrubHub",Inactive,10/18/2024 07:28,Inactive,10/18/2024 07:28,Inactive,10/18/2024 07:28
 c04f7b7a-c5c1-4899-9d38-05e34dd886ab,Circle K Gas Express,Circle K (4300 E Broadway St),12:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,05/03/2025 02:49,Inactive,05/03/2025 02:49,Inactive,05/03/2025 02:49
 fd62ad56-1690-48f8-a0c3-7f5f2f8e404d,Circle K Gas Express,Circle K (5051 Warden Rd),12:00 AM - 11:59 PM CST,UberEats,Inactive,05/04/2025 07:00,Active,02/25/2025 12:40,Active,02/25/2025 08:56
+3838532e-009c-4f49-b2a2-119b97ac763b,Circle K Gas Express,Circle K (6317 W Markham St),09:00 AM - 05:00 PM CST,"UberEats, DoorDash, GrubHub",Inactive,10/18/2024 07:37,Inactive,10/18/2024 07:37,Inactive,02/25/2025 15:18
 ab2ba426-17c4-4c09-9a97-a8ab8177c3b0,Circle K Gas Express,Circle K (700 E Broadway St),12:00 AM - 11:59 PM CST,UberEats,Inactive,05/05/2025 07:00,Active,02/25/2025 12:43,Active,02/25/2025 08:21
+e27777e2-e259-46a0-8993-39f20f3e0d46,Circle K Gas Express,Circle K (8023 Cumming Hwy),Closed today,"UberEats, DoorDash, GrubHub",Inactive,10/18/2024 07:42,Inactive,10/18/2024 07:42,Inactive,10/18/2024 07:42
+94e8f3d9-d983-49ba-8304-1e554358fdac,Circle K Gas Express,Circle K (943 Hwy 53),Closed today,"UberEats, DoorDash, GrubHub",Inactive,10/18/2024 07:44,Inactive,10/18/2024 07:44,Inactive,10/18/2024 07:44
+7a21de22-b994-4df0-a48f-90dcc1ac5d8f,"Circle K Franchise (Devin Oil Co., Inc.)",Circle K - Burbank Shell,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2025 07:41,Inactive,05/02/2025 14:33,Inactive,05/02/2025 11:59
+49052429-6fa6-414d-a463-b38050c37b99,Circle K Franchise (Sawalha Inc),Circle K- Canyon Rd,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2025 08:08,Inactive,04/23/2025 08:08,Inactive,04/04/2025 11:23
+ea533936-eb61-4104-a88e-6b3016c0d61c,Circle K Franchise (Ignite Pacific),Circle K- Chino,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2025 08:09,Inactive,04/23/2025 08:09,Inactive,04/23/2025 08:56
+336a4156-6aaa-46b7-bd8a-2b5e12f613f3,Lakeview Petroleum,Circle K- Civic Energy Center,07:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,05/05/2025 03:00,Inactive,05/05/2025 03:09,Inactive,05/05/2025 03:09
+239020ff-17fc-4323-bde3-30aca0410ea6,"Circle K Franchise (Devin Oil Co., Inc.)",Circle K - Court Street Mobil,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,05/01/2025 18:27,Inactive,05/01/2025 18:27,Inactive,05/01/2025 18:27
+c6636043-e784-4352-a2f0-a652efe96b80,"Circle K Franchise (Devin Oil Co., Inc.)",Circle K - Devin Shell,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2025 07:46,Inactive,05/02/2025 14:40,Inactive,05/02/2025 14:30
+4c9d479c-2424-4318-a40a-b731276e74a8,Circle K Franchise (Ignite Pacific),Circle K- Fontana,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2025 08:10,Inactive,04/23/2025 08:11,Inactive,04/04/2025 11:22
 23c13a06-13d7-408e-a065-a7142266114c,Circle K Franchise (Oscar),Circle K Franchise (Oscar) - Bear Valley & 3rd,12:00 AM - 11:59 PM PST,UberEats,Inactive,03/24/2025 06:03,Active,04/02/2025 15:02,Active,04/02/2025 15:02
+9725fa9f-aa32-4bef-95f4-7c0ab7333102,Circle K Franchise (French Valley Inc),Circle K - French Valley,Closed today,"UberEats, DoorDash",Inactive,05/01/2025 06:59,Inactive,05/02/2025 08:40,Not Connected,
+c149bc46-7ea9-4dbe-a181-8da3174562a2,Circle K Franchise (Sarvi Inc),Circle K - Gators Shell,12:00 AM - 11:59 PM EST,UberEats,Inactive,05/02/2025 08:34,Active,05/02/2025 16:00,Active,05/02/2025 16:00
+e25a336a-afa5-4e31-b542-a034ef80571b,"Circle K Franchise (Devin Oil Co., Inc.)",Circle K - Hermiston Shell,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,05/01/2025 18:31,Inactive,04/23/2025 07:51,Inactive,04/23/2025 08:51
+c4a2ef7e-ffbc-4b39-b66e-2ddfb987addc,"Circle K Franchise (Devin Oil Co., Inc.)",Circle K - Irrigon Shell,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,05/05/2025 08:12,Inactive,05/02/2025 14:50,Inactive,05/02/2025 14:51
+e6da3f69-63ab-4988-8e6b-f3f68e125433,Lakeview Petroleum,Circle K- Lakeview Center,07:00 AM - 11:59 PM PST,UberEats,Inactive,05/05/2025 03:01,Active,04/21/2025 14:21,Active,04/17/2025 10:10
+243e8799-72ca-4013-b214-cbb38e44d1fb,Circle K ( LPGA Shell),Circle K- LPGA Blvd,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2025 08:12,Inactive,04/23/2025 08:12,Inactive,04/23/2025 08:54
+2211a2e3-c3d5-4ce8-a85c-9b24b8245703,"Main Street Service Station, Inc",Circle K - Mill St,Closed today,"UberEats, DoorDash, GrubHub",Inactive,01/29/2025 16:01,Inactive,01/29/2025 16:01,Inactive,02/18/2025 10:01
+43b43a27-03d0-4f42-b2eb-333966d8d5f4,Circle K Franchise (Ignite Pacific),Circle K- Norco,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2025 08:15,Inactive,04/23/2025 08:15,Inactive,05/02/2025 10:36
+b1fafa0a-6489-487f-8836-c8b0d9def70c,Tooley Oil Company,Circle K - Sheldon,05:00 AM - 11:30 PM PST,"UberEats, DoorDash, GrubHub",Inactive,08/29/2024 14:54,Inactive,08/29/2024 14:54,Inactive,08/29/2024 14:54
+c7a2656e-06da-4dc3-a99f-939e94aadae7,Circle K (SHJ LLC),Circle K - SHJ LLC,Closed today,"UberEats, DoorDash, GrubHub",Inactive,04/22/2025 13:20,Inactive,04/24/2025 07:56,Inactive,04/24/2025 07:56
+3fc014bc-b046-46c5-af69-075ee1a60ef7,"Circle K Franchise (Devin Oil Co., Inc.)",Circle K - Short Stop,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2025 07:54,Inactive,04/23/2025 07:55,Inactive,05/02/2025 15:00
+03f0460a-4454-4348-87a8-b58abbc69fac,Tooley Oil Company,Circle K - Truxel,06:00 AM - 10:00 PM PST,"UberEats, DoorDash, GrubHub",Inactive,08/29/2024 14:54,Inactive,08/29/2024 14:54,Inactive,08/29/2024 14:54
+45f91f52-6348-422e-8df7-1ce43610aa76,Circle K Franchise (Ignite Pacific),Circle K- Walnut,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2025 08:16,Inactive,04/23/2025 08:17,Inactive,04/04/2025 11:23
+31044d85-dc62-4295-905a-879332ee6f11,Circle K Franchise (Thind Group),Circle K (Whitestone),Closed today,"UberEats, DoorDash",Inactive,04/25/2025 11:20,Inactive,04/23/2025 07:19,Not Connected,
+dce059cf-0df7-4647-8874-630835915f2e,Liquor Barrel,Circle Pines Liquor Barrel,No hours for today,"UberEats, DoorDash",Inactive,10/23/2024 05:45,Inactive,10/23/2024 05:45,Not Connected,
+53af6cd4-316d-4a16-b041-49df17dc0f74,National 2 Oil,Clark Gas Station - 1831 West National Ave.,12:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,10/10/2024 23:12,Inactive,10/10/2024 23:12,Inactive,10/10/2024 23:12
+51b8f105-50d0-4a1d-af0b-33f947f2b76a,MMG Connersville LLC,Clark's Eastside Market,Closed today,UberEats,Inactive,11/21/2024 17:16,Not Connected,,Not Connected,
+c765fc57-fac8-4b72-8a86-0d8789ccb927,Clemmons BP,Clemmons BP,Invalid hours format,UberEats,Inactive,03/30/2025 13:45,Not Connected,,Not Connected,
+87457d6a-c258-4763-910f-3239b4eefa09,Clinton Food Mart,Clinton Food Mart,05:30 AM - 11:00 PM EST,UberEats,Inactive,11/21/2024 23:01,Not Connected,,Not Connected,
+13fcd0ae-8f36-44f2-a695-f195e668ab1a,Clipper Petroleum,Clipper Petroleum #71,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,08/22/2024 12:11,Inactive,08/22/2024 12:11,Inactive,08/22/2024 12:11
+62bf4d49-d1b5-4a24-9749-5e97f35f9cfd,Clipper Petroleum,Clipper Petroleum #74,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,08/22/2024 12:11,Inactive,08/22/2024 12:11,Inactive,08/22/2024 12:11
+fc9457aa-847a-43ec-bc39-c0e6367e912e,Sam Singh Family Stores,Clyde Clark,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,04/10/2025 06:38,Inactive,04/10/2025 06:38,Inactive,07/27/2024 21:58
+549d81c7-6187-4fb2-94c5-fb30741c881a,APNA Inc,C Mart,08:00 AM - 11:00 PM EST,UberEats,Inactive,02/17/2025 12:14,Not Connected,,Not Connected,
+4d5354e5-1c07-4615-a47f-24d509120a93,Coldspring BP Inc,Cold Spring Crown,12:00 AM - 11:59 PM EST,UberEats,Inactive,01/23/2025 11:09,Not Connected,,Not Connected,
 1ceef59c-4445-4f00-b568-b5aa97d7b5ec,Lula Commerce 1,Convenience Store - Roxborough,09:00 AM - 11:00 PM EST,UberEats,Inactive,11/18/2024 09:23,Not Connected,,Not Connected,
 6922af04-261a-4335-b41b-75eb47430254,Lula Commerce 1,Convenience Store - Voorhees,09:00 AM - 05:00 PM EST,"UberEats, DoorDash",Inactive,09/10/2024 11:11,Inactive,09/10/2024 11:11,Not Connected,
+937c2cfe-1350-43d3-a026-4a2918314d92,Azan Petro,Convenient Beer and Wine Inc,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,03/20/2025 01:02,Inactive,10/12/2024 23:10,Not Connected,
+a411fc20-7c99-4ae5-8e40-ac0f5eb85cb3,Convenient Deli,Convenient Deli,09:00 AM - 01:30 PM EST,UberEats,Inactive,12/04/2024 11:08,Not Connected,,Not Connected,
+59fd9280-5aa0-4e82-b25e-e56e967fc7df,Fast Break Convenience Stores,Coopers Chicken (Christmas Valley),10:00 AM - 07:00 PM PST,"UberEats, DoorDash, GrubHub",Inactive,03/19/2025 18:16,Inactive,03/21/2025 14:53,Inactive,03/19/2025 18:16
+0d37c576-dc46-4cf0-a95e-e22d84013893,Fast Break Convenience Stores,Coopers Chicken (Corner Store),10:00 AM - 07:00 PM PST,UberEats,Inactive,05/04/2025 22:01,Active,04/29/2025 14:16,Active,04/29/2025 14:16
+735f2522-edc0-44f8-97f7-f58f406c20d1,Fast Break Convenience Stores,Coopers Chicken (Homedale),10:00 AM - 07:00 PM PST,"UberEats, DoorDash, GrubHub",Inactive,05/04/2025 21:34,Inactive,05/04/2025 21:34,Inactive,05/04/2025 21:34
+f20e2710-66ac-4bb3-8376-b89202dfa267,Fast Break Convenience Stores,Coopers Chicken (John Day Sinclair),10:00 AM - 07:00 PM PST,UberEats,Inactive,05/04/2025 22:02,Active,04/29/2025 14:35,Active,04/29/2025 14:35
+c33974d2-79e2-4b07-8358-1f1c1d4991a2,Fast Break Convenience Stores,Coopers Chicken (Lakeview Sinclair),10:00 AM - 07:00 PM PST,UberEats,Inactive,05/04/2025 22:02,Active,03/28/2025 18:20,Active,03/26/2025 12:06
+06f9678b-4a7d-46f3-af35-9f14fb590d6f,Paresh Chain,Corner Store,07:00 AM - 07:00 PM EST,UberEats,Inactive,01/23/2025 11:07,Not Connected,,Not Connected,
+c93664ed-3cc0-447f-a098-3f173888d22d,Dfw Costa's Mini Mart,Costa's Mini Mart,08:00 AM - 08:40 PM EST,UberEats,Inactive,01/23/2025 10:58,Not Connected,,Not Connected,
+a913410c-4191-4573-a27b-f1b702eb2fc5,Country Farm,Country Farm,06:00 AM - 09:00 PM EST,UberEats,Inactive,11/23/2024 21:01,Not Connected,,Not Connected,
+b42008ec-256c-4a79-a85d-053c68648093,Country Fresh Food Mart,Country Fresh Food Mart,08:00 AM - 09:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/22/2024 08:00,Inactive,01/22/2025 14:19,Inactive,01/22/2025 14:19
+269647a4-d909-4a39-a42a-98590770736d,Crownsville Exxon Inc,Crownsville Exxon,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,01/23/2025 11:08,Inactive,04/12/2025 12:53,Inactive,04/12/2025 12:53
+87564599-bfbb-42ef-b896-364ac23eff27,East End Marketing,Cutchogue Valero,09:00 AM - 11:00 PM EST,"UberEats, DoorDash",Inactive,11/21/2024 09:00,Inactive,03/07/2025 09:02,Not Connected,
+5ce16820-4b85-4fba-91aa-c18cec1a0cee,Dayhill Coffee & Market,Dayhill Cofee & Market,07:00 AM - 02:00 PM EST,UberEats,Inactive,11/21/2024 07:00,Not Connected,,Not Connected,
 120b2229-ed76-47c6-9512-7f09fd88a318,Dayville Quick Mart LLC,Dayville Quick Mart,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,05/05/2025 00:31,Inactive,01/03/2025 20:04,Inactive,08/06/2024 11:01
+55de34ac-c504-4128-8b19-3ca4766adce0,Paresh Chain,Deftos Liquors,Closed today,UberEats,Inactive,01/23/2025 11:00,Not Connected,,Not Connected,
+697c9482-e534-4238-a4ab-04a57b4d4774,Delullo's Deli & Car Wash,Delullo's Deli 19,09:00 AM - 05:00 PM EST,"UberEats, DoorDash",Inactive,01/27/2025 06:26,Inactive,01/27/2025 06:26,Not Connected,
+4ef27d7d-54aa-4d6c-9975-e165714f078d,Chokshi Group,Derby Liquor,10:30 AM - 11:15 PM EST,"UberEats, DoorDash, GrubHub",Inactive,01/26/2025 06:32,Inactive,01/27/2025 07:31,Inactive,01/27/2025 07:31
+3edc7b75-4b07-4f5e-a85c-0b443e0a46a2,Division Street Exxon,Division Street Exxon,09:00 AM - 06:00 PM CST,UberEats,Inactive,01/23/2025 10:59,Not Connected,,Not Connected,
+61ca2829-33bb-4c9e-89bd-30e9c4b4b427,Dockside Marketplace,Dockside Marketplace Party Store,12:00 PM - 08:00 PM EDT,UberEats,Inactive,11/21/2024 12:00,Not Connected,,Not Connected,
+b7f25d52-0a75-4e17-8405-8f49e3f40153,Dollar Plus Lic Plus,Dollar Plus L.L.C.,11:45 AM - 10:30 PM EST,UberEats,Inactive,05/04/2025 22:31,Active,04/27/2025 11:51,Active,04/27/2025 11:51
+c4b6b9fb-c006-4210-8567-1f503b2bfc22,Dollar Value Zone,Dollar Value Zone,09:00 AM - 05:00 PM EDT,"UberEats, DoorDash, GrubHub",Inactive,11/22/2024 17:01,Inactive,12/17/2024 15:13,Inactive,12/17/2024 15:13
+208c970e-02f0-4cca-b02e-b01972f82bec,Childers Double Kwik,Double Kwik - 1032,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,09/05/2024 16:07,Inactive,09/05/2024 16:07,Inactive,09/05/2024 16:07
+68f1fe96-6840-4350-a684-2b431b5052e0,Childers Double Kwik,Double Kwik - 1046,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/12/2024 11:46,Inactive,11/12/2024 11:46,Inactive,11/12/2024 11:46
+944d7148-571f-410d-9354-a8eb8b0c308c,Childers Double Kwik,Double Kwik - 2058,05:00 AM - 11:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/21/2024 09:17,Inactive,11/21/2024 09:17,Inactive,11/21/2024 09:17
+3c19932a-c404-494f-ab05-a3bf81c714af,Doughdaddy's,Doughdaddy's,07:00 AM - 06:00 PM EST,"UberEats, DoorDash",Inactive,10/24/2024 11:04,Inactive,10/24/2024 11:04,Not Connected,
+7745ac61-6282-443d-9d30-e734a7cd58e9,Drew Food Mart,Drew Food Mart,07:00 AM - 10:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,10/11/2024 00:03,Inactive,10/11/2024 00:03,Inactive,10/11/2024 00:03
+b1c2c35e-0c72-4012-b91d-9a5654f33eaf,Drive Thru Package,Drive Thru Package,Closed today,UberEats,Inactive,11/21/2024 22:47,Not Connected,,Not Connected,
+23813ee4-9a68-420b-8610-9392505ad1c5,Drop-In Food Store,Drop-In Food Store #6,06:00 AM - 10:00 PM EST,"UberEats, GrubHub",Inactive,10/02/2024 11:29,Not Connected,,Inactive,10/02/2024 11:29
+073afcac-eb1b-4f48-a243-16e0efe7ed81,Dude Stop,Dude Stop,12:00 AM - 11:59 PM CST,UberEats,Inactive,12/04/2024 10:22,Not Connected,,Not Connected,
+13dcce6a-a712-4d42-925d-71e573e6284b,Eagle Stores,Eagle Stores (119 East),Closed today,"UberEats, DoorDash, GrubHub",Inactive,04/02/2025 06:11,Inactive,04/23/2025 08:17,Inactive,04/04/2025 11:23
+348dc6a8-b480-4e51-995d-f7d8640fb5fe,Eagle Stores,Eagle Stores (Bluffton),Closed today,"UberEats, DoorDash, GrubHub",Inactive,04/02/2025 06:12,Inactive,04/23/2025 08:18,Inactive,04/04/2025 11:24
+d182cbeb-b40e-4e5c-8f15-7fc3dd3ca9cc,Eagle Stores,Eagle Stores (Lakeview),Closed today,"UberEats, DoorDash, GrubHub",Inactive,04/02/2025 06:13,Inactive,04/23/2025 08:19,Inactive,04/04/2025 11:24
+8e27b26e-b0da-41a8-8b91-6a36cf0435e0,Eagle Stores,Eagle Stores (Pearl Rd),Closed today,"UberEats, DoorDash, GrubHub",Inactive,05/01/2025 07:12,Inactive,04/23/2025 08:20,Inactive,04/23/2025 08:19
+391d33ae-acd1-4d9b-b33a-05c3f9c3fde8,Warraich Services LLC,Eastern Ave - Exxon,12:00 AM - 11:59 PM EST,UberEats,Inactive,01/23/2025 11:04,Not Connected,,Not Connected,
+b6cbebef-3285-4fba-898c-5442f541e16f,Paresh Chain,East Harwich Market,12:00 AM - 11:59 PM EST,UberEats,Inactive,01/23/2025 10:58,Not Connected,,Not Connected,
+99841b5e-3afb-4e75-bb5d-9e8b827d2724,East End Marketing,East Patchogue Sinclair,09:00 AM - 11:00 PM EST,UberEats,Inactive,11/21/2024 09:00,Not Connected,,Not Connected,
+92f7abb3-cdd2-4f2b-a9fa-cbea986bf031,East End Marketing,East Patchogue Valero,09:00 AM - 11:00 PM EST,UberEats,Inactive,11/21/2024 22:31,Not Connected,,Not Connected,
+f8df939f-638f-45ac-b11a-d63f88bdb925,East End Marketing,Eastport Valero,09:00 AM - 11:00 PM EST,UberEats,Inactive,11/24/2024 09:00,Not Connected,,Not Connected,
+0d68ca65-dcac-4de8-9447-62b497fe4c34,Gill's 58,Easy Stop #3,05:00 AM - 10:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,01/19/2025 09:31,Inactive,01/24/2025 15:23,Inactive,10/11/2024 00:01
+97d8ae3d-0d88-4570-8d33-166da4d77128,V&G Investments,Edgewood BP,12:00 AM - 11:59 PM EST,UberEats,Inactive,01/23/2025 11:05,Not Connected,,Not Connected,
+071163c5-3814-44d9-9874-8a661a2de0dc,Elm Street Mobil,Elm Street Mobil ,12:00 AM - 11:59 PM EST,UberEats,Inactive,05/04/2025 06:00,Active,11/13/2024 07:47,Active,11/22/2024 11:15
+d626f396-c8ac-4933-9e41-0ea5fe1f3f82,Sam Singh Family Stores,Elyria Foodmart,06:30 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,03/31/2025 07:02,Inactive,04/02/2025 13:00,Inactive,10/10/2024 23:11
+39a1fef6-c142-4da7-bffb-ed0ed6e3f324,Sam Singh Family Stores,Elyria Sunoco,06:00 AM - 10:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,04/21/2025 06:19,Inactive,04/21/2025 06:19,Inactive,07/31/2024 13:27
+3cdceb48-e7b4-4fc0-8466-1816e97f2fa3,E Market,E Market,06:00 AM - 11:59 PM EST,UberEats,Inactive,11/21/2024 20:30,Not Connected,,Not Connected,
+64e5a700-6888-4c82-b060-ea36139027ba,NSR Petro,Emmitsburg Sunoco,No hours for today,UberEats,Inactive,01/23/2025 11:02,Not Connected,,Not Connected,
+25f3c271-f1e4-45c7-9a7f-2d93fad38028,NSR Petro,Enterprise A+ Sunoco,09:00 AM - 10:00 PM EST,UberEats,Inactive,02/17/2025 12:15,Not Connected,,Not Connected,
+a9193209-0242-45b5-aa54-a76e224be928,Chokshi Group,Epic Liquor,12:00 AM - 11:59 PM EST,UberEats,Inactive,01/23/2025 10:59,Not Connected,,Not Connected,
+87302154-bccf-4d3a-83ed-293209c687f3,Division Street Exxon,Exclusive Soda,06:00 AM - 10:00 PM CST,UberEats,Inactive,02/17/2025 12:15,Not Connected,,Not Connected,
+c8eef769-626f-402f-bfc4-d9c461c00411,Mobil Mart,Exclusive Soda Halsted,Closed today,UberEats,Inactive,11/22/2024 01:05,Not Connected,,Not Connected,
+488b6270-4279-4adc-8b56-4ad63fe4d057,Washington St. Market,Exotic Snax #4,Closed today,"UberEats, DoorDash, GrubHub",Inactive,08/22/2024 04:16,Inactive,08/22/2024 04:16,Inactive,08/22/2024 04:16
+48187ca1-be87-48b3-9b10-c392cd9cead9,Paresh Chain,Express Mart Bellingham,05:00 AM - 10:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,01/06/2025 17:20,Inactive,01/06/2025 17:21,Inactive,01/06/2025 17:20
+e2d93b17-8491-476b-bccb-bb8943094d3f,Paresh Chain,Express Mart Buzzards Bay,05:00 AM - 09:00 PM EST,UberEats,Inactive,01/23/2025 11:00,Not Connected,,Not Connected,
+46a60ede-7006-4887-97dc-bd9fb5b0defd,Paresh Chain,Express Mart Walpole,Closed today,"UberEats, DoorDash, GrubHub",Inactive,10/11/2024 00:03,Inactive,10/11/2024 00:03,Inactive,10/11/2024 00:03
+6d323f61-9372-4c07-977b-350fb786e170,Food Mart & Fuel Furry,Exxon Blue Water Fuel,Closed today,UberEats,Inactive,02/17/2025 12:17,Not Connected,,Not Connected,
+f8414270-25e2-4bf9-a896-43293670e030,Food Mart & Fuel Furry,Exxon Food Mart,Closed today,"UberEats, DoorDash, GrubHub",Inactive,08/12/2024 15:23,Inactive,08/12/2024 15:23,Inactive,08/12/2024 15:23
 b7dd19cd-5771-4618-972d-abd7c3a0d21d,Exxon Old Bridge,Exxon Macphail,06:00 AM - 11:00 PM EST,UberEats,Inactive,04/30/2025 06:00,Active,01/13/2025 08:23,Active,07/26/2024 07:26
+ead9dcae-a5fc-4da4-b4b6-a1e1713e0d0e,EZ GAS II,EZ Gas I,06:00 AM - 10:00 PM EST,"UberEats, DoorDash",Inactive,11/14/2024 15:45,Inactive,11/14/2024 15:45,Not Connected,
+7947301d-4948-4600-bf6d-94afa181f5e3,EZ GAS II,EZ Gas II,06:00 AM - 10:00 PM EST,"UberEats, DoorDash",Inactive,11/21/2024 21:31,Inactive,03/12/2025 15:51,Not Connected,
+87540981-359b-46d0-b59b-72af01050102,E Z Market,E Z Market,06:00 AM - 08:00 PM EST,"UberEats, DoorDash",Inactive,02/04/2025 07:52,Inactive,02/04/2025 07:52,Not Connected,
+6342b46a-aecc-477d-bd01-66e8f15f84da,EZ Mart,EZ Mart,08:00 AM - 08:00 PM EST,UberEats,Inactive,02/17/2025 12:19,Not Connected,,Not Connected,
+cd04f89a-8d63-49ac-819b-e29cda5f0291,Munchies Fort Collins,Farmer Brother's Coffeehouse & Bakery Fort Collins,12:00 AM - 11:59 PM MST,"UberEats, DoorDash",Inactive,09/13/2024 07:45,Inactive,09/13/2024 07:45,Not Connected,
+7a6f6295-9dde-4b3e-837d-851962024ae3,Farm Store Bellmore,Farm Store Bellmore,09:00 AM - 08:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/23/2024 09:00,Inactive,04/08/2025 11:20,Inactive,04/08/2025 11:20
+a278eba6-2cb0-4f05-9782-0c2a5257f1cd,Fascar Drive Thru,Fascar Drive Thru,06:00 AM - 10:00 PM EST,UberEats,Inactive,01/23/2025 11:09,Not Connected,,Not Connected,
+55b495c1-31d3-4332-8729-b14536a8da26,Jallo Chain,Fast Bites,12:00 AM - 11:59 PM EST,"DoorDash, GrubHub",Not Connected,,Inactive,04/23/2025 08:21,Inactive,04/23/2025 08:20
+02471971-2490-4b66-980c-cbf48b7e7e51,Fast Break Convenience Stores,Fastbreak Convenience Store - Ashland St. Market,06:00 AM - 10:00 PM PST,"UberEats, DoorDash, GrubHub",Inactive,12/04/2024 08:31,Inactive,12/04/2024 08:31,Inactive,12/04/2024 08:31
+e7131876-e9a0-436d-8114-b45984113e57,Fast Break Convenience Stores,Fastbreak Convenience Store - Madison 76,05:30 AM - 10:00 PM PST,"UberEats, DoorDash, GrubHub",Inactive,12/04/2024 08:31,Inactive,12/04/2024 08:31,Inactive,12/04/2024 08:31
+0094e133-ceb4-4169-94b9-53d257bacfc0,Fast Break Convenience Stores,Fastbreak Convenience Store - Siskiyou Market,08:00 AM - 10:00 PM PST,"UberEats, DoorDash, GrubHub",Inactive,12/04/2024 08:31,Inactive,12/04/2024 08:31,Inactive,12/04/2024 08:31
+1be6cecb-1119-451c-9994-8f4b27116cb8,Fast Break Convenience Stores,Fastbreak Convenience Store - Washburn Market,05:30 AM - 10:00 PM PST,"UberEats, DoorDash, GrubHub",Inactive,08/21/2024 08:16,Inactive,08/21/2024 08:16,Inactive,08/21/2024 08:16
+8bab529f-e234-4f84-a2ab-05c74a035920,Azan Petro,Fast Fuel,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,03/21/2025 01:02,Inactive,10/03/2024 15:58,Inactive,10/03/2024 15:58
+ec332baa-2513-4e28-9a10-14cb76acd5d8,Fastway Gas,Fastway Gas & Shop,06:00 AM - 09:00 PM EST,UberEats,Inactive,01/23/2025 11:03,Not Connected,,Not Connected,
+287f7a2c-6f97-4edd-88a6-9b4928a807c3,Flakesmill Food Store Inc.,Flakesmill Food Store,09:00 AM - 05:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,08/12/2024 16:56,Inactive,08/19/2024 11:52,Inactive,08/19/2024 11:52
 8840e734-e18e-4ac0-a413-4c5fa55e7dea,Flatshoals Food Store Inc.,Flatshoals Food Store,12:00 AM - 11:59 PM EST,UberEats,Inactive,05/04/2025 06:00,Active,05/02/2025 06:58,Active,05/02/2025 06:58
+d5ad1eb7-e2f3-45ce-80e5-035f10a9bfb4,Foodworx,Foodworx,Closed today,UberEats,Inactive,04/25/2025 17:16,Not Connected,,Not Connected,
+f969a3ac-a98b-4eac-a3a6-10deb123de96,Azan Petro,Forbes BP,09:00 AM - 10:00 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 09:01,Inactive,01/06/2025 16:15,Not Connected,
+741f56ee-6767-42a0-876a-fa19575e5262,NSR Petro,Forest Drive Sunoco,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/21/2024 20:11,Not Connected,,Not Connected,
+cc84b3e3-2992-4c40-8d26-0c7673914cbe,Gasoline Inc.,Fort Meade Shell,06:00 AM - 10:00 PM EST,UberEats,Inactive,01/23/2025 11:07,Not Connected,,Not Connected,
+ab55b5db-73a2-4eb7-ac64-8a6b5a3e9536,Fortune Circle Shell,Fortune Circle Shell,09:00 AM - 05:00 PM EST,"UberEats, DoorDash",Inactive,10/29/2024 07:00,Inactive,10/29/2024 07:00,Not Connected,
+0c370e4c-f875-413a-bef7-6c5a7cf2485f,Stadium Mobil,Foxboro Mobil,06:30 AM - 09:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,01/23/2025 10:57,Inactive,03/19/2025 22:51,Inactive,03/19/2025 22:51
+2a0747b0-0f99-4d73-8d05-cc12ffce1ac3,Alnafa Inc,Frankford Ave Shell,Closed today,UberEats,Inactive,03/30/2025 21:50,Not Connected,,Not Connected,
+894532ed-f1aa-461f-bf4f-8014443dfe01,Fuel Up,Fuel Up - Norco,12:00 AM - 11:59 PM PST,UberEats,Inactive,02/17/2025 12:21,Not Connected,,Not Connected,
+363a3f0d-5c5c-4bbc-88e8-0ecfd77b4f85,Fuel Up,Fuel Up - Sierra Ave.,09:00 AM - 05:00 PM PST,DoorDash,Not Connected,,Inactive,11/21/2024 20:22,Not Connected,
+804b4b3b-4734-4dfa-a058-16b12105c09e,Fuel Up,Fuel Up - Yorba Linda,12:00 AM - 11:59 PM PST,UberEats,Inactive,12/04/2024 10:52,Not Connected,,Not Connected,
+26d9519c-ad7b-4484-a60b-5d63d139e2ad,NSR Petro,Gainesville BP,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,04/29/2025 01:02,Inactive,10/01/2024 12:07,Inactive,10/01/2024 12:07
+e1c9e87f-709f-472f-bf25-1ded35d0fb83,Gamecock Liquor,Gamecock Liquor,10:00 AM - 10:00 PM CST,UberEats,Inactive,02/17/2025 12:13,Not Connected,,Not Connected,
+1c86e20d-3ecc-418c-980e-dbaa0ff8051c,Gampp's BP,Gampp's BP,07:00 AM - 08:30 PM EST,"UberEats, DoorDash, GrubHub",Inactive,05/03/2025 07:32,Inactive,11/29/2024 21:03,Inactive,11/29/2024 21:03
+3419ee0b-db68-40f4-aed5-e6df95b7efbb,Gas Express,Gas Express,Closed today,"UberEats, DoorDash, GrubHub",Inactive,08/27/2024 10:07,Inactive,08/27/2024 10:07,Inactive,08/27/2024 10:07
+f97e4e1c-bb0e-47a5-ac79-a53fe3bd0e9c,Circle K Gas Express,Gas Express (1004 N Charlotte Ave),12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,09/26/2024 10:37,Inactive,10/09/2024 08:08,Inactive,10/01/2024 07:29
+4b1d56d1-0bd0-43ea-922b-525f513c6ae3,Circle K Gas Express,Gas Express (2538 Cuthbertson Rd),Closed today,"UberEats, DoorDash, GrubHub",Inactive,10/15/2024 07:05,Inactive,10/15/2024 07:06,Inactive,11/04/2024 15:56
+3027fdc5-d7bc-4cd3-8efb-4c2892919bb5,Circle K Gas Express,Gas Express (305 Unionville Indian Trail Rd),Closed today,"UberEats, DoorDash, GrubHub",Inactive,10/15/2024 07:06,Inactive,10/15/2024 07:06,Inactive,10/15/2024 07:06
+fede06b8-f375-4c6a-9d16-ce80375c2c08,Circle K Gas Express,Gas Express (308 Joseph E. Lowery Blvd NW),Closed today,"UberEats, DoorDash, GrubHub",Inactive,10/15/2024 07:06,Inactive,10/15/2024 05:56,Inactive,10/15/2024 05:56
+c635b8a5-a892-42a6-98e2-0380b10d2f6e,Circle K Gas Express,Gas Express (4102 W Hwy 74),Closed today,"UberEats, DoorDash, GrubHub",Inactive,10/15/2024 06:59,Inactive,10/15/2024 05:56,Inactive,11/04/2024 15:50
+ea7e57c9-e7ad-462a-bc17-f16ba03e5abb,Gas Mart,Gas Mart,Closed today,UberEats,Inactive,11/21/2024 22:31,Not Connected,,Not Connected,
+ae8f5a80-84df-4746-aa31-0f91724dc632,Gasoline Alley,Gasoline Alley,08:00 AM - 11:00 PM EST,UberEats,Inactive,01/23/2025 11:10,Not Connected,,Not Connected,
+c553a28d-d59b-410d-82b1-a10fe5355cde,KAP Fuel & Food Inc.,Get it 'n' Go Deli,12:00 AM - 11:30 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 08:17,Inactive,02/03/2025 11:11,Not Connected,
+227ad3cd-31a0-4f6f-aee2-6b588ed02813,Gill Bros LLC,Gill Bros - 10,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/22/2024 10:49,Inactive,11/22/2024 10:49,Inactive,11/22/2024 10:49
+055ec8c7-d3ae-4fa3-bcbe-e45dcda944df,Gill Bros LLC,Gill Bros - 12,12:00 AM - 11:59 PM EST,UberEats,Inactive,03/27/2025 14:08,Not Connected,,Not Connected,
+df118dbd-d74c-4f12-88c7-0f4cdac4d00d,Gill Bros LLC,Gill Bros - 2,12:00 AM - 11:59 PM EST,UberEats,Inactive,03/30/2025 14:50,Not Connected,,Not Connected,
+f7a0cf27-eb23-4a24-8556-b5223f4de034,Gill Bros LLC,Gill Bros - 4,12:00 AM - 11:59 PM EST,UberEats,Inactive,03/30/2025 13:24,Not Connected,,Not Connected,
+7a08eb12-5bca-4724-aeb5-ef6216a6036b,Gill Bros LLC,Gill Bros - 5,12:00 AM - 11:59 PM EST,UberEats,Inactive,03/30/2025 12:53,Not Connected,,Not Connected,
+a80dc805-20bc-4058-a1eb-431de7ac15bc,Gill's 58,Gill's 58,06:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/06/2024 13:28,Inactive,11/06/2024 13:28,Inactive,11/06/2024 13:28
+e32466ff-b9a8-4a57-8d08-cec790113607,Washington St. Market,Global Munchies #8,Closed today,"UberEats, DoorDash, GrubHub",Inactive,12/23/2024 11:00,Inactive,12/23/2024 11:00,Inactive,12/23/2024 11:00
+13da9df6-e709-4687-8498-eeb438a2daba,Valero Food Mart,Gold Sword Super Market,08:00 AM - 10:00 PM EST,UberEats,Inactive,11/23/2024 08:00,Not Connected,,Not Connected,
+1638635c-cef9-4233-9ba8-d2877f274949,Gordon Plaza Sunoco,Gordon Plaza Sunoco,09:00 AM - 05:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,03/12/2025 15:37,Inactive,03/12/2025 15:37,Inactive,03/12/2025 15:37
+8c34ea10-bb5c-451b-8e64-a5682bd61ee7,Azan Petro,Goshen Sunoco,09:00 AM - 05:00 PM EST,DoorDash,Not Connected,,Inactive,11/21/2024 20:23,Not Connected,
+e0baf2b6-ab27-4560-aae4-e367df47725b,,Greenbelt Shell,06:00 AM - 08:00 PM EST,"UberEats, DoorDash",Inactive,05/04/2025 06:31,Inactive,04/16/2025 11:30,Not Connected,
 0548f204-e7cf-49f8-9302-f49c2992bb54,Goose Creek,Greensboro Tigermart,05:30 AM - 09:00 PM EST,"UberEats, DoorDash",Inactive,03/24/2025 06:03,Inactive,03/19/2025 12:20,Active,04/15/2025 10:23
+d18dd99a-2cb6-4110-bc90-4c4bedeb3d40,Guardado's LLC,Guardado's Food Service,09:00 AM - 05:00 PM CST,UberEats,Inactive,04/24/2025 17:33,Not Connected,,Not Connected,
+4aefdfcc-8d67-4dd2-a995-4a386d8e2eec,Dawoud Enterprises,Gulf - Silverspring,12:00 AM - 11:59 PM EST,UberEats,Inactive,12/04/2024 11:27,Not Connected,,Not Connected,
+541eac9e-6004-45d2-a1fb-15607e533b55,H1 Energy,H1 Energy #1,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/19/2024 16:03,Inactive,11/19/2024 16:03,Inactive,07/24/2024 20:39
+dfa40872-310e-43b4-89f1-1a97f77ebc64,H1 Energy,H1 Energy #3,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/19/2024 16:03,Inactive,11/19/2024 16:03,Inactive,07/29/2024 16:56
+92d5a5a6-02d6-483b-b7b4-13c93d934252,H1 Energy,H1 Energy #4,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/19/2024 16:04,Inactive,11/19/2024 16:04,Inactive,11/19/2024 16:04
+bff95afd-6741-442e-8d80-bd3fc5bedb91,"H.A. Mapes, Inc.","H.A. Mapes, Inc. (Harry's)",05:00 AM - 07:00 PM EST,UberEats,Inactive,01/23/2025 11:09,Not Connected,,Not Connected,
+1abc0d62-2b1f-4bbf-b3f3-d591263d5b36,Harman's Wine and Spirits,Harman's Wine and Spirits,09:00 AM - 09:00 PM EST,UberEats,Inactive,12/04/2024 11:09,Not Connected,,Not Connected,
+626f848e-fa1a-487c-aa71-02579c4b6aad,Hathaway Mobil,Hathaway Mobil,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,08/29/2024 09:49,Inactive,08/29/2024 09:49,Not Connected,
+240b21f4-cc14-4c9f-bf5d-b8d401df1339,SMC Fuels - 6 stores,Havertown Sunoco,07:00 AM - 10:00 PM EST,UberEats,Inactive,01/23/2025 11:01,Not Connected,,Not Connected,
+f8ceade0-e93c-4ab8-9f0a-911e56c3a9f2,Heas Energy,Heas Energy - Boonsboro,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,01/27/2025 07:26,Inactive,01/27/2025 07:27,Not Connected,
+e30fe859-a23d-47fa-8fb6-e06fd348a786,Heas Energy,Heas Energy - Gravesmill,05:30 AM - 08:00 PM EST,"UberEats, DoorDash",Inactive,01/27/2025 06:33,Inactive,01/27/2025 06:33,Not Connected,
+d4c1e4da-58de-4897-b33c-1e3c58a65b59,Heas Energy,Heas Energy - Thomas Terrace Exxon,12:00 AM - 11:59 PM EST,UberEats,Inactive,01/27/2025 06:08,Not Connected,,Not Connected,
+9e538a61-6f83-4184-ae2a-a18841d5c843,Heas Energy,Heas Energy - Thomas Terrace Shell,12:00 AM - 11:59 PM EST,UberEats,Inactive,01/27/2025 07:26,Not Connected,,Not Connected,
+dbc6f999-dcbe-41e5-bd17-89eb461ea56c,Heas Energy,Heas Energy - Waterlick,12:00 AM - 11:59 PM EST,UberEats,Inactive,01/27/2025 07:26,Not Connected,,Not Connected,
+2e07b7b4-3cee-48e1-9bba-62f87226db5a,Henny Penny,Henny Penny - 639 #43,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/23/2024 08:04,Not Connected,,Not Connected,
+c0a9c0fa-bc9c-4589-a452-30debc412555,Henny Penny,Henny Penny - Americana 20,09:00 AM - 05:00 PM EST,UberEats,Inactive,11/21/2024 18:13,Not Connected,,Not Connected,
+0ab23a6e-b4d2-4bd2-a7c6-b91c89b38ed8,Henny Penny,Henny Penny - Bethel 88,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/21/2024 22:37,Not Connected,,Not Connected,
+4a72fd7b-a6e7-4a24-81c6-1a59d435a490,Henny Penny,Henny Penny - Center Groton 36,12:00 AM - 11:59 PM EST,UberEats,Inactive,02/25/2025 01:02,Not Connected,,Not Connected,
+e9e0bf6b-53fc-4522-b56f-407b76045fe4,Henny Penny,Henny Penny - Colchester 45,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/21/2024 22:51,Not Connected,,Not Connected,
+c4140685-ff4c-484f-aafa-c50c292f6e3c,Henny Penny,Henny Penny - East Lyme 21,12:00 AM - 11:59 PM EST,UberEats,Inactive,02/25/2025 01:02,Not Connected,,Not Connected,
+b018001e-c662-4546-b15b-e3d9d5d4a905,Henny Penny,Henny Penny - Fort Hill 39,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/21/2024 22:38,Not Connected,,Not Connected,
+61534e22-635e-4537-b228-14f60a2bdb01,Henny Penny,Henny Penny - Gales Ferry 22,Closed today,UberEats,Inactive,11/21/2024 22:30,Not Connected,,Not Connected,
+c21bcf96-2099-4fc7-bd42-521c5f420148,Henny Penny,Henny Penny - Hartford Rd 23,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/21/2024 18:05,Not Connected,,Not Connected,
+bf6124ef-59a5-450d-ac1a-c4ea646a2ed3,Henny Penny,Henny Penny - Liberty Street 46 ,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,08/22/2024 08:36,Inactive,08/22/2024 08:36,Not Connected,
+bdfaa48b-728a-4fec-816a-0bf2eb2a719e,Henny Penny,Henny Penny - Lisbon 56,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/21/2024 22:26,Not Connected,,Not Connected,
+a96a1bb6-b07b-4ddc-b47d-816313559a2c,Henny Penny,Henny Penny - Long Hill 24,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/21/2024 07:33,Not Connected,,Not Connected,
+6c81d261-aeb7-4d18-aab5-bd45b932e0c2,Henny Penny,Henny Penny - Madison 37,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/21/2024 17:45,Not Connected,,Not Connected,
+6f12cdfe-b0ba-465b-8c24-4d7b8b28e504,Henny Penny,Henny Penny - Monroe 49,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/21/2024 22:25,Not Connected,,Not Connected,
+1a1f7601-480c-4cc4-a7d4-25dbda5e4f3e,Henny Penny,Henny Penny - Mystic 25,12:00 AM - 11:59 PM EST,UberEats,Inactive,02/25/2025 17:45,Not Connected,,Not Connected,
+4829025d-6a42-4c9a-8772-645efb30d398,Henny Penny,Henny Penny - Oswegatchie 38,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/21/2024 18:31,Not Connected,,Not Connected,
+99e31a73-edae-4b05-bd65-49906c8e07c4,Henny Penny, Henny Penny - Route 12 #54,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/21/2024 17:38,Inactive,01/06/2025 05:00,Not Connected,
+72152e4b-2a14-4098-928e-369fe090a35d,Henny Penny,Henny Penny - Salem 29,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/21/2024 20:21,Inactive,11/21/2024 20:21,Not Connected,
+3a131b5a-0010-4ec2-8d33-63de4fc94b91,Henny Penny,Henny Penny - Saybrook Shell 30,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/21/2024 22:24,Not Connected,,Not Connected,
+a4cd039f-45bb-4ad4-bb4c-36d5913feeb4,Henny Penny,Henny Penny - Saybrook Sunoco 63,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/21/2024 22:45,Not Connected,,Not Connected,
+a377d353-91b3-4a88-a109-814288589921,Henny Penny,Henny Penny - Seymour 28,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/21/2024 14:30,Not Connected,,Not Connected,
+07d5276b-6d17-419b-8c5a-8ff082838fdf,Henny Penny,Henny Penny - Somers 55,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/23/2024 13:19,Not Connected,,Not Connected,
+27cbfb0c-f435-4bd6-b1e7-0092ea800855,Henny Penny,Henny Penny - Southington 57,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/21/2024 22:57,Not Connected,,Not Connected,
+c0bade3a-a56c-483d-8bca-aa8cfe32ffc7,Henny Penny,Henny Penny - Stratford 84,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,11/23/2024 11:43,Inactive,01/06/2025 04:58,Not Connected,
+ebcb0c89-c0b6-45b5-95c1-bf2d72abd215,Henny Penny,Henny Penny - Uncasville 53,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/21/2024 17:31,Not Connected,,Not Connected,
+77d216a6-8d58-4f09-a404-71fab1f6257d,Henny Penny,Henny Penny - Wallingford 42,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/22/2024 00:38,Not Connected,,Not Connected,
+63d62389-04fa-43cd-bbc0-0fb6b19c4ccb,Henny Penny,Henny Penny - Winsted 64,12:00 AM - 11:59 PM EST,UberEats,Inactive,02/25/2025 17:45,Not Connected,,Not Connected,
+35be018c-4c3b-4aa5-bb8e-bff954a4c1e7,NSR Petro,Highbridge Market Exxon,12:00 AM - 11:59 PM EST,UberEats,Inactive,04/29/2025 01:02,Not Connected,,Not Connected,
+afb78e1f-633b-490b-b4e2-f9f3edb22ee2,New England Farms,Hillside Shell,06:00 AM - 10:00 PM CST,"UberEats, DoorDash, GrubHub",Inactive,12/09/2024 07:22,Inactive,01/06/2025 09:22,Inactive,12/09/2024 07:22
+1f036e94-7438-46f8-ad3f-683b44c6ae7f,NSR Petro,Hollywood Shell,08:00 AM - 10:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/21/2024 19:44,Inactive,12/31/2024 14:05,Inactive,12/31/2024 14:05
+16b3b206-a9b2-40fa-b190-d5528ad3a40e,Honeyland Farms,Honeyland Farms,06:30 AM - 09:30 PM EST,UberEats,Inactive,01/23/2025 11:03,Not Connected,,Not Connected,
+58666f56-02d6-49ca-91b6-c177ad8a29be,Circle K Gas Express,Hop In (2700 N University Ave),12:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,12/03/2024 10:41,Inactive,11/07/2024 17:17,Inactive,10/04/2024 08:22
+59b8b92f-d19c-4867-994d-b50bb10c6ecb,Circle K Gas Express,Hop In (304 S Lewis St),12:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,11/29/2024 20:28,Inactive,11/07/2024 17:15,Inactive,11/07/2024 17:15
+5916b7a3-3c05-4f8f-9432-9d3b9fe0b712,Hop N Shop,Hop N Shop #12,Closed today,"UberEats, DoorDash, GrubHub",Inactive,07/24/2024 23:08,Inactive,07/24/2024 23:08,Inactive,07/24/2024 23:08
+331e5b62-42f0-4d84-934b-7174f3bee73b,Hop N Shop,Hop N Shop #18,10:00 AM - 08:30 PM CST,UberEats,Inactive,05/04/2025 21:32,Active,07/25/2024 21:47,Active,07/25/2024 21:47
+3aeeaff5-08a1-4551-97fe-573919b5d026,Hop N Shop,Hop N Shop #6,05:00 AM - 10:30 PM CST,DoorDash,Active,05/05/2025 06:00,Inactive,07/26/2024 19:43,Active,07/26/2024 19:43
+6f2e46b4-47e2-4d4a-a8f7-4d53496ec4fa,R.L. Jordan Oil Company DBA Hot Spot,Hot Spot Convenience Store,12:00 AM - 11:59 PM EST,UberEats,Inactive,03/27/2025 14:20,Not Connected,,Not Connected,
+3fe46582-42cf-4c65-a917-7637732d24d2,"Parish Oil Co., Inc.",Humdingers #16,05:00 AM - 10:30 PM MST,"UberEats, DoorDash",Inactive,11/20/2024 15:42,Inactive,11/20/2024 15:42,Not Connected,
+6b22d6eb-8ee4-4b4a-a166-6429d84f5476,Beer Central,Hunt Brothers Pizza - Nacogdoches Rd,07:00 AM - 11:00 PM CST,"UberEats, DoorDash, GrubHub",Inactive,10/15/2024 13:24,Inactive,10/15/2024 13:24,Inactive,10/15/2024 13:24
+afb24a55-9f59-4bad-8576-c7467eb568b5,Washington St. Market,Ice Cream Haven #9,Closed today,"UberEats, DoorDash, GrubHub",Inactive,10/09/2024 07:14,Inactive,10/09/2024 07:14,Inactive,10/09/2024 07:14
 3a049d92-f020-408c-b74b-c242fe9b356e,Lula Commerce 1,Ice Cream Island#1,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,01/04/2025 00:42,Inactive,04/29/2025 06:03,Not Connected,
+c1013534-860a-4c50-86e2-d58b8f5012ad,Lula Commerce 1,Ice Cream Island#2,Closed today,UberEats,Inactive,03/30/2025 12:20,Not Connected,,Not Connected,
+29c80dfb-e8c4-4930-98a0-73ef1f646efd,Ingleside Crown Inc,Ingleside Crown,06:00 AM - 11:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,10/11/2024 00:03,Inactive,12/26/2024 05:35,Inactive,10/11/2024 00:03
+47c1f7ac-4d02-409a-9c80-d08395ba4cd9,SMC Fuels - 6 stores,Island Ave Sunoco,07:00 AM - 10:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,01/23/2025 11:02,Inactive,03/12/2025 15:49,Inactive,03/12/2025 15:49
+bc1ddd06-f668-41d2-a544-9006c19029eb,Island Crown Inc,Island Marathon,06:00 AM - 11:00 PM EST,UberEats,Inactive,01/23/2025 11:06,Not Connected,,Not Connected,
+b89a1940-e842-4680-a485-4fcc80712c6d,DMG,Jack's Convenience #5,06:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,05/04/2025 07:32,Inactive,12/27/2024 20:04,Inactive,07/31/2024 10:32
+0e4946c9-b56e-49a2-8adb-0c621c305b10,DMG,Jack's Convenience Stores #1,06:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,05/04/2025 07:31,Inactive,10/03/2024 15:56,Inactive,10/03/2024 15:56
+48d99a08-a359-4b90-9550-1a1f19d82b30,DMG,Jack's Convenience Stores #2,07:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,10/29/2024 11:46,Inactive,10/29/2024 11:46,Inactive,10/29/2024 11:46
+752262d9-b22a-44ef-a2e1-9ad52aff71ef,DMG,Jack's Convenience Stores #6,06:00 AM - 10:00 PM CST,"UberEats, DoorDash, GrubHub",Inactive,05/04/2025 07:32,Inactive,08/08/2024 14:58,Inactive,08/08/2024 14:58
+d47dec54-9f51-4041-a401-88edfb7ba489,DMG,Jack's Convenience Stores #7,06:00 AM - 11:00 PM CST,"UberEats, DoorDash, GrubHub",Inactive,05/04/2025 07:32,Inactive,10/29/2024 11:46,Inactive,10/29/2024 11:46
+d7aab443-e986-4150-87ec-5b01b3c8e944,DMG,Jack's Convenience Stores #8,06:00 AM - 11:00 PM CST,"UberEats, DoorDash, GrubHub",Inactive,05/04/2025 07:31,Inactive,10/29/2024 11:46,Inactive,10/29/2024 11:46
+3be4e16b-550f-4136-9ddc-fd92393bc6f6,DMG,Jack's Convenience Stores #9,Closed today,UberEats,Inactive,11/21/2024 22:06,Not Connected,,Not Connected,
+d21b2b25-5484-4f42-a7dd-3ab878713976,Jacksons Food Stores,Jacksons Food Stores (#109),12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,03/28/2025 15:21,Inactive,02/20/2025 09:55,Inactive,03/27/2025 17:28
 ac088887-7bcf-4cc3-af00-db376733d46c,Jacksons Food Stores,Jacksons Food Stores (#114),12:00 AM - 11:59 PM PST,DoorDash,Active,05/01/2025 10:57,Inactive,04/09/2025 07:52,Active,05/01/2025 10:57
 754cf435-947d-42c1-887d-4b3cfd191f13,Jacksons Food Stores,Jacksons Food Stores #23,12:00 AM - 11:59 PM PST,DoorDash,Active,04/21/2025 03:01,Inactive,08/12/2024 15:18,Active,08/13/2024 17:11
 2f73d177-6404-4d3c-b5b7-75c1449c9426,Jacksons Food Stores,Jacksons Food Stores #241,06:00 AM - 07:30 PM MDT,"UberEats, GrubHub",Inactive,05/02/2025 13:24,Not Connected,,Inactive,05/02/2025 00:48
+4ba4a9fd-56ec-4a4f-b134-b70b62f140a9,Jacksons Food Stores,Jacksons Food Stores #248,Closed today,"UberEats, DoorDash, GrubHub",Inactive,10/14/2024 08:33,Inactive,12/03/2024 17:32,Inactive,02/12/2025 10:09
+9a17fa9a-a75b-4c6a-af62-122f2664c1f6,Jacksons Food Stores,Jacksons Food Stores #249,Closed today,"UberEats, DoorDash, GrubHub",Inactive,10/14/2024 08:32,Inactive,12/03/2024 17:33,Inactive,12/09/2024 12:13
+766da79c-95a2-4692-86c2-5f9d4cb933b9,Jacksons Food Stores,Jacksons Food Stores #250,Closed today,"UberEats, DoorDash, GrubHub",Inactive,10/14/2024 08:31,Inactive,12/03/2024 17:33,Inactive,12/09/2024 12:16
 73c3ed5b-d7c4-4776-980c-e318635fb322,Jacksons Food Stores,Jacksons Food Stores (#509),12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,05/05/2025 00:24,Inactive,05/05/2025 00:24,Inactive,05/05/2025 00:24
 4a59d2b7-87c3-470c-b022-1bd72c7165e9,Jacksons Food Stores,Jacksons Food Stores (#515),05:30 AM - 10:00 PM PST,GrubHub,Active,05/05/2025 08:30,Active,04/21/2025 10:39,Inactive,04/21/2025 02:17
 e20281f7-1357-447a-a7bf-8da233d8aab0,Jacksons Food Stores,Jacksons Food Stores #812,06:00 AM - 09:30 PM MST,"UberEats, DoorDash, GrubHub",Inactive,05/04/2025 22:32,Inactive,05/04/2025 22:59,Inactive,05/04/2025 22:59
+92f08632-d0b1-4701-9e78-3a04790bf34b,Jacksons Food Stores,Jacksons Food Stores DD # 607,12:00 AM - 11:59 PM PST,DoorDash,Not Connected,,Inactive,11/25/2024 11:01,Not Connected,
+272da2cf-cbcd-4d21-a61c-9d9d55414bd1,Jacksons Food Stores,Jacksons Food Stores DD # 615,12:00 AM - 11:59 PM PST,DoorDash,Not Connected,,Inactive,11/25/2024 11:03,Not Connected,
+50d9b853-7a21-40b8-8cb6-0ca7528231f4,Jacksons Food Stores,Jacksons Food Stores DD # 625,05:00 AM - 11:59 PM PST,DoorDash,Not Connected,,Inactive,11/25/2024 11:04,Not Connected,
+c795cf4d-7095-40a0-946f-8068c1a789eb,Jacksons Food Stores,Jacksons Food Stores DD # 633,12:00 AM - 11:59 PM PST,DoorDash,Not Connected,,Inactive,11/25/2024 11:02,Not Connected,
+f2b18857-28c2-4c0b-a329-ee007de2577b,Jacksons Food Stores,Jacksons Food Stores DD # 648,12:00 AM - 11:59 PM PST,DoorDash,Not Connected,,Inactive,11/25/2024 11:03,Not Connected,
+7e84f907-61c0-44e5-b5c8-64df0b7f8ab1,Jacksons Food Stores,Jacksons Food Stores DD # 654,12:00 AM - 11:59 PM PST,DoorDash,Not Connected,,Inactive,11/25/2024 11:04,Not Connected,
+eeeb479d-572a-4bf2-8af7-7422a3ef2936,Jadden Stop & Go,Jadden Stop & Go,09:00 AM - 09:30 PM EST,UberEats,Inactive,04/23/2025 20:56,Not Connected,,Not Connected,
+cb9719b9-a682-45a7-8138-f18f53eb89a9,Washington St. Market,Japanese Jackpot #2,Closed today,"UberEats, DoorDash, GrubHub",Inactive,10/09/2024 07:17,Inactive,10/09/2024 07:17,Inactive,10/09/2024 07:17
+93c8820c-136f-44a4-ae7b-559b454ab51b,JD Streett - EZ Streett,JD Streett - EZ Streett - Farmington,12:00 AM - 11:59 PM CST,UberEats,Inactive,11/21/2024 19:52,Not Connected,,Not Connected,
+5d9e68f2-aac6-4c01-915b-4bb3c2565311,Jerusalem Corner Store Inc,Jerusalem Corner Store Inc,10:30 AM - 06:30 PM EST,UberEats,Inactive,11/21/2024 10:30,Not Connected,,Not Connected,
+46dfef6c-d1e8-4344-8f0d-56d2a5252f6b,Cipro Inc.,Jiffy Mart,06:00 AM - 08:00 PM EST,"UberEats, DoorDash",Inactive,11/21/2024 20:47,Inactive,02/28/2025 14:55,Not Connected,
+2df3b622-e58f-4f68-b73f-d5cda971104f,Joe's Gas,Joe's Gas,Closed today,UberEats,Inactive,11/25/2024 06:12,Not Connected,,Not Connected,
+b28b876d-af7d-4623-b25b-5d953af3088b,Jr Mini Market,Jr Mini Market,06:00 AM - 11:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/24/2024 07:00,Inactive,12/27/2024 09:31,Inactive,12/27/2024 09:31
+6404ca7d-9782-420a-85c0-ca6de097fdf0,Jr Mini Market,Jr Mini Market 2,07:00 AM - 10:00 PM EST,UberEats,Inactive,11/23/2024 07:00,Not Connected,,Not Connected,
+40983460-91fc-4a49-a366-981c4e38ed5a,KA Enterprises,KA Management - Emeryville Chevron,12:00 AM - 11:59 PM PST,UberEats,Inactive,03/30/2025 18:53,Not Connected,,Not Connected,
+b0382972-8345-4ccb-9311-71535034fc7e,KA Enterprises,KA Management - La Jolla Shores Shell,Closed today,"UberEats, DoorDash, GrubHub",Inactive,03/26/2025 09:35,Inactive,03/26/2025 09:35,Inactive,03/26/2025 09:35
+fcedaa94-0fab-444d-b19a-dde320e080eb,KA Enterprises,KA Management - Melrose Shell,Closed today,UberEats,Inactive,04/23/2025 15:25,Not Connected,,Not Connected,
+adffa331-ce66-403c-bc90-6ec8c04d1f06,KA Enterprises,KA Management - Roxford Chevron,12:00 AM - 11:59 PM PST,"UberEats, DoorDash",Inactive,03/26/2025 09:36,Inactive,03/26/2025 09:36,Not Connected,
 067defc7-0d62-4a31-877f-bf0e7038862c,Circle K Gas Express,Kangaroo Express (12390 Scotland Ave),12:00 AM - 11:59 PM CST,UberEats,Inactive,05/05/2025 01:00,Active,03/27/2025 13:09,Active,01/07/2025 18:09
+0f83def0-990d-4ee4-b5c5-3636a4089516,Circle K Gas Express,Kangaroo Express (1684 S College St),12:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,05/04/2025 22:26,Inactive,05/04/2025 22:26,Inactive,05/04/2025 22:26
 a9047e06-75ee-4452-bd6b-5d220d9ebee0,Circle K Gas Express,Kangaroo Express (38507 Louisiana 30 W),12:00 AM - 11:59 PM CST,UberEats,Inactive,05/05/2025 07:00,Active,03/21/2025 01:20,Active,02/27/2025 15:51
 14453655-6f9c-4e94-9fd4-9c87034fdbca,Jallo Chain,Kangaroo Express (4350 Bee Ridge Rd),12:00 AM - 11:59 PM EST,UberEats,Inactive,05/05/2025 06:00,Active,04/08/2025 22:02,Active,04/08/2025 22:02
 f4b38bde-fdfb-4e3e-816a-01e3cdaf695f,Circle K Gas Express,Kangaroo Express (6224 Plank Rd),06:00 AM - 11:00 PM CST,UberEats,Inactive,05/05/2025 09:32,Active,03/18/2025 10:30,Active,03/18/2025 10:30
+8efcb262-413d-437f-a183-99fc6feb7d5f,Kelly's,Kelly's Hitching Post (Kelly's Yellowstone Road),06:00 AM - 08:00 PM MST,UberEats,Inactive,11/22/2024 02:53,Not Connected,,Not Connected,
+fd702a9e-cb85-47dd-a19d-63ae246783f8,Kenyon's Variety,Kenyon's Variety Amherst,06:00 AM - 10:00 PM EST,UberEats,Inactive,12/04/2024 09:41,Not Connected,,Not Connected,
+c07d55fb-c871-4c3c-ab79-d85957cffe11,Kenyon's Variety,Kenyon's Variety Clarence,Closed today,UberEats,Inactive,11/21/2024 22:19,Not Connected,,Not Connected,
+db671a50-948a-485f-942a-636007a39613,Kenyon's Variety,Kenyon's Variety Lincoln,06:00 AM - 10:30 PM EST,UberEats,Inactive,02/17/2025 12:19,Not Connected,,Not Connected,
+a0e88c3b-b80f-4a36-880e-dd28166ecad9,Kenyon's Variety,Kenyon's Variety Pendleton,05:30 AM - 10:00 PM EST,UberEats,Inactive,11/22/2024 05:30,Not Connected,,Not Connected,
+ce0cc47d-1df1-4d2c-9fbf-ba9aae88571b,Kenyon's Variety,Kenyon's Variety Robinson Rd,06:00 AM - 10:00 PM EST,UberEats,Inactive,02/17/2025 12:20,Not Connected,,Not Connected,
 9715c6a3-22fd-4c74-90c8-a8f6480a1297,King Fuels,King Fuels - Aldine Shell,12:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,11/08/2024 07:24,Inactive,11/08/2024 07:24,Inactive,07/26/2024 09:08
 25413651-7d2f-4cf6-b473-c985a61c3455,King Fuels,King Fuels - Almeda Shell,12:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,11/08/2024 07:27,Inactive,01/12/2025 01:29,Inactive,11/08/2024 07:28
+a7116319-48e4-4293-9006-ddffa88d2cef,King Fuels,King Fuels - Cobra Shell,12:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,09/06/2024 12:10,Inactive,11/08/2024 07:34,Inactive,09/06/2024 12:10
 48aca849-7408-4767-8211-e26cecfcf109,King Fuels,King Fuels - Garth Road,12:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,11/08/2024 07:43,Inactive,11/08/2024 07:37,Inactive,11/08/2024 07:44
 298d0d99-66f9-4ff0-a9da-83543b13d496,King Fuels,King Fuels - Hardy Shell,12:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,07/25/2024 15:45,Inactive,10/23/2024 18:28,Inactive,10/23/2024 18:28
+8b22a434-f4db-4a8b-8f36-0e302ca44c69,King Fuels,King Fuels - Lake Houston,12:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,10/16/2024 11:11,Inactive,11/08/2024 07:47,Inactive,10/16/2024 11:11
+90ed290c-baf7-4bcf-9b09-26f013c01c7e,King Fuels,King Fuels - Rankin Road,12:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,11/08/2024 07:49,Inactive,11/08/2024 07:49,Inactive,11/08/2024 07:49
+4171fa3a-8598-4a7b-a352-35fd09c67886,King Fuels,King Fuels - San Jacinto,12:00 AM - 11:59 PM CST,"DoorDash, GrubHub",Active,01/27/2025 06:18,Inactive,11/08/2024 07:54,Inactive,11/08/2024 07:53
+af4468c1-fd01-41b8-9650-5d0e0ecc5eb5,King Fuels,King Fuels - Scott Street,12:00 AM - 11:59 PM CST,"DoorDash, GrubHub",Active,01/27/2025 13:14,Inactive,07/26/2024 09:09,Inactive,07/26/2024 09:09
+8d9eb043-83dd-4ca0-b797-49ae241bfeee,King Fuels,King Fuels - Vidor Truckstop,12:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,10/21/2024 17:28,Inactive,10/21/2024 17:28,Inactive,10/21/2024 17:28
+1cad5c3c-5221-4abe-8e30-828761f187bd,King Fuels,King Fuels - Woodson's Reserve,12:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,10/21/2024 17:29,Inactive,10/21/2024 17:29,Inactive,10/21/2024 17:29
+282ff836-e785-40f0-b728-27dca2773b6b,Krauszer Food & Liquor,Krauszer Food & Liquor,07:00 AM - 10:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,05/05/2025 07:04,Inactive,07/29/2024 03:39,Inactive,07/29/2024 03:39
+63a17ccc-fe52-4cda-a582-659a458d1c5c,,KRAUSZER FOOD & LIQUOR,09:00 AM - 10:00 PM EST,"UberEats, DoorDash",Inactive,07/29/2024 03:39,Inactive,07/29/2024 03:39,Not Connected,
+4bf6703c-8e6c-4f07-a128-d23f8c722487,Krauszer's Ocean Township,Krauszer's Ocean Township ,Closed today,"UberEats, DoorDash, GrubHub",Inactive,04/29/2025 01:02,Inactive,07/29/2024 06:44,Inactive,07/29/2024 06:44
 81d1f365-4319-40aa-9d7f-5874f299384c,Jallo Chain,Krispy Krunchy Chicken (909 Kings Hwy),05:30 AM - 09:00 PM EST,GrubHub,Active,05/05/2025 06:00,Active,04/24/2025 19:40,Inactive,04/23/2025 10:00
+6b864d65-6570-4ba9-ad5a-19a67d31ea18,K+S Market,K&S Market,06:30 AM - 08:30 PM EST,UberEats,Inactive,02/17/2025 12:21,Not Connected,,Not Connected,
+d2789ffe-e24e-4b2e-a1af-c248e37e564c,Citgo Kvvikmart,Kvvik Mart,07:00 AM - 10:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,08/09/2024 13:17,Inactive,08/09/2024 13:17,Inactive,08/09/2024 13:17
+ecf1389d-8b32-4798-9c50-85002795a169,La Familia Stop-N-Shop,La Familia Stop-N-Shop,11:00 AM - 11:59 PM EDT,UberEats,Inactive,05/05/2025 02:01,Active,01/26/2025 19:02,Not Connected,
+02c43ccf-225f-4ca7-a30b-15e000b2636a,Lakecity Mart LLC,Lakecity Mart,05:00 AM - 09:00 PM EST,UberEats,Inactive,11/21/2024 20:56,Not Connected,,Not Connected,
+fbe225db-c639-4a31-8909-ca7677bd6229,Lake Mary Chevron,Lake Mary Chevron,12:00 AM - 11:59 PM MST,DoorDash,Not Connected,,Inactive,10/03/2024 21:56,Not Connected,
+737514d7-163f-4181-a315-9d82c7ec132e,Lakewood Food & Gas / Bridgeport Way,Lakewood Food & Gas - 76,12:00 AM - 11:59 PM PST,UberEats,Inactive,04/25/2025 17:55,Not Connected,,Not Connected,
+9b722d8a-f535-4829-abd9-773d0384d431,Amafhh Holdings,Lakson Mart,09:00 AM - 08:00 PM EST,"UberEats, DoorDash",Inactive,11/23/2024 15:27,Inactive,01/06/2025 16:13,Not Connected,
+290b0038-2600-4c00-bf2c-7ee49b0f8a1b,Quick Track - LaMa,LaMa 105,12:00 AM - 11:59 PM CST,"UberEats, DoorDash",Inactive,09/16/2024 17:15,Inactive,09/16/2024 17:15,Not Connected,
+7edd9b78-71a6-4834-84cd-b76074a7447d,Quick Track - LaMa,LaMa 109,12:00 AM - 11:59 PM CST,DoorDash,Not Connected,,Inactive,09/16/2024 17:22,Not Connected,
+2888df43-ec75-4828-8781-c85774565a7e,Quick Track - LaMa,LaMa 111,12:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,09/04/2024 18:20,Inactive,09/04/2024 18:20,Inactive,09/04/2024 18:20
+b0a1b6ce-9811-4c2d-a42f-51f5650ea326,Quick Track - LaMa,LaMa 114,05:00 AM - 11:00 PM CST,"UberEats, DoorDash, GrubHub",Inactive,07/24/2024 23:04,Inactive,07/24/2024 23:04,Inactive,07/24/2024 23:04
+0dce26c1-1b12-456e-93aa-140f96b178bf,Larchmont Wine & Liquor,Larchmont Wine & Liquor,Closed today,UberEats,Inactive,11/23/2024 06:23,Not Connected,,Not Connected,
+dc89fc52-b0a3-470a-acc8-17e28537ecda,Liberty BP Inc,Liberty Crown,12:00 AM - 11:59 PM EST,UberEats,Inactive,12/04/2024 11:32,Not Connected,,Not Connected,
+136001e7-4149-4360-9c5d-400343bb9d87,,Liberty West St - Exxon,05:00 AM - 10:00 PM EST,UberEats,Inactive,11/21/2024 19:20,Not Connected,,Not Connected,
+477f847b-0ad6-4e3b-8bfc-5b3fd3bcea90,Lil' Buddy's Mini Mart,Lil' Buddy's Mini Mart,Closed today,UberEats,Inactive,11/21/2024 19:31,Not Connected,,Not Connected,
+6fea8441-d931-45ac-9011-8ed668fd2e4f,Raj Patel Stores,Liquor World Sharon,10:00 AM - 07:00 PM EST,UberEats,Inactive,02/17/2025 12:19,Not Connected,,Not Connected,
+10275347-71d6-4e45-b5bb-155c9c045771,Little Falls Exxon,Little Falls Exxon,Closed today,UberEats,Inactive,11/24/2024 06:00,Not Connected,,Not Connected,
+50b26e21-16af-4643-b941-a806f10260fe,Lone Star Food Stores,Lone Star - 1708 E. Hwy 82 N,07:00 AM - 11:59 PM CST,UberEats,Inactive,12/04/2024 11:13,Not Connected,,Not Connected,
+d94f311b-c98a-4aa3-bb95-79c0faf667af,Lone Star Food Stores,Lone Star - 1815 N. Central Expressway,12:00 AM - 11:59 PM CST,UberEats,Inactive,02/17/2025 12:13,Not Connected,,Not Connected,
+6e6329ad-0b68-455c-a1a2-e4d13e7c52e0,Lone Star Food Stores,Lone Star - 1842 FM 407 E.,07:00 AM - 10:00 PM CST,UberEats,Inactive,02/17/2025 12:15,Not Connected,,Not Connected,
+86614ccf-8dbd-475c-873b-9d1a3814193f,Lone Star Food Stores,Lone Star - 224 S. Collins,07:00 AM - 11:00 PM CST,"UberEats, DoorDash, GrubHub",Inactive,07/25/2024 08:44,Inactive,07/25/2024 08:44,Inactive,07/25/2024 08:44
+414eac0f-abcb-481d-9502-36c1ebf693c3,Lone Star Food Stores,Lone Star - 300 W Princeton Drive,07:00 AM - 10:00 PM CST,UberEats,Inactive,02/17/2025 12:20,Not Connected,,Not Connected,
+12c0c664-93ea-459f-8c65-184239e214bd,Lone Star Food Stores,Lone Star - 3315 W. FM 12,12:00 AM - 11:59 PM CST,"UberEats, GrubHub",Inactive,09/30/2024 00:11,Not Connected,,Inactive,09/30/2024 00:11
+e9cc8343-4465-4154-a60c-dd480d7a4285,Lone Star Food Stores,Lone Star #50 - 2920 N. Hwy 75,12:00 AM - 11:59 PM CST,UberEats,Inactive,02/17/2025 12:16,Not Connected,,Not Connected,
+7c30c2ac-0f24-4460-99f0-2731647b146e,Lone Star Food Stores,Lone Star - 700S. Interstate 35,08:00 AM - 10:00 PM CST,UberEats,Inactive,02/17/2025 12:22,Not Connected,,Not Connected,
+cbac8614-98b1-4759-a3b8-ac6e86a7f33e,Lone Star Food Stores,Lone Star - 990 W. Van Alstyne Parkway,07:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,09/30/2024 00:11,Inactive,09/30/2024 00:11,Inactive,09/30/2024 00:11
+0759ccff-5a80-4679-b8f5-5c7e7073d940,Azan Petro,Long Gate Services Inc,09:00 AM - 05:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,10/11/2024 00:03,Inactive,10/11/2024 00:03,Inactive,10/11/2024 00:03
+ad87ff18-a7a7-4403-9258-3fdc568e4a95,Lothian Mart Inc.,Lothian CMF,06:00 AM - 11:00 PM EST,UberEats,Inactive,01/23/2025 11:03,Not Connected,,Not Connected,
+733a79ce-f96c-4b16-8a61-d0eec3b393d0,Lot Stop,Lotstop Department - 245 1st Ave. ,09:00 AM - 09:00 PM EST,UberEats,Inactive,11/24/2024 03:46,Not Connected,,Not Connected,
+abf38f8a-662b-4582-a6b0-66ff46d895da,Lot Stop,Lotstop Department - 450 7th Ave,09:00 AM - 09:00 PM EST,UberEats,Inactive,11/22/2024 09:00,Not Connected,,Not Connected,
+c5b7dcbb-c342-49e9-8954-1b0fd7f11fdd,Lotus Management Group,Lotus Marketplace - Elmont,12:00 AM - 11:59 PM EST,UberEats,Inactive,12/04/2024 11:46,Not Connected,,Not Connected,
+b3745c9a-c9c1-447f-8b24-deaefab6eab3,Lotus Management Group,Lotus Marketplace - Hicksville,12:00 AM - 11:59 PM EST,UberEats,Inactive,02/17/2025 12:20,Not Connected,,Not Connected,
+b2c1dd87-4490-4c5a-848f-6fd024f5238e,Lotus Management Group,Lotus Marketplace - Uniondale,12:00 AM - 11:59 PM EST,UberEats,Inactive,12/04/2024 10:22,Not Connected,,Not Connected,
+46939928-ecd9-4670-b3ac-bc9219efdd3a,Lotus Management Group,Lotus Marketplace - Valley Stream,Closed today,UberEats,Inactive,02/17/2025 12:21,Not Connected,,Not Connected,
+58e382bd-7fae-4722-a130-38cddc006a53,Harjot Inc,Luckies Severn,06:00 AM - 11:00 PM EST,"UberEats, GrubHub",Inactive,12/30/2024 11:30,Not Connected,,Inactive,12/30/2024 11:30
+ce5bc67d-473a-4a94-bae6-d1f874b18fde,Lula Pizza,Lula Pizza,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,07/29/2024 15:26,Inactive,07/29/2024 15:26,Inactive,07/29/2024 15:26
 6d74c667-3f3b-432a-b94f-505d0c9b2a77,Lula Commerce 1,Lula Store (Powered by Up Partners),12:00 AM - 11:59 PM EST,UberEats,Inactive,04/28/2025 16:04,Not Connected,,Not Connected,
+68709251-ea76-4f79-bb00-46a5d30233d8,Lynn Liquor Mart,Lynn Liquor Mart,08:30 AM - 10:30 PM EST,"UberEats, DoorDash, GrubHub",Inactive,09/05/2024 10:42,Inactive,09/05/2024 10:42,Inactive,09/05/2024 10:42
+c2c3534e-49d0-4af1-b848-ab9ad29ec36b,Main Street Liquor Store,Main Street Liquor Store,08:00 AM - 08:30 PM CST,"UberEats, DoorDash, GrubHub",Inactive,08/28/2024 15:41,Inactive,08/11/2024 18:50,Inactive,08/11/2024 18:47
 189af414-1aa1-4823-a5e8-ed9b43a6ad53,Marathon Gas,Mak Convenience Marathon,06:00 AM - 10:30 PM EST,DoorDash,Active,05/05/2025 06:01,Inactive,07/25/2024 07:34,Active,05/02/2025 11:51
 a9151ec8-519a-4f20-8538-12d5adcebb8f,Mall Parkway Group LLC,Mall Parkway Food Mart,06:00 AM - 10:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,02/24/2025 21:49,Inactive,04/14/2025 11:12,Inactive,04/14/2025 11:12
+84f0b683-4e52-4539-9353-f4b9749993f6,Tejani Development,Mardi Gras Truck Stop,06:00 AM - 02:30 AM CST,"UberEats, DoorDash, GrubHub",Inactive,08/01/2024 18:30,Inactive,12/26/2024 21:07,Inactive,08/01/2024 18:30
+16f433bb-527b-49ac-8334-dda1bd9e1574,Azan Petro,Marlton Exxon,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,10/11/2024 14:37,Inactive,10/11/2024 14:37,Inactive,10/11/2024 14:37
+904fd413-5596-4d5b-bb15-2bdc0fd230ff,BP Murfreesboro,Meadows BP,08:00 AM - 05:00 PM CST,"UberEats, DoorDash, GrubHub",Inactive,11/20/2024 15:57,Inactive,11/20/2024 15:57,Inactive,11/20/2024 15:57
+8b080f61-1cfc-409c-88f4-2828b1feafc3,DMG,Mega! CO-OP (1210 N Division Street),Closed today,"UberEats, DoorDash, GrubHub",Inactive,03/17/2025 11:35,Inactive,03/17/2025 11:35,Inactive,03/17/2025 11:35
+a59044e3-97da-403b-9201-9fae5ce63955,DMG,Mega! CO-OP (1433 Commercial Blvd),Closed today,"UberEats, DoorDash, GrubHub",Inactive,03/17/2025 11:21,Inactive,03/17/2025 11:21,Inactive,03/17/2025 11:21
+6e7e42b0-4d6d-4d2b-903d-6afa71dc9da7,DMG,Mega! CO-OP (1630 E Blaschko Avenue),Closed today,"UberEats, DoorDash, GrubHub",Inactive,03/17/2025 11:22,Inactive,03/17/2025 11:22,Inactive,03/17/2025 11:22
+1d20230e-8f15-427e-ba0f-aacb3e9e6929,DMG,Mega! CO-OP (1703 E Bridge Street),05:00 AM - 11:00 PM CST,"UberEats, DoorDash, GrubHub",Inactive,04/18/2025 10:45,Inactive,09/30/2024 13:02,Inactive,04/18/2025 10:45
+6099bc27-eac4-44d8-8f35-0f2e6f35c552,DMG,Mega! CO-OP (17255 County Highway X),Closed today,"UberEats, DoorDash, GrubHub",Inactive,03/13/2025 07:20,Inactive,03/13/2025 07:20,Inactive,03/13/2025 07:20
+02d87b96-6ce8-4a73-a958-c7ff93eeb019,DMG,Mega! CO-OP (2109 Highland Avenue),Closed today,"UberEats, DoorDash, GrubHub",Inactive,03/17/2025 11:14,Inactive,03/17/2025 11:14,Inactive,03/17/2025 11:14
+fdd42bbb-04cd-4d8a-a05c-605e66aaa84c,DMG,Mega! CO-OP (2750 120th Street),Closed today,"UberEats, DoorDash, GrubHub",Inactive,03/17/2025 11:10,Inactive,03/17/2025 11:10,Inactive,03/17/2025 11:10
+58cac3d8-5b4b-435b-ad37-b17a3df4b267,DMG,Mega! CO-OP (2920 Craig Road),Closed today,"UberEats, DoorDash, GrubHub",Inactive,03/17/2025 11:13,Inactive,03/17/2025 11:13,Inactive,03/17/2025 11:13
+67d68aa0-3b6b-495d-920c-be2dab55cc21,DMG,Mega! CO-OP (4304 Jeffers Road),Closed today,"UberEats, DoorDash, GrubHub",Inactive,03/17/2025 11:13,Inactive,03/17/2025 11:13,Inactive,03/17/2025 11:13
+3b2c1d2d-a593-4208-bd5d-a7536e4a266a,DMG,Mega! CO-OP (5511 State Road 93),Closed today,"UberEats, DoorDash, GrubHub",Inactive,03/14/2025 21:54,Inactive,03/14/2025 21:54,Inactive,03/14/2025 21:54
+1d4d9db2-0c8f-4244-92bc-148869c92dbd,DMG,Mega! CO-OP (600 Bridge Street),Closed today,"UberEats, DoorDash, GrubHub",Inactive,03/17/2025 11:47,Inactive,03/17/2025 11:47,Inactive,03/17/2025 11:47
+7865cfa4-d427-41a9-8f50-c1c03ac1f371,DMG,Mega! CO-OP (7 S Mill Street),Closed today,"UberEats, DoorDash, GrubHub",Inactive,02/17/2025 09:43,Inactive,02/17/2025 09:43,Inactive,03/03/2025 14:16
+9e842af3-eeca-4d1c-86db-1fafc0793adf,Washington St. Market,Mega Mart #1,Closed today,"UberEats, DoorDash, GrubHub",Inactive,07/29/2024 15:07,Inactive,07/29/2024 15:07,Inactive,07/29/2024 15:07
+6d99fbe8-ab5f-4cad-a400-de667abd2578,Meriden Mobil,Meriden Mobil,12:00 AM - 11:59 PM EST,UberEats,Inactive,02/17/2025 12:21,Not Connected,,Not Connected,
+e4b1321d-b708-4f09-bcbe-ee2a70560d2b,Merrimack Food Mart,Merrimack Food Mart,12:00 AM - 11:59 PM EST,UberEats,Inactive,02/17/2025 12:19,Not Connected,,Not Connected,
+2b9515c0-75c8-4cbb-88e0-d3721ae811df,Metro Mart Stores,Metro Mart Stores,12:00 AM - 11:59 PM EST,UberEats,Inactive,01/23/2025 10:59,Not Connected,,Not Connected,
+b364ae9e-9f2f-4802-ab8d-adb4c7ffe1b4,Metuchen News,Metuchen News,06:00 AM - 08:45 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/23/2024 06:30,Inactive,03/19/2025 07:08,Inactive,03/19/2025 07:08
+ba2eaae8-bea0-4aeb-9f0d-cf676348ffd4,Mickey Mart,Mickey Mart Store 18,09:00 AM - 05:00 PM EST,UberEats,Inactive,11/21/2024 20:21,Not Connected,,Not Connected,
+441ae859-ce5d-41db-8324-541fa18fb667,Mickey Mart,Mickey Mart Store 31,09:00 AM - 05:00 PM EST,"UberEats, DoorDash",Inactive,08/01/2024 18:29,Inactive,08/01/2024 18:29,Not Connected,
+ea0362cc-f376-4a87-9bf0-047160a8ff5b,Mittal Petroleum,Mittal Petroleum,04:30 AM - 11:00 PM EST,UberEats,Inactive,02/17/2025 12:19,Not Connected,,Not Connected,
+8ba24639-0a8f-4d56-8de9-34c7f8cb5af8,NSR Petro,MLK Snack Shop Shell,Closed today,UberEats,Inactive,04/29/2025 01:02,Not Connected,,Not Connected,
+70eef7de-4a77-4d13-8fc6-1720c1f43b49,M&M Deli & Bagels,M&M Deli & Bagels,08:00 AM - 08:00 PM EST,UberEats,Inactive,11/23/2024 08:00,Not Connected,,Not Connected,
+450b1e26-551b-47d0-a967-fa37d5391d05,National 2 Oil,Mobil - 3870 S Howell Ave.,06:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,12/26/2024 20:05,Inactive,12/26/2024 20:05,Inactive,12/26/2024 20:05
+95b89766-8e1e-4382-bce5-476babf72321,Mobil Mart,Mobil Mart,Closed today,"UberEats, DoorDash",Inactive,07/31/2024 22:20,Inactive,07/31/2024 22:20,Not Connected,
+bd79935a-95cc-471b-9564-faa53b637946,Washington St. Market,Mo' Munchiez #3,Closed today,"UberEats, DoorDash, GrubHub",Inactive,10/09/2024 07:17,Inactive,10/09/2024 07:17,Inactive,10/09/2024 07:17
+14f6ef6f-f6ba-4225-aa04-432ab0e1b8b8,Monroe Food Mart,Monroe Food Mart,Invalid hours format,"UberEats, DoorDash",Inactive,05/04/2025 03:02,Inactive,12/01/2024 09:01,Not Connected,
+5be37392-465d-4048-b753-e4b27c6fd185,Auro Ma Exxon,Montgomery Road Exxon (Auro Ma Exxon),12:00 AM - 11:45 PM EST,UberEats,Inactive,02/17/2025 12:16,Not Connected,,Not Connected,
+0e206cfe-dfd9-43bb-a783-18e8967db940,Montville Exxon,Montville Exxon,05:00 AM - 10:00 PM EST,UberEats,Inactive,01/23/2025 11:11,Not Connected,,Not Connected,
+ad7f48a1-8106-49c5-a4c5-35ad23e38471,Tigermart aka Madwad LLC,Mount Arlington Tiger Mart,07:00 AM - 10:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,10/12/2024 23:10,Inactive,10/12/2024 23:10,Inactive,10/12/2024 23:10
+d3dd74dc-50ca-44cc-879c-8aa6e693cfb4,M&P Food Inc,M&P Food Inc,Closed today,"UberEats, DoorDash, GrubHub",Inactive,10/24/2024 11:18,Inactive,10/24/2024 11:18,Inactive,10/24/2024 11:18
+6bbfe7da-b216-475e-b377-fb2f74f25a22,Washington St. Market,Munch Addict #5,Closed today,"UberEats, DoorDash, GrubHub",Inactive,01/03/2025 22:19,Inactive,01/03/2025 22:19,Inactive,01/03/2025 22:19
+fd85ee34-fd0f-490c-85fc-b5d37dce3991,Munchies Fort Collins,Munchies Fort Collins,12:00 AM - 11:59 PM MST,"UberEats, DoorDash, GrubHub",Inactive,09/13/2024 07:45,Inactive,09/13/2024 07:45,Inactive,09/13/2024 07:45
+212b4ed3-26aa-4691-924f-0ce1c83ff5fd,Munchies Greeley,Munchies Greeley,Closed today,"UberEats, DoorDash",Inactive,08/29/2024 10:39,Inactive,08/29/2024 10:39,Not Connected,
+ef3890a0-f834-416e-a99f-bd2b47e4179b,Munchies Loveland,Munchies Loveland,09:00 AM - 11:59 PM MST,"UberEats, DoorDash, GrubHub",Inactive,12/26/2024 03:01,Inactive,12/26/2024 03:07,Inactive,12/26/2024 03:01
+8805aa05-3772-42ad-98d2-3b40cd28a479,Lula Commerce 1,NACS Snacks (Powered by Lula),08:00 AM - 06:00 PM PST,"UberEats, DoorDash",Inactive,08/21/2024 11:03,Inactive,08/21/2024 11:03,Not Connected,
+9971804c-5dbd-4c85-89ef-f1d5ca3b1306,Nashua Rd Shell,Nashua Road Shell,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,08/09/2024 13:16,Inactive,08/09/2024 13:16,Inactive,08/09/2024 13:16
+dc4b59c3-b61f-4925-b98e-7f28666748d7,Nautical Mile Convenience,Nautical Mile Convenience,09:00 AM - 12:00 AM EST,"UberEats, DoorDash, GrubHub",Inactive,11/22/2024 11:10,Inactive,11/22/2024 11:10,Inactive,11/22/2024 11:10
+4e89c759-449d-4f23-b5b0-1aed8ff8aec7,New England Farms,New England Farms ,05:00 AM - 10:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/06/2024 13:11,Inactive,11/06/2024 13:11,Inactive,11/06/2024 13:11
+2c436f7f-3292-4754-b093-d967905080f9,Azan Petro,New Hampshire Services Inc,05:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/24/2024 05:31,Inactive,12/27/2024 03:00,Inactive,12/27/2024 03:00
+35fd1c41-d65d-4259-9b6b-610be344195c,Raj Patel Stores,New World Gas,Closed today,UberEats,Inactive,11/21/2024 21:52,Not Connected,,Not Connected,
+68e834c7-4317-45ea-81cf-31f464560060,Resnick Distributors,Next Mart,07:00 AM - 05:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/21/2024 19:37,Inactive,03/03/2025 12:43,Inactive,03/03/2025 12:43
+97ea95df-fbd0-45bb-9573-d08adc1979d2,Nick's Deli,Nick's Deli,06:00 AM - 03:00 PM EST,UberEats,Inactive,01/23/2025 11:05,Not Connected,,Not Connected,
+90dd6cde-ce08-42bd-92f9-bb1d298524ec,Nik Nak Food Market,Nik Nak Food Market,Closed today,UberEats,Inactive,11/21/2024 22:30,Not Connected,,Not Connected,
+27a3a083-3850-44c4-a131-2a7122ce2401,Niyati - Valero Gas Station,Niyati - Valero Gas Station,06:00 AM - 09:30 PM EST,"UberEats, DoorDash, GrubHub",Inactive,04/22/2025 14:55,Inactive,04/22/2025 14:55,Inactive,04/22/2025 14:55
+e87c5049-669c-4616-9747-fd333cebf531,"Norm & Son, Inc dba Norm's on","Norm's on 48th (Norm & Son, Inc.)",Closed today,UberEats,Inactive,11/23/2024 07:00,Not Connected,,Not Connected,
+8ad7079d-3edb-4cfb-a2bb-879e933d13bd,North Avenue Services Inc.,North Avenue Clark,12:00 AM - 11:59 PM EST,UberEats,Inactive,02/17/2025 12:20,Not Connected,,Not Connected,
+fdfe610a-710f-4f63-a15f-214e9264749f,MNE Inc,Northern Parkway CMF,06:00 AM - 11:00 PM EST,UberEats,Inactive,01/23/2025 11:09,Not Connected,,Not Connected,
+1a240df9-2be5-4d95-8602-c1d563dcf758,Norwood Mobil,Norwood Mobil,12:00 AM - 05:00 PM EST,UberEats,Inactive,02/17/2025 12:17,Not Connected,,Not Connected,
+67be8c59-78d8-487e-aa15-988997e3dbe1,Nutfield Country Store,Nutfield Country Store,05:00 AM - 10:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,07/26/2024 22:48,Inactive,07/26/2024 22:48,Inactive,07/26/2024 22:48
+909763a7-15cb-484c-8cf5-fac9cb05f017,Oakland Fresh Market,Oakland Fresh Market,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/22/2024 00:00,Not Connected,,Not Connected,
 41b15927-030c-49ce-bfd1-0ec5ab87549b,Ocean Liquor,Ocean Liquor,10:00 AM - 11:00 PM EST,"UberEats, GrubHub",Inactive,11/28/2024 12:41,Active,12/26/2024 11:16,Inactive,07/26/2024 10:25
+c51588d7-6e8b-4bb8-8126-f098cc5e0b04,Ogontz Gulf,Ogontz Gulf,09:00 AM - 05:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,10/14/2024 12:01,Inactive,10/14/2024 12:01,Inactive,10/14/2024 12:01
+7d9a1d3e-6e0f-47dc-9805-e91b3c035ab1,Old Nelson,Old Nelson,07:00 AM - 07:30 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/24/2024 08:00,Inactive,03/12/2025 15:53,Inactive,03/12/2025 15:53
+8a2dcea4-641e-4177-b408-8ccf9521fc10,Old Town Liquors,Old Town Liquor,07:00 AM - 11:00 PM PST,UberEats,Inactive,11/21/2024 10:00,Not Connected,,Not Connected,
+7d443411-98d8-4483-ad11-f4fe8884ebea,One Stop Deli Market Inc,One Stop Deli Market Inc,06:00 AM - 05:30 PM EST,UberEats,Inactive,01/23/2025 11:07,Not Connected,,Not Connected,
+46b9ab76-fdf1-4104-bd8a-8905d6c73e63,SMC Fuels - 6 stores,Oregon Ave Sunoco,07:00 AM - 10:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,01/23/2025 11:01,Inactive,03/12/2025 15:51,Inactive,03/12/2025 15:51
+4f4fbb81-2e64-44ea-a92a-1b257198c5fd,Azan Petro,Oxon Hill Services Inc,Closed today,"UberEats, DoorDash",Inactive,11/21/2024 19:34,Inactive,03/19/2025 13:23,Not Connected,
+efa0b19e-5b99-4da2-b7ca-27f59a049187,Pantry 1 Food Mart,Pantry 1 Food Mart,06:00 AM - 09:30 PM EST,"UberEats, DoorDash",Inactive,11/15/2024 14:59,Inactive,11/15/2024 14:59,Not Connected,
+1360ae56-c069-4d9d-b952-2515335f931a,Parkers Stop & Shop,Parker's Stop and Shop,06:00 AM - 11:59 PM EST,UberEats,Inactive,12/04/2024 09:35,Not Connected,,Not Connected,
+393b6d05-5517-49bc-9ced-e47e77f375cc,Park & Gratiot Marathon,Park & Gratiot Marathon,05:30 AM - 11:59 PM EDT,UberEats,Inactive,11/22/2024 00:00,Not Connected,,Not Connected,
+3a0d9523-32c5-428b-8946-31087fab46c7,Parkview Wine & Spirits,Parkview Wine & Spirits,09:30 AM - 09:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,10/03/2024 08:20,Inactive,10/03/2024 08:20,Inactive,10/03/2024 08:20
+a294608e-0322-4c1b-b21d-a01ccaaad1ec,Parkway Shell,Parkway Shell,06:00 AM - 10:00 PM EST,UberEats,Inactive,11/21/2024 07:04,Not Connected,,Not Connected,
+3566dcb3-af3e-42c9-99ab-14dca02a44a1,Par Mar Stores,Par Mar Stores - 1,06:00 AM - 11:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,09/24/2024 11:55,Inactive,09/24/2024 11:55,Inactive,09/24/2024 11:55
+df555d9b-f6b1-49f0-8cd2-557f798d3619,Par Mar Stores,Par Mar Stores - 105,06:00 AM - 09:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,03/13/2025 14:35,Inactive,03/13/2025 14:35,Inactive,03/13/2025 14:35
+c0f786de-859d-44cd-abb6-541e59cf9d12,Par Mar Stores,Par Mar Stores - 1100 (Chartiers Ave),09:00 AM - 11:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,09/19/2024 09:19,Inactive,09/19/2024 09:19,Inactive,09/19/2024 09:19
+a737bf54-669e-4c4a-ab79-81bd77c198e9,Par Mar Stores,Par Mar Stores - 1105,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,10/10/2024 15:36,Inactive,10/10/2024 15:36,Inactive,10/10/2024 15:36
 8a7ed10d-731b-47ee-adbb-39d0e52d5d06,Par Mar Stores,Par Mar Stores - 110 (Jones Road),05:00 AM - 11:30 PM EST,UberEats,Inactive,05/04/2025 16:00,Not Connected,,Active,07/29/2024 12:10
 a6216d03-2f5f-4276-adbd-8d40768be3b6,Par Mar Stores,Par Mar Stores - 121 (East Main St),06:00 AM - 09:30 PM EST,UberEats,Inactive,05/05/2025 06:01,Not Connected,,Active,07/25/2024 12:29
+76d7df41-7857-4938-8259-530271f1631f,Par Mar Stores,Par Mar Stores - 129,06:00 AM - 10:00 PM EST,"UberEats, GrubHub",Inactive,09/24/2024 11:56,Not Connected,,Inactive,09/24/2024 11:56
+14a34930-996f-4a10-b63a-c96315131503,Par Mar Stores,Par Mar Stores - 132,05:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,09/24/2024 11:56,Inactive,09/24/2024 11:56,Inactive,09/24/2024 11:56
+5cceacc2-0167-409f-8bcb-7d4f0d117e15,Par Mar Stores,Par Mar Stores - 14,Closed today,"UberEats, DoorDash, GrubHub",Inactive,09/26/2024 08:28,Inactive,09/26/2024 08:28,Inactive,09/26/2024 08:28
 2333f860-6240-4439-aca0-03a76da1e6ac,Par Mar Stores,Par Mar Stores - 181 (North Mantua Rd),06:00 AM - 09:30 PM EST,"UberEats, DoorDash, GrubHub",Inactive,01/04/2025 20:07,Inactive,01/04/2025 20:07,Inactive,01/04/2025 20:07
+3add5604-2223-43bd-83aa-7c7c0ed708f7,Par Mar Stores,Par Mar Stores - 19,06:00 AM - 11:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,03/07/2025 15:20,Inactive,03/07/2025 15:20,Inactive,03/07/2025 15:20
 2958c34d-af15-45ea-ad9f-93a55202eb01,Par Mar Stores,Par Mar Stores - 204 (Ohio River Rd),06:00 AM - 10:30 PM EST,UberEats,Inactive,05/05/2025 06:01,Active,10/28/2024 07:22,Active,07/29/2024 21:48
 fa1034a4-d99a-452a-acb7-55319412de02,Par Mar Stores,Par Mar Stores - 231 (Wheeling Ave),06:00 AM - 07:30 PM EST,GrubHub,Active,05/05/2025 06:01,Active,01/07/2025 06:44,Inactive,07/24/2024 10:45
 b2c6ea56-e423-4c64-a207-b1d408516ec4,Par Mar Stores,Par Mar Stores - 235 (West Old Lincoln Way),12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,01/17/2025 23:16,Inactive,01/11/2025 00:07,Active,01/27/2025 12:02
+5b8b0b96-09a6-4bce-a8b9-61e338117d00,Par Mar Stores,Par Mar Stores - 24,06:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,01/29/2025 16:52,Inactive,01/29/2025 16:52,Inactive,01/29/2025 16:52
 49cfce83-5a19-4797-952d-952251e03fd0,Par Mar Stores,Par Mar Stores - 25,06:00 AM - 09:30 PM EST,"UberEats, DoorDash, GrubHub",Inactive,03/12/2025 17:56,Inactive,03/12/2025 17:56,Inactive,01/04/2025 20:05
 85847f30-dfa8-4a9b-89e1-6d5a4346b63d,Par Mar Stores,Par Mar Stores - 55 (Tuscarawas Rd),05:30 AM - 11:30 PM EST,"UberEats, DoorDash, GrubHub",Inactive,04/25/2025 15:23,Inactive,04/25/2025 15:23,Inactive,04/25/2025 15:23
+b079bd7b-7b37-44f9-b7f4-eff1e8491cf1,Par Mar Stores,Par Mar Stores - 57 (Dinnerbell Rd),12:00 AM - 11:59 PM EST,DoorDash,Active,09/10/2024 11:07,Inactive,07/25/2024 10:38,Active,09/10/2024 11:07
 6ac86b7c-18ad-448c-a665-b84e5b634939,Par Mar Stores,Par Mar Stores - 75 (Beulah Road),06:00 AM - 08:30 PM EST,DoorDash,Active,05/05/2025 06:00,Inactive,08/08/2024 12:53,Active,07/24/2024 20:05
+dc8f8755-4cf5-4dd5-a73f-cc1c5ddfe904,Par Mar Stores,Par Mar Stores - 85 (Pearl Road),06:00 AM - 10:30 PM EST,GrubHub,Not Connected,,Not Connected,,Inactive,04/02/2025 09:04
 3a55814e-a2b4-40d1-be88-fb25b22ae9c3,Par Mar Stores,Par Mar Stores - 86 (West High St),06:00 AM - 11:00 PM EST,"UberEats, GrubHub",Inactive,05/05/2025 06:01,Active,05/02/2025 07:55,Inactive,11/04/2024 22:28
 fc90e61f-1858-4aad-8e44-f3850549e981,Par Mar Stores,Par Mar Stores - 98 (Pearl Rd),06:00 AM - 09:30 PM EST,DoorDash,Active,05/05/2025 06:00,Inactive,08/08/2024 15:52,Active,09/26/2024 11:44
+72dbdbe2-4cbf-4184-858d-f282653e8ea8,Par Mar Stores,Par Mar Stores - 99,05:30 AM - 11:00 PM EST,"UberEats, GrubHub",Inactive,10/22/2024 10:19,Not Connected,,Inactive,10/22/2024 10:19
+6e38c860-bb91-4626-aaa3-71ffc7e9f672,IK Singh Inc,Paul's Market,06:00 AM - 09:00 PM EST,UberEats,Inactive,12/04/2024 10:22,Not Connected,,Not Connected,
+23c06854-5755-47fb-b163-8c3ebaa116f6,Peninsula - BP,Peninsula - BP - 1,09:00 AM - 05:00 PM EST,UberEats,Inactive,01/23/2025 10:59,Not Connected,,Not Connected,
+ef13ab9f-4f41-454d-b05a-bcf353dea261,Penny Mart,Penny Mart - 846 W. Washington,07:00 AM - 09:00 PM EST,UberEats,Inactive,02/17/2025 12:17,Not Connected,,Not Connected,
+a5c77860-d2f9-4c7f-b5be-4b8d45c628fa,Penny Mart,Penny Mart - E Main St,07:00 AM - 09:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,09/27/2024 17:17,Inactive,09/27/2024 17:17,Inactive,09/27/2024 17:17
+4a5833ad-bfee-4e9e-9c60-946dfaaf9558,Penny Mart,Penny Mart - E Washington St,07:30 AM - 08:30 PM EST,"UberEats, DoorDash",Inactive,12/20/2024 18:17,Inactive,12/20/2024 18:17,Not Connected,
+b5fcfa97-5013-4c05-bca2-fe5bfe966c4c,Penny Mart,Penny Mart - N Queen St,07:00 AM - 09:00 PM EST,UberEats,Inactive,01/23/2025 11:00,Not Connected,,Not Connected,
+e40918da-4313-42d1-ab12-ac94470a6fda,Penny Mart,Penny Mart - Pennsylvania Ave,07:00 AM - 10:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,01/23/2025 11:07,Inactive,03/05/2025 20:31,Inactive,01/23/2025 20:57
+382513b6-9645-4c5f-b8c6-38953ad7acb7,Penny Mart,Penny Mart - S Potomac St,07:00 AM - 11:59 PM EST,UberEats,Inactive,12/04/2024 09:54,Not Connected,,Not Connected,
+06f8458f-5aff-4b0b-b1a5-de31deccff15,PCG Market LLC DBA Petromax,Petromax Deli & Convenience,06:00 AM - 11:59 PM EST,UberEats,Inactive,02/17/2025 12:20,Not Connected,,Not Connected,
+d80359d0-99b1-45a7-902d-c6a4a942ba22,NSR Petro,PG Plaza Sunoco,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/21/2024 22:20,Not Connected,,Not Connected,
+25fba7ff-b925-425f-bb10-e5dd1929a7ca,Azan Petro,Pikesville Mobil Inc,08:00 AM - 08:00 PM EST,"UberEats, DoorDash",Inactive,11/22/2024 10:48,Inactive,11/22/2024 10:48,Not Connected,
+514c8144-f016-4eb9-8397-549425578317,"Center Independent Energy, L.P. (Sweet Pea's)",Pit Stop 8 Bellevue,09:00 AM - 05:00 PM EST,"UberEats, DoorDash",Inactive,11/20/2024 09:20,Inactive,11/20/2024 09:20,Not Connected,
+6cfb835d-3c9d-4441-b256-9c62867ce164,Vini Trading Co,PNP Gas and Food Mart,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,01/20/2025 01:08,Inactive,01/20/2025 01:08,Not Connected,
+ee63b91b-f05f-4249-a224-b1a2dc634403,Paresh Chain,Pocasset Country Market,Closed today,"UberEats, DoorDash, GrubHub",Inactive,10/02/2024 11:29,Inactive,10/02/2024 11:29,Inactive,10/02/2024 11:29
+aab5f35c-ae09-45c3-a554-03f0acc2a35c,Preston Market,Preston Market,Closed today,UberEats,Inactive,11/22/2024 06:00,Not Connected,,Not Connected,
+47e8b941-2ac2-4b47-83ae-0426c0c5a0c4,Priya Food Mart,Priya Food Mart - Alpharetta,Invalid hours format,UberEats,Inactive,02/17/2025 12:14,Not Connected,,Not Connected,
+1437d257-9854-474e-9ff7-b0d48acafe64,Lula Commerce 1,PT Store 10,09:00 AM - 05:00 PM EST,DoorDash,Not Connected,,Inactive,09/19/2024 17:05,Not Connected,
+703ba1fa-690c-4551-aed0-d92e60987fca,Quickmart,Quickmart #2,06:00 AM - 10:00 PM EST,"UberEats, GrubHub",Inactive,01/09/2025 14:09,Not Connected,,Inactive,01/09/2025 14:09
+5cf00bc5-2951-4051-beca-ecdbf861df59,Quick Pick Variety,Quick Pick Liquor and Convenience,Closed today,UberEats,Inactive,11/23/2024 13:46,Not Connected,,Not Connected,
+f71cfe81-d92d-4c9e-9ee3-9694cb10a429,Quick Stop Convenience Store,Quick Stop Convenience Store,07:00 AM - 08:00 PM EST,"UberEats, DoorDash",Inactive,11/04/2024 09:34,Inactive,11/04/2024 09:34,Not Connected,
 ca6f5c5b-cf64-4bbb-9ed3-9a8da4f422e6,Quick Track - LaMa,Quick Track 10,06:00 AM - 11:30 PM CST,"UberEats, DoorDash, GrubHub",Inactive,04/23/2025 00:31,Inactive,04/23/2025 06:04,Inactive,04/23/2025 06:04
+92e26ea5-9933-48cb-ab8e-003b3c7f86f1,Quick Track - LaMa,Quick Track 2,12:00 AM - 11:59 PM CST,"DoorDash, GrubHub",Not Connected,,Inactive,09/16/2024 16:29,Inactive,09/16/2024 16:29
+9c24c061-cb00-4de5-9253-4ca0ab579df3,Quick Track - LaMa,Quick Track 54,Closed today,"UberEats, DoorDash, GrubHub",Inactive,08/29/2024 18:44,Inactive,08/29/2024 18:44,Inactive,08/29/2024 18:44
 dddc1aec-438f-41e5-a466-ae5cdcd67de4,Quick Track - LaMa,Quick Track 56,12:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,04/21/2025 15:27,Inactive,04/21/2025 15:27,Inactive,04/21/2025 15:27
+860c5edc-ae72-4093-b4b8-d38b696c2527,Quick Track - LaMa,Quick Track 62,12:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,07/24/2024 23:05,Inactive,07/24/2024 23:05,Inactive,07/24/2024 23:05
 e20620f3-5e1d-45c1-abe8-c8b5cc73cd8e,Quick Track - LaMa,Quick Track 63,12:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,04/26/2025 00:25,Inactive,04/26/2025 00:25,Inactive,04/26/2025 00:25
+c4738c16-7644-44c7-a0cd-8088f56ab264,Quick Track - LaMa,Quick Track 64,06:00 AM - 11:30 PM CST,"UberEats, DoorDash, GrubHub",Inactive,07/31/2024 10:42,Inactive,07/31/2024 10:42,Inactive,07/31/2024 10:42
+7bb598c7-aac6-4d35-be85-67015e080ce6,Quick Track - LaMa,Quick Track 67,12:00 AM - 11:59 PM CST,DoorDash,Not Connected,,Inactive,08/17/2024 08:38,Not Connected,
+2f137661-10ae-45af-b2e1-a5ed9ee2435c,Quick Track - LaMa,Quick Track 69,12:00 AM - 11:59 PM CST,DoorDash,Not Connected,,Inactive,08/17/2024 08:38,Not Connected,
+7ea5e25a-12f9-43b6-8afb-d02e8ff7426d,Quick Track - LaMa,Quick Track 71,12:00 AM - 11:59 PM CST,DoorDash,Not Connected,,Inactive,08/17/2024 08:38,Not Connected,
+9217c812-99d1-4c50-a3a0-12b6c7960d17,Quick Track - LaMa,Quick Track 73,12:00 AM - 11:59 PM CST,DoorDash,Not Connected,,Inactive,09/16/2024 17:45,Not Connected,
+c1b4d549-4ed0-452f-ac1d-6d51290eca17,Quick Track - LaMa,Quick Track 77,12:00 AM - 11:59 PM CST,DoorDash,Not Connected,,Inactive,09/16/2024 17:46,Not Connected,
+7f1451fb-07d9-4297-9687-1ceb13378b9f,Quick Track - LaMa,Quick Track 79,12:00 AM - 11:59 PM CST,DoorDash,Not Connected,,Inactive,09/16/2024 17:48,Not Connected,
+5e8f113d-cdfd-4983-8b97-cb159dd0bd0c,Quick Track - LaMa,Quick Track 81,12:00 AM - 11:59 PM CST,DoorDash,Not Connected,,Inactive,09/16/2024 17:51,Not Connected,
+01f42014-4313-4679-b813-6d4699a6b449,Quick Track - LaMa,Quick Track 83,12:00 AM - 11:59 PM CST,DoorDash,Not Connected,,Inactive,07/30/2024 14:46,Not Connected,
+eb4aac77-6fb7-451e-adea-219011bbe72d,NSR Petro,Rename - Urban Market Sunoco,12:00 AM - 11:59 PM EST,UberEats,Inactive,04/29/2025 01:02,Not Connected,,Not Connected,
+abe60bcf-b41b-4b82-9eea-03beaeb2d717,Richdale Food Shops,Richdale Food Shops 101,No hours for today,"UberEats, GrubHub",Inactive,11/21/2024 20:22,Active,11/21/2024 20:22,Inactive,11/21/2024 20:22
+0105dd43-84ed-4097-8789-da1c6dae6830,Richdale Food Shops,Richdale Food Shops 109,07:30 AM - 10:30 PM EST,"UberEats, DoorDash, GrubHub",Inactive,10/03/2024 15:50,Inactive,10/03/2024 15:50,Inactive,10/03/2024 15:50
+23f1567a-9e8d-406e-9288-f61a2398ba4d,Richdale Food Shops,Richdale Food Shops 110,08:00 AM - 09:00 PM EST,UberEats,Inactive,01/23/2025 11:03,Not Connected,,Not Connected,
+0ce36f1b-2249-4bd6-ba70-a9cf12d3e923,Richdale Food Shops,Richdale Food Shops 121,07:00 AM - 08:00 PM EST,UberEats,Inactive,11/23/2024 09:41,Not Connected,,Not Connected,
+10318d77-e055-446c-af3b-96ab6db2bee5,Richdale Food Shops,Richdale Food Shops 122,07:00 AM - 09:30 PM EST,UberEats,Inactive,11/25/2024 04:59,Not Connected,,Not Connected,
+c7656990-19fd-439b-b71e-dcb637baba32,Vini Trading Co,Ridge Gas and Food Mart,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,01/20/2025 01:01,Inactive,01/20/2025 01:05,Not Connected,
 72e99374-373b-4ed3-a969-8edf9b8fbe45,Rocket,Rocket #210,12:00 AM - 11:59 PM PST,DoorDash,Active,04/21/2025 03:00,Inactive,01/12/2025 01:14,Active,02/07/2025 12:27
 318c0250-b415-4c42-9a18-862e7055fd36,Rocket,Rocket #252,12:00 AM - 11:59 PM PST,UberEats,Inactive,05/01/2025 21:39,Active,12/17/2024 20:26,Active,12/17/2024 20:26
 59322776-b959-45be-95b1-2ea0dc58b882,Rocket,Rocket #38,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,02/09/2025 16:01,Inactive,02/09/2025 16:01,Inactive,02/09/2025 16:01
 be30011c-a52a-4dcd-a98c-06a5bac69dc6,Rocket,Rocket #4240,12:00 AM - 11:59 PM CST,"UberEats, DoorDash, GrubHub",Inactive,03/21/2025 09:12,Inactive,03/21/2025 09:12,Inactive,03/21/2025 09:12
 7498a696-1da7-4c37-94f3-adfa6522fb48,Rocket,Rocket #5264,05:00 AM - 11:00 PM PST,DoorDash,Active,05/05/2025 08:00,Inactive,01/19/2025 16:03,Active,12/18/2024 07:44
+9d6f2e1d-c892-4653-8ac2-f44d0cbc6568,Rocket,Rocket #5563,06:00 AM - 10:00 PM PST,"UberEats, DoorDash, GrubHub",Inactive,12/16/2024 23:34,Inactive,12/17/2024 01:16,Inactive,12/16/2024 23:34
+387021fc-410c-4601-ac78-4a93c5e86a44,Rocket,Rocket #6101,04:30 AM - 11:00 PM MST,"UberEats, DoorDash, GrubHub",Inactive,01/22/2025 13:52,Inactive,01/14/2025 19:14,Inactive,02/27/2025 11:20
+dc64c926-eb7d-4f51-ae11-98f66b2e9844,Rocket,Rocket #6342,06:00 AM - 10:00 PM MST,"UberEats, DoorDash, GrubHub",Inactive,03/19/2025 12:23,Inactive,03/19/2025 12:24,Inactive,03/19/2025 12:23
 bde0cefb-7f23-42ca-b45f-c86e7a79df8b,Rocket,Rocket #6525,12:00 AM - 11:59 PM MST,UberEats,Inactive,05/04/2025 04:20,Active,03/01/2025 06:58,Active,12/18/2024 09:26
+eb7222ad-b805-4502-b836-e6e5557684f4,Rocket,Rocket #653,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,12/27/2024 16:22,Inactive,12/17/2024 01:36,Inactive,12/23/2024 13:52
 556ea970-211e-431e-b9f6-1d6277bd61f9,Rocket,Rocket #7963,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/25/2025 16:21,Inactive,04/25/2025 16:21,Inactive,04/25/2025 16:21
+78068890-b472-4fa1-82aa-af690358be7e,Rocket Fizz - 5250 International Dr,Rocket Fizz Orlando,01:30 PM - 08:15 PM EST,UberEats,Inactive,11/23/2024 22:16,Not Connected,,Not Connected,
+492464c8-5241-4ac8-b10a-021f421bd9d5,Rocket Fizz - 520 S Park Ave,Rocket Fizz Winter Park,11:00 AM - 09:00 PM EST,UberEats,Inactive,11/23/2024 11:00,Not Connected,,Not Connected,
+f14145f8-4a63-455b-8b81-c32af46bee6e,Rolluxxe Club,Rolluxxe Club,09:00 AM - 05:00 PM PST,"UberEats, DoorDash, GrubHub",Inactive,09/30/2024 01:06,Inactive,09/30/2024 01:06,Inactive,09/30/2024 01:06
+f20d6a27-2883-44d8-b4bb-0e1fc9c6c240,Roma Pizza,Roma Pizza,11:00 AM - 10:00 PM EST,UberEats,Inactive,01/23/2025 10:58,Not Connected,,Not Connected,
+a4361ec0-12cc-49e1-8ab4-e92e92a0eb8e,Robinson Oil Corporation,Rotten Robbie #1,06:00 AM - 10:30 PM PST,"UberEats, DoorDash, GrubHub",Inactive,11/02/2024 10:17,Inactive,11/02/2024 10:17,Inactive,11/02/2024 10:17
+97dc5918-3a82-44ef-9bfe-d634aed5a064,Robinson Oil Corporation,Rotten Robbie #27,06:00 AM - 11:00 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/04/2025 20:22,Inactive,04/04/2025 20:22,Inactive,04/04/2025 20:22
+72d012aa-e2f9-4e19-bf64-769391e25f40,Robinson Oil Corporation,Rotten Robbie #32,06:00 AM - 11:00 PM PST,"UberEats, DoorDash, GrubHub",Inactive,02/12/2025 09:13,Inactive,02/12/2025 09:13,Inactive,02/12/2025 09:13
+334d8a20-ff8e-4e34-9654-c7c9b7cd8c9d,Robinson Oil Corporation,Rotten Robbie #39,05:30 AM - 10:30 PM PST,"UberEats, DoorDash, GrubHub",Inactive,04/04/2025 20:22,Inactive,04/04/2025 20:22,Inactive,04/04/2025 20:22
+55428333-7f74-4fca-932a-d467e79be895,Robinson Oil Corporation,Rotten Robbie #4,06:00 AM - 10:00 PM PST,"UberEats, DoorDash, GrubHub",Inactive,08/06/2024 17:53,Inactive,08/06/2024 17:53,Inactive,08/06/2024 17:53
+063e1e12-5eb1-4c4f-b81b-07cd1175e570,Robinson Oil Corporation,Rotten Robbie #41,05:00 AM - 11:00 PM PST,"UberEats, DoorDash, GrubHub",Inactive,02/04/2025 15:15,Inactive,02/04/2025 15:15,Inactive,02/04/2025 15:15
+375f8ae8-c41e-4cad-8a20-2cfeb61aaa14,Robinson Oil Corporation,Rotten Robbie #45,05:00 AM - 11:00 PM PST,"UberEats, DoorDash, GrubHub",Inactive,07/25/2024 11:21,Inactive,07/25/2024 11:21,Inactive,07/25/2024 11:21
 92ce321b-b437-4c07-917e-64fd9f75b776,Robinson Oil Corporation,Rotten Robbie #46,05:00 AM - 11:00 PM PST,"UberEats, DoorDash, GrubHub",Inactive,05/05/2025 01:05,Inactive,05/05/2025 01:05,Inactive,05/05/2025 01:05
+efcbde8b-554b-4c6d-aafa-1ea4c7511b2c,Robinson Oil Corporation,Rotten Robbie #55,06:00 AM - 11:00 PM PST,"UberEats, DoorDash, GrubHub",Inactive,12/11/2024 09:37,Inactive,12/11/2024 09:37,Inactive,12/11/2024 09:37
+8ada14bf-a2aa-45bc-a54f-c99798976767,Robinson Oil Corporation,Rotten Robbie #69,12:00 AM - 11:59 PM PST,"UberEats, DoorDash, GrubHub",Inactive,07/25/2024 12:00,Inactive,07/25/2024 12:00,Inactive,07/25/2024 12:00
+fcd29a80-dbc7-42c3-95cd-086efc77d77a,Azan Petro,Royal Leaf Inc,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,03/16/2025 00:31,Inactive,09/11/2024 20:16,Not Connected,
+876f54ec-6f5a-4f36-b6bf-b90551dbfc07,Zara Inc, Rt 40 Carroll Fuel Mart,09:00 AM - 05:00 PM EST,"UberEats, DoorDash",Inactive,08/29/2024 10:28,Inactive,08/29/2024 10:28,Not Connected,
+aa58be03-eb32-449f-ac3f-8c920704b958,Route 7 Food Mart,Rt 7 Food Mart,06:00 AM - 10:59 PM EST,UberEats,Inactive,11/24/2024 08:00,Not Connected,,Not Connected,
+dbb1c3b2-10a0-41ec-96f1-f48d4a93bce3,Salt-And-Vinegar,Salt-And-Vinegar,Closed today,UberEats,Inactive,01/23/2025 11:08,Not Connected,,Not Connected,
+8d05424e-837f-4405-aae0-add885f7aec9,Sandri Energy,Sandri - Ascutney Sunoco,05:00 AM - 08:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,10/30/2024 10:29,Inactive,10/30/2024 10:29,Inactive,10/30/2024 10:29
+f7826bf3-77d1-4ff2-96a7-cad3a56be7e8,Sandri Energy,Sandri - Center Rutland Sunoco,05:00 AM - 09:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,08/09/2024 12:28,Inactive,08/09/2024 12:28,Inactive,08/09/2024 12:28
+143733a2-fbc9-4d60-8a17-1f3bb7a9b6a1,Sandri Energy,Sandri - Ludlow Sunoco,06:00 AM - 11:00 PM EST,"UberEats, GrubHub",Inactive,08/09/2024 13:19,Not Connected,,Inactive,08/09/2024 13:19
+5175dfa5-dfd2-4a2f-80ea-7bdc9c61faba,Sandri Energy,Sandri - Putney Sunoco,12:00 AM - 11:59 PM EST,"UberEats, GrubHub",Inactive,08/09/2024 13:22,Not Connected,,Inactive,08/09/2024 13:22
+6eba6f36-595b-4f25-aed4-badeed6895b9,Sandri Energy,Sandri - StopSmart,12:00 AM - 11:59 PM EST,"DoorDash, GrubHub",Not Connected,,Inactive,08/09/2024 12:28,Inactive,08/09/2024 12:28
+262fd001-1dc8-4b51-9d7c-a709f951c69a,KA Enterprises,SAN MARCOS SHELL,06:00 AM - 05:00 PM PST,"UberEats, DoorDash, GrubHub",Inactive,03/26/2025 09:28,Inactive,03/26/2025 09:28,Inactive,03/26/2025 09:28
+1fe3d6b9-6041-44fa-95b7-2230c6bdfb11,Quick Filling Inc,Save More - Wabash Ave,07:00 AM - 10:59 PM EST,UberEats,Inactive,04/23/2025 21:39,Not Connected,,Not Connected,
+9a659d03-4d0c-404f-b08f-0a8e99a74c48,American Petroleum and,SBA Liquor & Gas,05:30 AM - 11:30 PM PST,"UberEats, DoorDash",Inactive,02/10/2025 18:16,Inactive,02/10/2025 18:16,Not Connected,
+ea2da00f-2843-451b-b87a-a0b6af9c4349,Scott's Fine Wine & Spirits,Scott's Fine Wine & Spirits,09:00 AM - 10:00 PM EST,UberEats,Inactive,02/17/2025 12:14,Not Connected,,Not Connected,
+bcc585e1-0317-48cd-b00e-23c0810b67fd,Chokshi Group,Sea Shell Foodmart,09:00 AM - 05:00 PM EST,"UberEats, DoorDash",Inactive,02/18/2025 06:31,Inactive,02/18/2025 06:31,Not Connected,
+1fe6d4d5-66de-4c2f-a2c1-8d219a539872,Paresh Chain,Seaside Wine & Spirits,09:00 AM - 08:30 PM EST,"UberEats, DoorDash, GrubHub",Inactive,10/10/2024 23:15,Inactive,10/10/2024 23:15,Inactive,10/10/2024 23:15
+0f4811ec-e9c0-491f-ac45-15e41502bd75,National 2 Oil,Shell - 110 E Layton Ave.,12:00 AM - 11:59 PM CST,UberEats,Inactive,02/17/2025 12:19,Not Connected,,Not Connected,
+7adf5740-8a7d-4c3d-a7e9-98522fd4a3b0,Shell Food Mart #940,Shell Food Mart #940 - Forsyth,07:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/22/2024 00:09,Inactive,02/28/2025 17:32,Inactive,02/28/2025 17:32
+3ad93a4a-7d98-49d0-800d-2c41679e1c90,Shell Patterson Food Mart,Shell Patterson Food Mart,12:00 AM - 11:59 PM EST,UberEats,Inactive,03/30/2025 23:56,Not Connected,,Not Connected,
+c713fcd2-1f00-4862-a74d-8f4033f55037,Shell Revere,Shell Revere,06:30 AM - 10:30 PM EST,UberEats,Inactive,11/23/2024 06:30,Not Connected,,Not Connected,
+c2e5c49f-5e26-472a-b253-c66bfcc7f5a8,Shop The King,Shop The King,08:00 AM - 04:00 PM EST,UberEats,Inactive,01/23/2025 11:09,Not Connected,,Not Connected,
+7ad882fe-5604-4b3f-b071-34293206255b,,Silverspring Service Station,05:00 AM - 09:59 PM EST,UberEats,Inactive,02/02/2025 05:32,Not Connected,,Not Connected,
+84e75b9e-df7d-4c83-a5e8-8f10d735d504,Simsbury Quick Mart,Simsbury shell,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/25/2024 00:00,Not Connected,,Not Connected,
+105e401d-0b65-4974-99b6-5067772b672e,Skyline BP,Skyline BP,09:00 AM - 05:00 PM EST,"UberEats, DoorDash",Inactive,08/02/2024 03:33,Inactive,08/02/2024 03:33,Not Connected,
+36536db2-2780-4a2d-b4d6-c5fbb4bbd036,Skyview Mart,Skyview Mart,09:00 AM - 05:00 PM EST,"UberEats, DoorDash",Inactive,08/29/2024 12:43,Inactive,08/29/2024 12:43,Not Connected,
+47803860-be50-4ec7-8417-06f0617e3526,Fairlakes Exxon,Sleepy Hollow Exxon,12:00 AM - 11:59 PM EST,UberEats,Inactive,01/23/2025 11:11,Not Connected,,Not Connected,
+4d0473ad-ccb1-4cee-bfeb-6cd3aece81f9,Smoke N Vape,Smoke N Convenience,10:00 AM - 12:30 AM EST,UberEats,Inactive,11/22/2024 00:51,Not Connected,,Not Connected,
+af114967-c551-4bde-9d61-75c89090085d,Washington St. Market,Snack Attack #10,Closed today,"UberEats, DoorDash, GrubHub",Inactive,10/16/2024 15:52,Inactive,10/16/2024 15:52,Inactive,10/16/2024 15:52
+fd3b792e-143e-4ff8-8f5d-7b1e446e510d,Beer Central,Snack Attack - Nacogdoches Rd,08:00 AM - 11:00 PM CST,"UberEats, DoorDash, GrubHub",Inactive,09/11/2024 20:16,Inactive,09/11/2024 20:16,Inactive,09/11/2024 20:16
+1866dde8-e1aa-4926-9dd1-3a7fac400798,MS Mart LLC,Snack & Go Convenience Store,10:00 AM - 11:44 PM CST,"UberEats, DoorDash, GrubHub",Inactive,01/02/2025 22:44,Inactive,01/02/2025 22:45,Inactive,01/02/2025 22:44
+ba7bac1e-ecb7-4e37-b05f-6c6db6ebae70,Washington St. Market,Snack Haven #6,Closed today,UberEats,Inactive,02/22/2025 19:04,Not Connected,,Not Connected,
+bb8c161b-cb2d-4300-9c55-da5107af995a,Sonny's Citgo,Sonny's Citgo,09:00 AM - 09:00 PM EST,UberEats,Inactive,11/21/2024 20:31,Not Connected,,Not Connected,
+555e7120-c644-4344-b9af-c5b2df1fdd4c,Southbury Quick Mart,Southbury Quick Mart,09:00 AM - 11:00 PM EST,UberEats,Inactive,11/21/2024 22:31,Not Connected,,Not Connected,
+fe3482ea-776e-4e2c-b669-70f907d78be9,South Eastern Convenience Stores,South Eastern Convenience Stores - 27 Quick Stop Market,No hours for today,"UberEats, DoorDash",Inactive,05/05/2025 00:32,Inactive,11/19/2024 13:31,Not Connected,
+1e26a87e-8298-4888-90d0-f6b9b106060a,South Eastern Convenience Stores,South Eastern Convenience Stores - Linwood Market,12:00 AM - 11:59 PM CST,"UberEats, DoorDash",Inactive,08/27/2024 10:49,Inactive,12/29/2024 08:17,Not Connected,
+f5331404-9321-411c-a659-6d3271d5d619,South Eastern Convenience Stores,South Eastern Convenience Stores - West End Market,No hours for today,"UberEats, DoorDash",Inactive,10/09/2024 15:33,Inactive,10/09/2024 15:33,Not Connected,
 9cd23ca5-956c-402a-ae70-5432705cdf8d,South Eastern Convenience Stores,South Willow Market,12:00 AM - 11:59 PM CST,"UberEats, DoorDash",Inactive,01/14/2025 01:33,Inactive,01/14/2025 01:33,Active,01/27/2025 11:59
+c0cfbfd0-890e-4d31-8f35-ead6415b1893,Speedy's Food Mart #2,Speedy's Food Mart #2,08:00 AM - 09:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,08/13/2024 20:20,Inactive,08/13/2024 20:20,Inactive,08/13/2024 20:20
+8867a225-79d1-4385-bb48-f9818b57db76,Star Variety,Star Variety,07:00 AM - 08:30 PM EST,UberEats,Inactive,11/24/2024 08:00,Not Connected,,Not Connected,
+ff422764-5f0e-4c1e-9b38-245736698ac3,Lone Star Food Stores,Stir Ups - 1842 FM 407,10:00 AM - 09:00 PM CST,UberEats,Inactive,02/17/2025 12:21,Not Connected,,Not Connected,
+5d4e23ef-3045-492a-b4be-f35e6f9f6037,Jacksons Food Stores,Store 9999,09:00 AM - 11:59 PM MDT,"UberEats, DoorDash, GrubHub",Inactive,07/24/2024 13:27,Inactive,07/24/2024 13:27,Inactive,07/24/2024 13:27
+08154190-2ffc-42c6-bc26-8f59609033b0,Street Corner Urban Market Metro at Main,Street Corner Urban Market Culdesac,09:30 AM - 08:00 PM MST,"UberEats, DoorDash, GrubHub",Inactive,10/11/2024 12:53,Inactive,10/11/2024 12:53,Inactive,10/11/2024 12:53
+09621132-b9e5-495b-b95b-ebc1e5a4c7af,Street Corner Urban Market The Plaza,Street Corner Urban Market - La Jolla,09:00 AM - 08:00 PM PST,"UberEats, DoorDash, GrubHub",Inactive,10/16/2024 13:01,Inactive,10/16/2024 08:48,Inactive,10/16/2024 08:48
 16895378-d09a-40c2-aee5-dfcb6ea9d4a2,Street Corner Urban Market Metro at Main,Street Corner Urban Market Metro at Main,07:00 AM - 09:45 PM PST,UberEats,Inactive,05/05/2025 00:47,Active,02/17/2025 18:10,Active,07/24/2024 14:06
+45469a32-2a37-4b98-b852-243f03d3a96d,Street Corner Urban Market SC164 Oceanside,Street Corner Urban Market Oceanside,08:00 AM - 09:00 PM PST,UberEats,Inactive,11/21/2024 20:56,Not Connected,,Not Connected,
 f4c8cd5e-595f-475d-8e43-388e07621996,Street Corner Urban Market Metro at Main,Street Corner Urban Market Rockaway Townsquare,10:00 AM - 08:00 PM EST,UberEats,Inactive,05/04/2025 18:01,Active,07/24/2024 13:08,Active,07/24/2024 13:08
+cd689f27-e927-467d-a772-2fc40fb20f2b,SMC Fuels - 6 stores,Street Road Sunoco,06:00 AM - 10:00 PM EST,UberEats,Inactive,11/22/2024 07:00,Not Connected,,Not Connected,
+d1860f21-ced4-44da-84f8-2cb7f582ce8a,Suburban Gas Mart,Suburban Gas Mart,06:00 AM - 10:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,10/10/2024 23:15,Inactive,04/14/2025 13:00,Inactive,10/10/2024 23:15
+872c180b-af56-4a41-8c3b-2ad4684da985,Sunny's Valero,Sunny's Fairmont Valero,06:00 AM - 11:00 PM CST,UberEats,Inactive,04/24/2025 12:36,Not Connected,,Not Connected,
+47abf1db-a3d7-4888-94b2-dd61e7a562e4,Sunoco A+,Sunoco A+,06:00 AM - 09:00 PM EST,UberEats,Inactive,01/23/2025 11:04,Not Connected,,Not Connected,
+08087e00-d844-49e9-b181-4e5080fa2aa1,Dunco Inc.,Sunoco Aplus - Albany Shaker Rd,09:00 AM - 05:00 PM EST,UberEats,Inactive,03/30/2025 17:24,Not Connected,,Not Connected,
+1a1bae7a-958b-4dd2-9aa3-fa959552ca8b,Sunoco Stop-N-Go,Sunoco Stop-N-Go,07:00 AM - 11:00 PM EST,UberEats,Inactive,01/23/2025 11:09,Not Connected,,Not Connected,
+42a6f5b7-71dc-4d75-a491-a87f6144d5b6,Sunoco Swainsboro,Sunoco Swainsboro,06:00 AM - 11:59 PM EST,UberEats,Inactive,01/23/2025 11:02,Not Connected,,Not Connected,
+e9ac1306-e494-4859-8580-02e8a0dbb6bc,,Sunoco (York and Pleasant Valley),12:00 AM - 11:59 PM EST,UberEats,Inactive,05/05/2025 00:31,Not Connected,,Not Connected,
+12bdfdee-069f-4a8d-a135-5746cc2733d1,Sunshine Foodmart,Sunshine Foodmart,Closed today,UberEats,Inactive,08/29/2024 12:43,Not Connected,,Not Connected,
+36a164f1-e537-407b-8d73-b13c8a2f24b7,Super 7 Food Market,Super 7 Food Market,08:00 AM - 09:00 PM EST,UberEats,Inactive,02/17/2025 12:20,Not Connected,,Not Connected,
+eb8b7d54-e3b5-4335-84ab-5c0439373b2a,Supershell Food Mart,Supershell Food Mart,Closed today,UberEats,Inactive,08/29/2024 12:42,Not Connected,,Not Connected,
+827eda9e-f46b-4720-87d8-e9abfb5b57f8,"Center Independent Energy, L.P. (Sweet Pea's)",Sweet Peas #01,Closed today,"UberEats, DoorDash, GrubHub",Inactive,09/24/2024 11:06,Inactive,09/24/2024 11:06,Inactive,09/24/2024 11:06
+fdbdef62-cc7a-4ec7-b453-8662e6fbede1,"Center Independent Energy, L.P. (Sweet Pea's)",Sweet Peas #02,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,07/29/2024 11:26,Inactive,07/29/2024 11:26,Inactive,07/29/2024 11:26
+81b815ba-0c46-449a-8940-a3fa26f003ff,"Center Independent Energy, L.P. (Sweet Pea's)",Sweet Peas #06,09:00 AM - 05:00 PM EST,"UberEats, GrubHub",Inactive,07/29/2024 11:27,Not Connected,,Inactive,07/29/2024 11:27
+dd70bf09-af46-4b53-80ff-3ef0c5ce8bab,"Center Independent Energy, L.P. (Sweet Pea's)",Sweet Peas #19,09:00 AM - 05:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,10/08/2024 10:58,Inactive,10/08/2024 10:58,Inactive,10/08/2024 10:58
+0639dfd4-1d36-4d71-861f-c6104b9d781d,"Center Independent Energy, L.P. (Sweet Pea's)",Sweet Peas #23,05:00 AM - 10:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,07/26/2024 22:11,Inactive,07/26/2024 22:11,Inactive,07/26/2024 22:11
+6f6d6b5f-3f61-46c6-8ed6-207c3cf3f8ae,"Center Independent Energy, L.P. (Sweet Pea's)",Sweet Peas #26,09:00 AM - 05:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,10/17/2024 08:56,Inactive,10/17/2024 08:56,Inactive,10/17/2024 08:56
+9e5ef2ce-b582-4832-b9b9-07130294ff31,Swiss Farms,Swiss Farms - Brookhaven,07:00 AM - 10:00 PM EST,DoorDash,Not Connected,,Inactive,04/23/2025 08:21,Not Connected,
+0b25460c-4790-457b-b89a-6e81e63a1e5c,Swiss Farms,Swiss Farms - Broomall,07:00 AM - 10:00 PM EST,"UberEats, DoorDash",Inactive,05/05/2025 08:31,Inactive,04/23/2025 08:22,Not Connected,
+4874756a-9e58-41b3-b3ad-8142415cc6ad,Swiss Farms,Swiss Farms - Clifton Heights,07:00 AM - 10:00 PM EST,"UberEats, DoorDash",Inactive,05/05/2025 08:31,Inactive,04/23/2025 08:22,Not Connected,
+a6646d90-cf99-4b71-8900-f322c8cad336,Swiss Farms,Swiss Farms - Drexel Hill,07:00 AM - 10:00 PM EST,DoorDash,Active,05/05/2025 08:58,Inactive,05/05/2025 08:31,Not Connected,
+5b1bbf2f-73dd-4bfc-ba1e-0dd9f83927ba,Farm Stores,Swiss Farms (Farm Stores),07:00 AM - 09:00 PM EST,"UberEats, DoorDash",Inactive,11/23/2024 20:31,Inactive,02/06/2025 17:23,Not Connected,
+200a3ce1-5354-47b8-baf1-29b7b118258c,Swiss Farms,Swiss Farms - Folsom,07:00 AM - 10:00 PM EST,DoorDash,Active,05/05/2025 08:51,Inactive,04/23/2025 08:24,Not Connected,
+b4f04c2b-e415-448e-827a-c5f06c7d9546,Swiss Farms,Swiss Farms - Havertown,07:00 AM - 10:00 PM EST,DoorDash,Active,05/05/2025 08:58,Inactive,04/23/2025 08:24,Not Connected,
+a8da4dab-5817-4f57-a9f3-65f8a40197ed,Swiss Farms,Swiss Farms - Milmont,07:00 AM - 10:00 PM EST,DoorDash,Active,05/05/2025 08:56,Inactive,04/23/2025 08:24,Not Connected,
+f31c7fc1-e3b4-4a09-b33e-f684cc2a19e1,Swiss Farms,Swiss Farms - Sharon Hill,07:00 AM - 10:00 PM EST,DoorDash,Active,05/05/2025 08:56,Inactive,04/23/2025 08:25,Not Connected,
+fe867b89-d333-44c2-96b2-39e1d9075a56,Swiss Farms,Swiss Farms - Springfield,07:00 AM - 10:00 PM EST,DoorDash,Active,05/05/2025 08:51,Inactive,04/23/2025 08:25,Not Connected,
+6c69e500-2e59-45bf-a498-641a33410cd4,Swiss Farms,Swiss Farms - Swarthmore,07:00 AM - 10:00 PM EST,DoorDash,Active,05/05/2025 08:58,Inactive,04/23/2025 08:26,Not Connected,
+686a1ffd-cfad-4323-9625-726f842c5ede,NSR Petro,Taneytown Sunoco ,12:00 AM - 10:00 PM EST,UberEats,Inactive,05/04/2025 00:31,Not Connected,,Not Connected,
+48cd5770-c33c-4cd8-b986-b69275d03024,Priya Food Mart,Tariz Food Mart,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/21/2024 17:13,Not Connected,,Not Connected,
+fb4af96f-124e-4f2c-b3a9-17031414dc84,Tarzana Wine & Spirits,Tarzana Wine & Spirits,09:30 AM - 08:00 PM PST,UberEats,Inactive,01/23/2025 11:02,Not Connected,,Not Connected,
+85af4064-8012-4df7-9247-1df1432a154c,Taylor Quik Pik,Taylor Quik Pik,12:00 AM - 11:59 PM CST,"UberEats, DoorDash",Inactive,11/04/2024 10:34,Inactive,11/04/2024 10:34,Not Connected,
+5d1af793-f7bf-4a42-b5a3-a7e9747af8d0,Tealtown Exxon,Tealtown Exxon,07:00 AM - 09:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,08/31/2024 16:37,Inactive,01/16/2025 17:03,Inactive,08/31/2024 16:37
+1d4b7068-45fb-479d-885f-b629d1926b86,DB LIQUOR (Tejas Liquor),Tejas Liquor,10:00 AM - 08:38 PM CST,UberEats,Inactive,04/23/2025 15:38,Not Connected,,Not Connected,
+54ba8d68-bc5c-4088-9c53-1bea50adfd14,,Telegraph - Exxon,Closed today,UberEats,Inactive,11/23/2024 08:23,Not Connected,,Not Connected,
+714c5aee-612a-4641-acc2-5375ab4faec9,Lula Commerce 1,test 1,09:00 AM - 05:00 PM EST,DoorDash,Not Connected,,Inactive,10/31/2024 08:27,Not Connected,
+2e0dde85-88ee-4c60-8846-5ea6f979d0f7,Munchies Fort Collins,The Candy Shop Fort Collins,12:00 AM - 11:59 PM MST,"UberEats, DoorDash, GrubHub",Inactive,09/13/2024 07:45,Inactive,01/05/2025 23:17,Inactive,09/13/2024 07:45
+22da4995-570a-439b-9ae9-31567b574cc9,Munchies Greeley,The Candy Shop Greeley,Closed today,"UberEats, DoorDash",Inactive,09/13/2024 07:46,Inactive,09/13/2024 07:46,Not Connected,
+bd843579-17e0-417c-aea3-8b447734c3bb,Munchies Loveland,The Candy Shop Loveland,12:00 AM - 11:59 PM MST,"UberEats, DoorDash, GrubHub",Inactive,09/13/2024 08:08,Inactive,09/13/2024 08:08,Inactive,09/13/2024 08:08
+478ab85e-c702-4d4a-ac5e-753cad0b92a9,Dam Store,The Dam Store,06:00 AM - 10:00 PM EST,UberEats,Inactive,01/23/2025 11:08,Not Connected,,Not Connected,
+4b9c6a5a-8366-417a-9d9c-83e2529de72c,Munchies Fort Collins,The Ice Cream Truck Fort Collins,12:00 AM - 11:59 PM MST,"UberEats, DoorDash, GrubHub",Inactive,09/13/2024 07:45,Inactive,01/06/2025 17:21,Inactive,09/13/2024 07:45
+be031278-078c-4776-ad61-198df9d18ec6,Munchies Greeley,The Ice Cream Truck Greeley,12:00 AM - 11:59 PM MST,"UberEats, DoorDash",Inactive,08/29/2024 12:44,Inactive,08/29/2024 12:44,Not Connected,
+9022ed57-ae2d-4836-b043-5cd4ab750cbf,Munchies Loveland,The Ice Cream Truck Loveland,12:00 AM - 11:59 PM MST,"UberEats, DoorDash, GrubHub",Inactive,08/29/2024 10:39,Inactive,08/29/2024 10:39,Inactive,08/29/2024 10:39
+3326dfff-e872-4b5a-b412-39f2f8857dfb,The Jug Shop,The Jug Shop,Closed today,"UberEats, DoorDash, GrubHub",Inactive,10/10/2024 23:12,Inactive,10/10/2024 23:12,Inactive,10/10/2024 23:12
+e396891c-6e2c-420d-a814-d7512ea27946,The RoadRunners Danbury,The RoadRunners Danbury,05:00 AM - 11:00 PM EST,UberEats,Inactive,03/27/2025 14:21,Not Connected,,Not Connected,
+bd30e223-c429-4e0f-9ef5-6f54f2009acc,Exxon Tiger Mart,Tiger Mart #17,06:00 AM - 11:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,12/27/2024 08:45,Inactive,12/27/2024 08:45,Inactive,12/27/2024 08:45
+fa006e27-3844-4f02-b1bb-d30104b1c2ef,Exxon Tiger Mart,Tiger Mart #18,06:00 AM - 11:00 PM EST,"UberEats, GrubHub",Inactive,08/14/2024 15:55,Not Connected,,Inactive,11/04/2024 10:37
+a7df7883-82b1-40f3-8afe-18a41c21e9b8,Moazzam Ventures,Tiger Mart - Eastern Blvd,Closed today,"UberEats, DoorDash",Inactive,04/29/2025 01:10,Inactive,07/25/2024 08:20,Not Connected,
+d9affbcc-3672-4e83-a249-bd095f61d09d,Sheraz Petroleum,Tiger Mart - Falls Rd,Closed today,"UberEats, DoorDash",Inactive,04/29/2025 01:02,Inactive,08/29/2024 10:16,Not Connected,
+c1d48ef6-8a97-4b8e-8c04-b03854744a40,Exxon Tiger Mart,Tiger Mart (Sunny),09:00 AM - 05:00 PM EST,"UberEats, GrubHub",Inactive,08/12/2024 16:51,Not Connected,,Inactive,12/16/2024 13:54
+366643d5-f6c0-43b9-8d24-4263e9d83036,,To Go Valero,09:00 AM - 08:00 PM EST,UberEats,Inactive,11/21/2024 22:18,Not Connected,,Not Connected,
+87270fe4-3edd-4771-a7ef-791411446bdb,Washington St. Market,Tokyo Treats #7,Closed today,"UberEats, DoorDash, GrubHub",Inactive,10/09/2024 07:15,Inactive,10/09/2024 07:15,Inactive,10/09/2024 07:15
+5638f625-c7f6-4993-9235-577c52ec116b,Top Stop Stores,Top Stop Stores - Holladay,06:00 AM - 10:00 PM MST,UberEats,Inactive,01/23/2025 11:06,Not Connected,,Not Connected,
+0bc0f4a3-4ae3-45d5-bf60-eb18e5f2a1c7,Top Stop Stores,Top Stop Stores - Murray,06:00 AM - 10:00 PM MST,UberEats,Inactive,01/23/2025 11:00,Not Connected,,Not Connected,
+aec9719d-f6d3-4d77-ae49-9fa0cc039880,Top Stop Stores,Top Stop Stores - Roosevelt,06:00 AM - 10:00 PM MST,UberEats,Inactive,01/23/2025 11:11,Not Connected,,Not Connected,
+8ad97171-3182-40fb-ba10-7043cd4eb806,Top Stop Stores,Top Stop Stores - Salt Lake,06:00 AM - 10:00 PM MST,UberEats,Inactive,01/23/2025 10:59,Not Connected,,Not Connected,
+4b2b1251-7a27-4879-9e20-1fa599b964ac,Top Stop Stores,Top Stop Stores - Saratoga Springs,06:00 AM - 10:00 PM MST,UberEats,Inactive,01/23/2025 11:08,Not Connected,,Not Connected,
+57bde2a4-1f32-427b-ba20-65aba943a720,TPS,TPS,12:00 AM - 11:59 PM EST,UberEats,Inactive,03/30/2025 21:37,Not Connected,,Not Connected,
+3ea5cd1c-8929-41ae-879c-0e9827c1430d,Borland gas,Trailside Gas & Grocery,06:30 AM - 08:30 PM EDT,"UberEats, DoorDash, GrubHub",Inactive,08/23/2024 06:35,Inactive,08/23/2024 06:35,Inactive,08/23/2024 06:35
+98454d83-bdea-4e5c-833a-14c980ebef9c,Trumbull Foodmart,Trumbull Foodmart,12:00 AM - 11:59 PM EST,UberEats,Inactive,10/10/2024 15:55,Not Connected,,Not Connected,
+8ba15dd2-1f26-495b-a62b-ca88ad2de2c7,Trumbull Super Stop,Trumbull Super Stop,05:00 AM - 11:00 PM EST,UberEats,Inactive,11/23/2024 23:30,Not Connected,,Not Connected,
+fc2207f0-2c70-40fe-9afc-13435a2d2df9,Tubz Route Inc DBA Tubz Smoke N Grub,Tubz Smoke N Grub,12:00 AM - 11:59 PM EST,UberEats,Inactive,01/23/2025 11:06,Not Connected,,Not Connected,
+1ea02507-7709-4a92-afcf-e6dd687f8e51,Ultra Fuel,Ultra Fuel,07:00 AM - 10:00 PM EST,UberEats,Inactive,01/23/2025 11:11,Not Connected,,Not Connected,
+8b2b00a8-6088-4108-b46b-0d840e8487b8,NSR Petro,Urban Market Sunoco Landover,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/21/2024 20:21,Inactive,11/21/2024 20:21,Inactive,11/21/2024 20:21
+5c99a9a0-b824-478a-9c06-5208c334c6e6,Urban Value Corner Store,Urban Value Corner Store - Carolyn,07:30 AM - 09:30 PM CST,"UberEats, DoorDash, GrubHub",Inactive,08/12/2024 20:35,Inactive,08/12/2024 20:35,Inactive,08/12/2024 20:35
+ff771a22-2f6a-4e21-9940-87e8495be33c,Urban Value Corner Store,Urban Value Corner Store - Legacy West,08:00 AM - 09:00 PM CST,"UberEats, DoorDash, GrubHub",Inactive,11/22/2024 00:42,Inactive,02/28/2025 14:54,Inactive,02/28/2025 14:54
+aafe3db9-8071-4c3a-a94e-f3d0be0c8a68,Urban Value Corner Store,Urban Value Corner Store - Parkside,07:00 AM - 09:00 PM CST,"UberEats, DoorDash, GrubHub",Inactive,11/21/2024 10:01,Inactive,02/28/2025 14:54,Inactive,02/28/2025 14:54
+188dc1e0-93eb-4d8c-ac08-4a37c423ee1d,Urban Value Corner Store,Urban Value Corner Store - The Riley,08:00 AM - 08:30 PM CST,"UberEats, DoorDash, GrubHub",Inactive,11/21/2024 20:35,Inactive,02/28/2025 14:53,Inactive,02/28/2025 14:53
+f4756252-bd1e-4f5a-a058-75b6fcb19499,H&V Gas Inc,USA Express,06:00 AM - 11:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,12/04/2024 11:50,Inactive,01/03/2025 12:50,Inactive,01/03/2025 12:50
 51baee3e-b456-45ae-8a86-88938c5a208a,Valero Food Mart,Valero Food Mart,06:00 AM - 11:00 PM EST,UberEats,Inactive,05/04/2025 07:00,Active,11/13/2024 22:27,Active,07/25/2024 21:37
+4dc2239b-e26a-4526-a027-23e6403c3680,Kirkwood Market,Valero Kirkwood Market,12:00 AM - 11:59 PM EST,UberEats,Inactive,11/24/2024 00:00,Not Connected,,Not Connected,
+4a6cc19d-01db-4017-8d23-388e88b42af0,,Vandyke Shell,05:00 AM - 11:00 PM EST,UberEats,Inactive,03/31/2025 00:34,Not Connected,,Not Connected,
+89490b8f-7c9e-439b-bc29-86b31a96cf4e,Variety Store,Variety Store,09:00 AM - 09:00 PM EST,UberEats,Inactive,02/17/2025 12:20,Not Connected,,Not Connected,
+24cb047b-b267-488a-93f1-631a0f139b12,Kanta Oil LLC dba Vibrant Express,Vibrant Express,12:00 AM - 11:59 PM EST,UberEats,Inactive,01/23/2025 11:00,Not Connected,,Not Connected,
+8f77406e-4cb7-4c50-8c6f-28769a2ecbe8,Sunrise Convenience,Village Knoll Deli & Spirits,06:00 AM - 09:00 PM EST,UberEats,Inactive,01/23/2025 11:06,Not Connected,,Not Connected,
+9ec35103-7978-4ce8-989d-4ba4f5604dc5,MS Oil,Waco Grocery,10:00 AM - 09:00 PM EST,UberEats,Inactive,11/21/2024 21:02,Not Connected,,Not Connected,
+ae69d862-2460-4f1b-9af1-3b25366dc8ca,Waldi's Discount Liquor,Waldi's Discount Liquor,09:30 AM - 09:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,01/06/2025 17:43,Inactive,01/06/2025 17:44,Inactive,01/06/2025 17:43
+f38787f6-be07-4186-b23a-609d83a20fb8,Wendell Smith Liquors,Wendell Smith Liquor's,08:00 AM - 09:00 PM CST,"UberEats, DoorDash, GrubHub",Inactive,11/21/2024 19:52,Inactive,03/03/2025 12:51,Inactive,03/03/2025 12:51
+e629400a-d410-42b5-9a99-9ef603bbd1fa,West Fork Markets,West Fork Market & Grill - Shell Gas Station,05:00 AM - 08:00 PM CST,"UberEats, DoorDash, GrubHub",Inactive,08/09/2024 13:16,Inactive,08/09/2024 13:16,Inactive,08/09/2024 13:16
+5acdda08-9487-4b2f-afb7-e2498705e5cd,East End Marketing,Westhampton Beach Valero,09:00 AM - 11:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,11/22/2024 22:31,Inactive,02/24/2025 08:40,Inactive,02/24/2025 08:40
+08654866-d260-46a9-9054-49b993a0e1c8,Sunoco,Westshore Sunoco,09:00 AM - 11:30 PM EST,UberEats,Inactive,02/17/2025 12:21,Not Connected,,Not Connected,
+05aef3ec-74cf-4bc7-a4ed-2fdbb255cf93,Alicieia Inc,Westview Sunoco,12:00 AM - 11:59 PM EST,"UberEats, DoorDash, GrubHub",Inactive,08/29/2024 10:37,Inactive,08/29/2024 10:37,Inactive,08/29/2024 10:37
+e6b8fb23-b191-4b80-8a6b-7da376176bed,Wine World Outlet,Wine World Outlet,10:00 AM - 10:00 PM EST,"UberEats, DoorDash",Inactive,11/21/2024 21:31,Inactive,02/04/2025 07:48,Not Connected,
+491cde72-4743-4562-a13a-b1cf2501e53a,GENERAL MERCANTILE FOODS,Winzz Gas N' Goods (General Mercantile Foods),07:00 AM - 09:00 PM EST,UberEats,Inactive,04/24/2025 12:40,Not Connected,,Not Connected,
+29ed518f-2246-4271-b965-3819aede564c,Wise Ave Inc,Wise Ave CMF,06:00 AM - 11:00 PM EST,UberEats,Inactive,01/23/2025 11:00,Not Connected,,Not Connected,
+dab2e27d-788e-422e-877c-c356c3990fc4,EMN Inc.,Woodcraft CMF,06:00 AM - 11:00 PM EST,UberEats,Inactive,01/23/2025 11:02,Not Connected,,Not Connected,
+a1ccd002-487b-4713-8f41-732a8d42872f,Woodfin Pit Stop,Woodfin Pit Stop #542,06:00 AM - 10:00 PM EST,UberEats,Inactive,01/23/2025 11:09,Not Connected,,Not Connected,
+551b958f-bf24-4380-8b78-a340936c3ef7,Woodfin Pit Stop,Woodfin Pit Stop #543,05:00 AM - 11:00 PM EST,"UberEats, DoorDash, GrubHub",Inactive,07/24/2024 12:44,Inactive,07/24/2024 12:44,Inactive,07/24/2024 12:44
+4535fceb-8018-46f1-a6b0-eef3c9ec46d2,Woodfin Pit Stop,Woodfin Pit Stop #553,06:00 AM - 11:00 PM EST,UberEats,Inactive,01/23/2025 11:07,Not Connected,,Not Connected,
+285b1892-1ead-4087-a35d-1b00699f8849,Woodfin Pit Stop,Woodfin Pit Stop #556,05:00 AM - 10:00 PM EST,UberEats,Inactive,01/23/2025 11:06,Not Connected,,Not Connected,
+652c1e1b-ffb4-49ca-8a18-a3cda2d6fec8,Woodfin Pit Stop,Woodfin Pit Stop #568,06:00 AM - 10:00 PM EST,UberEats,Inactive,01/23/2025 11:01,Not Connected,,Not Connected,
+49190b24-82f9-4c11-abad-032b0ac9e14a,Woodfin Pit Stop,Woodfin Pit Stop #586,06:00 AM - 11:00 PM EST,UberEats,Inactive,01/23/2025 11:00,Not Connected,,Not Connected,
+369390c6-cbae-47c0-acdd-f10b276f8e08,Rouf & Sons Inc,Woodlawn Sunoco,12:00 AM - 11:59 PM EST,"UberEats, DoorDash",Inactive,08/29/2024 10:38,Inactive,08/29/2024 10:38,Not Connected,
+4f7b6bad-2c87-441d-b456-af418b82f78e,Wooster Pike Shell,Wooster Pike Shell,06:00 AM - 10:00 PM EST,UberEats,Inactive,01/23/2025 11:01,Not Connected,,Not Connected,
 8e0641d7-0783-424b-b0fc-35394586c767,WOW! Kitchen & Gas,WOW! Kitchen & Gas - Brownstown,06:00 AM - 11:59 PM EDT,"UberEats, DoorDash",Inactive,02/24/2025 08:50,Inactive,02/24/2025 08:50,Active,02/25/2025 08:55
+5ffe9a86-af1a-4640-98f4-b98a6c6b89cb,WOW! Kitchen & Gas,WOW! Kitchen & Gas - Clarkston,06:00 AM - 11:00 PM EDT,UberEats,Inactive,11/24/2024 07:00,Not Connected,,Not Connected,
+7e4e1370-df36-41f2-864a-162da3dc246b,WOW! Kitchen & Gas,WOW! Kitchen & Gas - Lake Orion,06:00 AM - 11:00 PM EDT,"UberEats, DoorDash, GrubHub",Inactive,02/24/2025 07:31,Inactive,02/24/2025 08:51,Inactive,09/25/2024 11:58
+af22b2fe-457f-49b0-80e8-98396da7f540,WOW! Kitchen & Gas,WOW! Kitchen & Gas - Trenton,06:00 AM - 11:59 PM EDT,"UberEats, DoorDash, GrubHub",Inactive,08/01/2024 18:29,Inactive,08/01/2024 18:29,Inactive,08/01/2024 18:29
 ca43dd8f-6720-4e94-8d80-e713e10f2566,WOW! Kitchen & Gas,WOW! Kitchen & Gas - Walled Lake,05:00 AM - 11:59 PM EDT,"UberEats, DoorDash",Inactive,02/24/2025 08:51,Inactive,02/24/2025 08:51,Active,02/25/2025 08:55
+fdee5984-77e5-46ed-a5b0-75287f17d32d,WOW! Kitchen & Gas,WOW! Kitchen & Gas - West Bloomfield,Closed today,"UberEats, DoorDash, GrubHub",Inactive,05/05/2025 00:31,Inactive,07/25/2024 23:45,Inactive,07/25/2024 23:45
+7867e70a-dff7-4c30-8aa8-39be9a9d888f,WOW! Kitchen & Gas,WOW! Kitchen & Gas - Wyandotte,06:00 AM - 11:59 PM EDT,"UberEats, DoorDash, GrubHub",Inactive,08/02/2024 06:34,Inactive,08/02/2024 06:34,Inactive,08/02/2024 06:34
+04e88591-1617-419b-ab87-d2252caad327,Xpress Mart,Xpress Mart,06:30 AM - 10:30 PM EST,UberEats,Inactive,02/17/2025 12:21,Not Connected,,Not Connected,
+f0f391e9-e84f-43bb-b475-607fe168b642,"One Energy, Inc.",Zoom Mart - Brighton,Closed today,UberEats,Inactive,03/30/2025 20:02,Not Connected,,Not Connected,
+3f419f3a-d619-4ac4-94e6-65981e9c3532,Zoom Trip Citgo,Zoom Trip Citgo,Closed today,UberEats,Inactive,11/21/2024 08:55,Not Connected,,Not Connected,
+13835cc5-b70c-436e-a01e-e25cdb57f7fa,Zygma European Groceries & Deli,Zygma European Groceries and Deli Store,Closed today,UberEats,Inactive,11/23/2024 05:23,Not Connected,,Not Connected,
